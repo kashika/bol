@@ -1,0 +1,29 @@
+
+
+In the given query, the two datasets 'orders' and 'commission' are joined using two attributes-
+1.productCategory
+2.productBrand
+
+
+On analysis, i noticed that the gross profit is too high or too low because the commission table has different values
+available for the same product category and brand, so the query will pull differnt commision values leading to discrepancy
+
+QUERY:
+---------------------------------------------------------------------
+SELECT
+  productBrand,
+  productCategory,
+  COUNT(commission) AS cnt_commission
+FROM
+  `bolcom_case_seed_data.bolcom-analytics-case-commission`
+GROUP BY
+  productBrand,
+  productCategory
+ORDER BY
+  COUNT(commission) DESC
+
+---------------------------------------------------------------------
+
+
+
+
