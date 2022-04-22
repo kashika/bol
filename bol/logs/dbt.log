@@ -1,0 +1,45 @@
+
+
+============================== 2022-04-10 12:33:45.367658 | 6ee2ca2c-b6a4-4e0c-8ab7-ad87abc639e8 ==============================
+12:33:45.367658 [info ] [MainThread]: Running with dbt=1.0.4
+12:33:45.368659 [debug] [MainThread]: running dbt with arguments Namespace(record_timing_info=None, debug=None, log_format=None, write_json=None, use_colors=None, printer_width=None, warn_error=None, version_check=None, partial_parse=None, single_threaded=False, use_experimental_parser=None, static_parser=None, profiles_dir='C:\\Users\\kashi\\.dbt', send_anonymous_usage_stats=None, fail_fast=None, event_buffer_size=None, project_dir=None, profile=None, target=None, vars='{}', log_cache_events=False, project_name='bol', skip_profile_setup=False, defer=None, state=None, cls=<class 'dbt.task.init.InitTask'>, which='init', rpc_method=None)
+12:33:45.369658 [debug] [MainThread]: Tracking: tracking
+12:33:45.383662 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A25502FA60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A25502F910>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A25502FC40>]}
+12:33:45.383662 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\kashi\.dbt
+12:33:45.384662 [debug] [MainThread]: Starter project path: C:\Users\kashi\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+12:35:06.129752 [info ] [MainThread]: Profile bol written to C:\Users\kashi\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+12:35:06.129752 [info ] [MainThread]: 
+Your new dbt project "bol" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+12:35:06.129752 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A255A5D510>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A255A5FFD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A255A5DE10>]}
+
+
+============================== 2022-04-10 12:57:59.927843 | ff9994f2-3874-4aac-b6c6-82613d028b88 ==============================
+12:57:59.927843 [info ] [MainThread]: Running with dbt=1.0.4
+12:57:59.928843 [debug] [MainThread]: running dbt with arguments Namespace(record_timing_info=None, debug=None, log_format=None, write_json=None, use_colors=None, printer_width=None, warn_error=None, version_check=None, partial_parse=None, single_threaded=False, use_experimental_parser=None, static_parser=None, profiles_dir='C:\\Users\\kashi\\.dbt', send_anonymous_usage_stats=None, fail_fast=None, event_buffer_size=None, project_dir=None, profile=None, target=None, vars='{}', log_cache_events=False, project_name='bol', skip_profile_setup=False, defer=None, state=None, cls=<class 'dbt.task.init.InitTask'>, which='init', rpc_method=None)
+12:57:59.928843 [debug] [MainThread]: Tracking: tracking
+12:57:59.944191 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CC18EE2A70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CC18EE3370>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CC18EE3E20>]}
+12:57:59.945444 [info ] [MainThread]: A project called bol already exists here.
+12:57:59.945444 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CC18F3F280>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CC18F3F7F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CC18F3F1C0>]}
+
+
+============================== 2022-04-10 15:02:53.484636 | 7f722c00-1284-4f9b-be32-ecdf1f611a34 ==============================
+15:02:53.484636 [info ] [MainThread]: Running with dbt=1.0.4
+15:02:53.484636 [debug] [MainThread]: running dbt with arguments Namespace(record_timing_info=None, debug=None, log_format=None, write_json=None, use_colors=None, printer_width=None, warn_error=None, version_check=None, partial_parse=None, single_threaded=False, use_experimental_parser=None, static_parser=None, profiles_dir='C:\\Users\\kashi\\.dbt', send_anonymous_usage_stats=None, fail_fast=None, event_buffer_size=None, project_dir=None, profile=None, target=None, vars='{}', log_cache_events=False, project_name=None, skip_profile_setup=False, defer=None, state=None, cls=<class 'dbt.task.init.InitTask'>, which='init', rpc_method=None)
+15:02:53.484636 [debug] [MainThread]: Tracking: tracking
+15:02:53.516275 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000296522992B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000029652299D90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000296522999D0>]}
+15:02:57.849707 [info ] [MainThread]: A project called bol already exists here.
+15:02:57.849707 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000296522A23A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000296522A24F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000296522A2370>]}

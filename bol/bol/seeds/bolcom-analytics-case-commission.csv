@@ -1,0 +1,3098 @@
+,productBrand,productCategory,commission
+0,PERNOD RICARD USA,,0.07
+1,GoAmericaGo Beverages LLC,Straight Rye Whiskies,0.06
+2,LUXCO INC,Triple Sec,0.32
+3,"Foundry Distilling Company, LLC",Corn Whiskies,0.27
+4,Diageo Americas,DECANTERS & SPECIALTY PACKAGES,0.24
+5,Luxco-St Louis,AMERICAN AMARETTO,0.23
+6,Luxco-St Louis,DISTILLED SPIRITS SPECIALTY,0.28
+7,Mississippi River Distilling Co.,STRAIGHT RYE WHISKIES,0.21
+8,OLE SMOKY DISTILLERY LLC,Neutral Grain Spirits Flavored,0.06
+9,Jim Beam Brands,Coffee Liqueurs,0.27
+10,Mccormick Distilling Company,100 PROOF VODKA,0.07
+11,MHW Ltd,SINGLE MALT SCOTCH,0.13
+12,Luxco-St Louis,TRIPLE SEC,0.04
+13,PERNOD RICARD USA,Coffee Liqueurs,0.3
+14,LUXCO INC,Imported Distilled Spirit Specialty,0.06
+15,Sazerac North America,MISCELLANEOUS SCHNAPPS,0.08
+16,SAZERAC NORTH AMERICA,,0.16
+17,Jim Beam Brands,DECANTERS & SPECIALTY PACKAGES,0.18
+18,Luxco-St Louis,BLACKBERRY BRANDIES,0.27
+19,Pernod Ricard USA/Austin Nichols,IRISH WHISKIES,0.06
+20,Pernod Ricard USA/Austin Nichols,DECANTERS & SPECIALTY PACKAGES,0.19
+21,BACARDI USA INC,Gold Rum,0.24
+22,Jim Beam Brands,Temporary &  Specialty Packages,0.07
+23,Jim Beam Brands,COFFEE LIQUEURS,0.24
+24,Infinium Spirits,Straight Rye Whiskies,0.26
+25,SAZERAC COMPANY  INC,Bottled in Bond Bourbon,0.3
+26,SAZERAC COMPANY  INC,Special Order Items,0.23
+27,"John Ernest Distillery, Inc.",Imported Distilled Spirit Specialty,0.12
+28,Jim Beam Brands,PEACH SCHNAPPS,0.26
+29,LUXCO INC,Neutral Grain Spirits,0.1
+30,Phillips Beverage Company,ROOT BEER SCHNAPPS,0.24
+31,Jim Beam Brands,MISCELLANEOUS SCHNAPPS,0.33
+32,Piedmont Distillers,DISTILLED SPIRITS SPECIALTY,0.3
+33,Jim Beam Brands,APPLE SCHNAPPS,0.32
+34,Diageo Americas,JAMAICA RUM,0.12
+35,Jim Beam Brands,Aged Dark Rum,0.1
+36,The Patron Spirits Company,COFFEE LIQUEURS,0.24
+37,PIEDMONT DISTILLERS INC,Neutral Grain Spirits Flavored,0.27
+38,Jim Beam Brands,Triple Sec,0.09
+39,Luxco-St Louis,RASPBERRY SCHNAPPS,0.31
+40,Brown Forman Corp.,Special Order Items,0.04
+41,Jim Beam Brands,WATERMELON SCHNAPPS,0.32
+42,"Constellation Wine Company, Inc.",PEACH BRANDIES,0.08
+43,JINRO AMERICA INC,Imported Distilled Spirit Specialty,0.2
+44,Jim Beam Brands,TRIPLE SEC,0.26
+45,CHATHAM IMPORTS INC,Straight Rye Whiskies,0.16
+46,Sazerac North America,DISTILLED SPIRITS SPECIALTY,0.17
+47,Luxco-St Louis,AMERICAN ALCOHOL,0.19
+48,SAZERAC NORTH AMERICA,Special Order Items,0.32
+49,Campari America,Special Order Items,0.17
+50,Jim Beam Brands,IRISH WHISKIES,0.23
+51,Jim Beam Brands,GRAPE SCHNAPPS,0.26
+52,"Sazerac Co., Inc.",DISTILLED SPIRITS SPECIALTY,0.29
+53,Luxco-St Louis,100 PROOF VODKA,0.26
+54,Luxco-St Louis,APRICOT BRANDIES,0.13
+55,DIAGEO AMERICAS,Straight Rye Whiskies,0.25
+56,"WILLIAM GRANT AND SONS, INC.",SINGLE MALT SCOTCH,0.05
+57,Pernod Ricard USA/Austin Nichols,COFFEE LIQUEURS,0.24
+58,LUXCO INC,American Sloe Gins,0.15
+59,LUXCO INC,Gold Rum,0.12
+60,Wilson Daniels Ltd.,STRAIGHT RYE WHISKIES,0.16
+61,MHW Ltd,BARBADOS RUM,0.15
+62,PERNOD RICARD USA,Single Malt Scotch,0.19
+63,"Moet Hennessy USA, Inc.",DECANTERS & SPECIALTY PACKAGES,0.12
+64,"Sazerac Co., Inc.",TROPICAL FRUIT SCHNAPPS,0.29
+65,Infinium Spirits,Iowa Distilleries,0.24
+66,Pernod Ricard USA/Austin Nichols,SINGLE MALT SCOTCH,0.12
+67,Sidney Frank Importing Co.,DECANTERS & SPECIALTY PACKAGES,0.15
+68,Infinium Spirits,Special Order Items,0.19
+69,"Sovereign Brands, LLC",Aged Dark Rum,0.08
+70,Heaven Hill Brands,APRICOT BRANDIES,0.12
+71,Campari America,Aged Dark Rum,0.13
+72,Prestige Wine and Spirits Group,DECANTERS & SPECIALTY PACKAGES,0.22
+73,CEDAR RIDGE VINEYARDS LL,Single Malt Scotch,0.04
+74,MOET HENNESSY USA,Single Malt Scotch,0.26
+75,"Bacardi U.S.A., Inc.",DECANTERS & SPECIALTY PACKAGES,0.17
+76,SAZERAC COMPANY  INC,Imported Distilled Spirit Specialty,0.18
+77,Heaven Hill Brands,DECANTERS & SPECIALTY PACKAGES,0.32
+78,"Sazerac Co., Inc.",CINNAMON SCHNAPPS,0.3
+79,MHW Ltd,DECANTERS & SPECIALTY PACKAGES,0.33
+80,SAZERAC COMPANY  INC,American Vodka,0.24
+81,Sazerac North America,BLACKBERRY BRANDIES,0.12
+82,"Mast-Jagermeister US, Inc",Imported Cordials & Liqueur,0.04
+83,SAZERAC NORTH AMERICA,Imported Distilled Spirit Specialty,0.21
+84,Jim Beam Brands,CINNAMON SCHNAPPS,0.09
+85,Phillips Beverage,Aged Dark Rum,0.14
+86,MISSISSIPPI RIVER DISTIL,,0.23
+87,SAZERAC COMPANY  INC,Triple Sec,0.33
+88,SAZERAC COMPANY  INC,Temporary &  Specialty Packages,0.09
+89,Jim Beam Brands,BUTTERSCOTCH SCHNAPPS,0.31
+90,YAHARA BAY DISTILLERS INC,Special Order Items,0.04
+91,"Yahara Bay Distillers, Inc",MISCELLANEOUS  BRANDIES,0.07
+92,Brown-Forman Corporation,DECANTERS & SPECIALTY PACKAGES,0.17
+93,Castle Brands,DECANTERS & SPECIALTY PACKAGES,0.32
+94,Jim Beam Brands,Special Order Items,0.27
+95,Heaven Hill Brands,,0.23
+96,"Moet Hennessy USA, Inc.",SINGLE MALT SCOTCH,0.04
+97,S&B Farms Distillery,American Distilled Spirit Specialty,0.24
+98,SAZERAC NORTH AMERICA,Triple Sec,0.16
+99,Infinium Spirits,American Distilled Spirit Specialty,0.2
+100,BACARDI USA INC,,0.1
+101,"American Heritage Distillers, LLC",American Distilled Spirit Specialty,0.16
+102,Campari America,Imported Cordials & Liqueur,0.08
+103,Mississippi River Distilling Co.,COFFEE LIQUEURS,0.29
+104,Western Spirits Beverage Co. LLC,DECANTERS & SPECIALTY PACKAGES,0.12
+105,"Sazerac Co., Inc.",DECANTERS & SPECIALTY PACKAGES,0.04
+106,Brown Forman Corp.,Straight Rye Whiskies,0.08
+107,Sazerac North America,DECANTERS & SPECIALTY PACKAGES,0.13
+108,SAZERAC COMPANY  INC,,0.09
+109,E & J Gallo Winery,,0.22
+110,PROXIMO,,0.3
+111,DIAGEO AMERICAS,Temporary &  Specialty Packages,0.33
+112,Campari(skyy),,0.06
+113,DUNKEL CORPORATION / Iowa Distilling,Neutral Grain Spirits,0.29
+114,William Grant & Sons Inc,Single Malt Scotch,0.2
+115,CONSTELLATION BRANDS INC,,0.26
+116,SAZERAC COMPANY  INC,Aged Dark Rum,0.04
+117,DIAGEO AMERICAS,,0.18
+118,Disaronno International LLC,IMPORTED AMARETTO,0.24
+119,Jim Beam Brands,ROOT BEER SCHNAPPS,0.12
+120,"Cedar Ridge Vineyards,LLC",MISCELLANEOUS  BRANDIES,0.25
+121,Luxco-St Louis,PEACH SCHNAPPS,0.07
+122,Castle Brands,BARBADOS RUM,0.04
+123,Edrington Group USA LLC,Single Malt Scotch,0.31
+124,Bad Bear Enterprises,DISTILLED SPIRITS SPECIALTY,0.12
+125,Gunsandmore.info,DISTILLED SPIRITS SPECIALTY,0.13
+126,YAHARA BAY DISTILLERS INC,,0.26
+127,DUNKEL CORPORATION / Iowa Distilling,American Distilled Spirit Specialty,0.29
+128,E & J Gallo Winery,American Cordials & Liqueurs,0.29
+129,Jim Beam Brands,Single Barrel Bourbon Whiskies,0.15
+130,Heaven Hill Brands,Bottled in Bond Bourbon,0.28
+131,SAZERAC COMPANY  INC,Imported Cordials & Liqueur,0.19
+132,Fredrick Wildman & Son,Special Order Items,0.15
+133,Proximo,IRISH WHISKIES,0.31
+134,Disaronno International LLC,,0.03
+135,"Green Frog Distillery, LLC",Corn Whiskies,0.09
+136,YAHARA BAY DISTILLERS INC,Imported Distilled Spirit Specialty,0.05
+137,Luxco-St Louis,AMERICAN SLOE GINS,0.31
+138,Phillips Beverage Company,BLACKBERRY BRANDIES,0.16
+139,MISA Imports Inc,Imported Vodka,0.28
+140,"Yahara Bay Distillers, Inc",SINGLE MALT SCOTCH,0.3
+141,FOUR ROSES DISTILLERY,Single Barrel Bourbon Whiskies,0.29
+142,Sugarlands Distilling Company LLC,American Distilled Spirit Specialty,0.08
+143,PERNOD RICARD USA,Imported Distilled Spirit Specialty,0.22
+144,S&B Farmstead Distillery,American Distilled Spirit Specialty,0.21
+145,Jim Beam Brands,Bottled in Bond Bourbon,0.32
+146,Jim Beam Brands,TROPICAL FRUIT SCHNAPPS,0.07
+147,Campari America,Gold Rum,0.1
+148,Western Spirits Beverage Co. LLC,DISTILLED SPIRITS SPECIALTY,0.15
+149,McCormick Distilling Co.,American Distilled Spirit Specialty,0.07
+150,MOET HENNESSY USA,,0.04
+151,E & J Gallo Winery,Single Malt Scotch,0.13
+152,Sazerac North America,TRIPLE SEC,0.16
+153,MISSISSIPPI RIVER DISTIL,Bottled in Bond Bourbon,0.33
+154,Diageo Americas,STRAIGHT RYE WHISKIES,0.19
+155,CEDAR RIDGE VINEYARDS LL,,0.05
+156,Heaven Hill Brands,American Distilled Spirit Specialty,0.22
+157,JINRO AMERICA INC,Special Order Items,0.08
+158,Luxco-St Louis,SPEARMINT SCHNAPPS,0.17
+159,SAZERAC NORTH AMERICA,Gold Rum,0.29
+160,Heaven Hill Brands,Special Order Items,0.07
+161,R�my Cointreau USA,,0.08
+162,Jim Beam Brands,Straight Rye Whiskies,0.2
+163,Windy Hill Spirits,DISTILLED SPIRITS SPECIALTY,0.07
+164,"Cedar Ridge Vineyards,LLC",IRISH WHISKIES,0.17
+165,PERNOD RICARD USA,Special Order Items,0.12
+166,REMY COINTREAU USA         .,DECANTERS & SPECIALTY PACKAGES,0.24
+167,DIAGEO AMERICAS,Aged Dark Rum,0.12
+168,Phillips Beverage Company,APRICOT BRANDIES,0.31
+169,DIAGEO AMERICAS,Special Order Items,0.32
+170,CEDAR RIDGE VINEYARDS LL,Straight Rye Whiskies,0.14
+171,"Cedar Ridge Vineyards,LLC",STRAIGHT RYE WHISKIES,0.31
+172,Diageo Americas,100 PROOF VODKA,0.3
+173,SAZERAC NORTH AMERICA,American Sloe Gins,0.1
+174,"Sazerac Co., Inc.",STRAIGHT RYE WHISKIES,0.29
+175,CONSTELLATION BRANDS INC,Temporary &  Specialty Packages,0.24
+176,Campari America,Bottled in Bond Bourbon,0.25
+177,Mhw LTD,Flavored Gin,0.31
+178,Wilson Daniels Ltd.,,0.04
+179,"Constellation Wine Company, Inc.",APRICOT BRANDIES,0.16
+180,Prestige Wine and Spirits Group,MISCELLANEOUS SCHNAPPS,0.12
+181,Pernod Ricard USA/Austin Nichols,TRIPLE SEC,0.22
+182,BACARDI USA INC,Aged Dark Rum,0.05
+183,Sazerac North America,AMERICAN AMARETTO,0.14
+184,ARTISAN GRAIN DISTILLERY,Aged Dark Rum,0.28
+185,E & J Gallo Winery,Temporary &  Specialty Packages,0.3
+186,"M.S. Walker, Inc.",LOW PROOF VODKA,0.19
+187,PROXIMO,American Vodka,0.15
+188,Jim Beam Brands,RASPBERRY SCHNAPPS,0.1
+189,DIAGEO AMERICAS,American Vodka,0.0
+190,Heaven Hill Brands,BOTTLED IN BOND BOURBON,0.1
+191,Luxco-St Louis,DECANTERS & SPECIALTY PACKAGES,0.31
+192,LUXCO INC,Straight Rye Whiskies,0.21
+193,CEDAR RIDGE VINEYARDS LL,Iowa Distillery Whiskies,0.27
+194,Heaven Hill Brands,MISCELLANEOUS  BRANDIES,0.28
+195,JDSO INC / Red Boot Distillery,American Distilled Spirit Specialty,0.22
+196,STOLI GROUP,Imported Distilled Spirit Specialty,0.21
+197,Laird & Company,American Vodka,0.29
+198,PERNOD RICARD USA,Mezcal,0.07
+199,"WILLIAM GRANT AND SONS, INC.",IRISH WHISKIES,0.21
+200,Charles Jacquin Et Cie,Special Order Items,0.05
+201,3 BADGE CORPORATION,Flavored Gin,0.05
+202,PROXIMO,Imported Vodka,0.0
+203,FIFTH GENERATION INC,American Vodka,0.11
+204,LUXCO INC,American Vodka,0.16
+205,MISSISSIPPI RIVER DISTIL,Straight Rye Whiskies,0.04
+206,Jim Beam Brands,SINGLE MALT SCOTCH,0.29
+207,3 BADGE CORPORATION,Aged Dark Rum,0.32
+208,W J Deutsch & Sons LTD,Gold Rum,0.2
+209,"Foundry Distilling Company, LLC",American Distilled Spirit Specialty,0.2
+210,Jim Beam Brands,,0.03
+211,Skyy Spirits Inc,American Distilled Spirit Specialty,0.3
+212,Campari(skyy),DECANTERS & SPECIALTY PACKAGES,0.15
+213,SAZERAC NORTH AMERICA,American Vodka,0.21
+214,"Constellation Wine Company, Inc.",MISCELLANEOUS  BRANDIES,0.18
+215,BACARDI USA INC,Mezcal,0.13
+216,Mhw LTD,Temporary &  Specialty Packages,0.29
+217,Wilson Daniels Ltd.,DECANTERS & SPECIALTY PACKAGES,0.32
+218,Proximo,DECANTERS & SPECIALTY PACKAGES,0.23
+219,Jim Beam Brands,MISCELLANEOUS  BRANDIES,0.08
+220,McCormick Distilling Co.,Special Order Items,0.33
+221,"O&R Ventures, LLC",American Distilled Spirit Specialty,0.33
+222,Luxco-St Louis,CHERRY BRANDIES,0.13
+223,Pernod Ricard USA/Austin Nichols,FLAVORED GINS,0.24
+224,"Sazerac Co., Inc.",TRIPLE SEC,0.11
+225,GoAmericaGo Beverages LLC / WhistlePig,Straight Rye Whiskies,0.16
+226,McCormick Distilling Co.,American Vodka,0.0
+227,Jim Beam Brands,Delisted Items,0.0
+228,CONSTELLATION BRANDS INC,Imported Vodka,0.16
+229,PERNOD RICARD USA,Imported Vodka,0.0
+230,Heaven Hill Brands,American Vodka,0.0
+231,BACARDI USA INC,Special Order Items,0.1
+232,Skyy Spirits Inc,,0.25
+233,"Mast-Jagermeister US, Inc",,0.29
+234,Brown-Forman Corporation,,0.26
+235,PROXIMO,Temporary &  Specialty Packages,0.28
+236,DIAGEO AMERICAS,Imported Vodka,0.0
+237,E & J Gallo Winery,Special Order Items,0.05
+238,"Ole Smoky Distillery, LLC",DISTILLED SPIRITS SPECIALTY,0.26
+239,Heaven Hill Brands,Straight Rye Whiskies,0.13
+240,McCormick Distilling Co.,Temporary  & Specialty Packages,0.24
+241,Mhw LTD,Mezcal,0.05
+242,SAZERAC COMPANY  INC,Coffee Liqueurs,0.31
+243,PROXIMO,Special Order Items,0.23
+244,Park Street Imports,,0.31
+245,"Yahara Bay Distillers, Inc",IRISH WHISKIES,0.28
+246,Campari America,Single Barrel Bourbon Whiskies,0.18
+247,LUXCO INC,,0.13
+248,Prestige Wine & Spirits Group,Special Order Items,0.18
+249,CONSTELLATION BRANDS INC,Straight Rye Whiskies,0.16
+250,BACARDI USA INC,Imported Vodka,0.0
+251,Mhw LTD,Imported Cordials & Liqueur,0.09
+252,Duggan's Distillers Products Corp,DECANTERS & SPECIALTY PACKAGES,0.29
+253,E & J Gallo Winery,American Vodka,0.0
+254,Brown Forman Corp.,Bottled in Bond Bourbon,0.12
+255,DUNKEL CORPORATION / Iowa Distilling,Straight Rye Whiskies,0.29
+256,Heaven Hill Brands,Temporary &  Specialty Packages,0.3
+257,MISSISSIPPI RIVER DISTIL,American Distilled Spirit Specialty,0.29
+258,PROXIMO,Cocktails / RTD,0.36
+259,William Grant & Sons Inc,Delisted Items,0.45
+260,MISSISSIPPI RIVER DISTIL,Temporary &  Specialty Packages,0.24
+261,Heaven Hill Brands,Single Barrel Bourbon Whiskies,0.19
+262,The Patron Spirits Company,DECANTERS & SPECIALTY PACKAGES,0.23
+263,REMY COINTREAU USA INC,Gold Rum,0.07
+264,Luxco-St Louis,STRAWBERRY SCHNAPPS,0.31
+265,"American Heritage Distillers, LLC",Single Barrel Bourbon Whiskies,0.06
+266,Gemini Spirits,Cocktails / RTD,0.13
+267,REMY COINTREAU USA INC,Special Order Items,0.14
+268,"Ole Smoky Distillery, LLC",DECANTERS & SPECIALTY PACKAGES,0.33
+269,Mhw LTD,Special Order Items,0.04
+270,Park Street Imports,Imported Cordials & Liqueur,0.12
+271,PROXIMO,Mezcal,0.15
+272,PIEDMONT DISTILLERS INC,Neutral Grain Spirits,0.15
+273,Campari(skyy),JAMAICA RUM,0.28
+274,Brown Forman Corp.,,0.21
+275,Wilderness Trail Distillery,Bottled in Bond Bourbon,0.17
+276,BAD BEAR ENTERPRISES LLC / Legendary Rye,American Distilled Spirit Specialty,0.18
+277,Gemini Spirits,JAMAICA RUM,0.15
+278,Jim Beam Brands,Single Malt Scotch,0.29
+279,BACARDI USA INC,Temporary &  Specialty Packages,0.11
+280,Jim Beam Brands,Imported Vodka,0.0
+281,Phillips Beverage Company,MISCELLANEOUS SCHNAPPS,0.27
+282,"Sazerac Co., Inc.",,0.14
+283,R�my Cointreau USA,BARBADOS RUM,0.24
+284,"Foundry Distilling Company, LLC",Temporary &  Specialty Packages,0.29
+285,Prestige Wine & Spirits Group,American Cordials & Liqueurs,0.0
+286,Mississippi River Distilling Co.,DISTILLED SPIRITS SPECIALTY,0.31
+287,LUXCO INC,Imported Distilled Spirits Specialty,0.51
+288,LUXCO INC,American Cordials & Liqueurs,0.0
+289,REMY COINTREAU USA INC,Single Malt Scotch,0.19
+290,COOPER SPIRITS INTERNATIONAL,Straight Rye Whiskies,0.17
+291,GUNSANDMORE INFO LLC,American Distilled Spirit Specialty,0.32
+292,"Moet Hennessy USA, Inc.",,0.19
+293,"Cedar Ridge Vineyards,LLC",DECANTERS & SPECIALTY PACKAGES,0.24
+294,DIAGEO AMERICAS,Imported Cordials & Liqueur,0.26
+295,Disaronno International LLC,DECANTERS & SPECIALTY PACKAGES,0.13
+296,Edrington Group USA LLC,Special Order Items,0.07
+297,Heaven Hill Brands,PEACH BRANDIES,0.2
+298,LUXCO INC,Special Order Items,0.22
+299,Wilson Daniels Ltd.,IRISH WHISKIES,0.09
+300,DUNKEL CORPORATION,American Distilled Spirit Specialty,0.07
+301,Heaven Hill Brands,STRAIGHT RYE WHISKIES,0.04
+302,BAD BEAR ENTERPRISES LLC,American Distilled Spirit Specialty,0.1
+303,WILSON DANIELS LTD,American Vodka,0.16
+304,BAD BEAR ENTERPRISES LLC,Straight Rye Whiskies,0.18
+305,W J Deutsch & Sons LTD,Imported Distilled Spirit Specialty,0.29
+306,Campari America,Straight Rye Whiskies,0.06
+307,Prestige Wine & Spirits Group / United States Distilled Products Co,Flavored Gin,0.18
+308,SAZERAC NORTH AMERICA,Delisted Items,0.0
+309,Shaw-Ross International,Special Order Items,0.24
+310,PROST BEVERAGE COMPANY,American Distilled Spirit Specialty,0.08
+311,Jim Beam Brands,STRAIGHT RYE WHISKIES,0.24
+312,Luxco-St Louis,BUTTERSCOTCH SCHNAPPS,0.15
+313,Patron Spirits Company,Coffee Liqueurs,0.05
+314,Jim Beam Brands,American Cordials & Liqueurs,0.0
+315,E and J Gallo Winery,MISCELLANEOUS  BRANDIES,0.3
+316,"Worldwide Libations, LLC",Cocktails / RTD,0.29
+317,DAVOS BRANDS LLC,Mezcal,0.21
+318,Phillips Beverage,American Vodka,0.39
+319,Phillips Beverage Company,TRIPLE SEC,0.05
+320,SAZERAC NORTH AMERICA,Mezcal,0.25
+321,CEDAR RIDGE VINEYARDS LL,Aged Dark Rum,0.18
+322,Cats Eye Distillery,American Distilled Spirit Specialty,0.03
+323,Stoli Group,DECANTERS & SPECIALTY PACKAGES,0.11
+324,Fifth Generation Inc.,100 PROOF VODKA,0.33
+325,Iowa Distilling Company,AMERICAN ALCOHOL,0.2
+326,W J Deutsch & Sons LTD,Special Order Items,0.34
+327,BMC Imports,Special Order Items,0.17
+328,MISSISSIPPI RIVER DISTIL,American Cordials & Liqueurs,0.22
+329,William Grant & Sons Inc,Special Order Items,0.29
+330,SAZERAC COMPANY  INC,American Sloe Gins,0.12
+331,"Bacardi U.S.A., Inc.",JAMAICA RUM,0.08
+332,REMY COINTREAU USA         .,BARBADOS RUM,0.22
+333,MISSISSIPPI RIVER DISTIL,Neutral Grain Spirits Flavored,0.12
+334,SAZERAC COMPANY  INC,American Cordials & Liqueurs,0.27
+335,SAZERAC NORTH AMERICA,Cocktails / RTD,0.46
+336,Heaven Hill Brands,DISTILLED SPIRITS SPECIALTY,0.3
+337,Skyy Spirits Inc,Special Order Items,0.04
+338,Park Street Imports,Special Order Items,0.19
+339,Laird And Company,100 PROOF VODKA,0.1
+340,DUNKEL CORPORATION,Straight Rye Whiskies,0.48
+341,REMY COINTREAU USA         .,,0.27
+342,Levecke Corporation,Gold Rum,0.16
+343,BRECKENRIDGE DISTILLERY,Special Order Items,0.31
+344,Fetzer Vineyards,Straight Rye Whiskies,0.33
+345,Pernod Ricard USA/Austin Nichols,JAPANESE WHISKY,0.19
+346,Old Elk Distilleries LLC,Single Barrel Bourbon Whiskies,0.21
+347,BACARDI USA INC,Imported Distilled Spirit Specialty,0.2
+348,Piedmont Distillers,DECANTERS & SPECIALTY PACKAGES,0.28
+349,Mccormick Distilling Company,DECANTERS & SPECIALTY PACKAGES,0.2
+350,"Sazerac Co., Inc.",AMERICAN AMARETTO,0.29
+351,"Imperial Brands, Inc.",DECANTERS & SPECIALTY PACKAGES,0.13
+352,Swiss Cellars,SINGLE MALT SCOTCH,0.13
+353,SAZERAC COMPANY  INC,American Distilled Spirits Specialty,0.04
+354,Skyy Spirits Inc,American Vodka,0.13
+355,LUXCO INC,Cocktails / RTD,0.33
+356,Castle Brands,Special Order Items,0.3
+357,Revelton Distilling Company,Flavored Gin,0.29
+358,Jim Beam Brands,BLACKBERRY BRANDIES,0.3
+359,Prost Beverage Company,DISTILLED SPIRITS SPECIALTY,0.05
+360,DUNKEL CORPORATION,Iowa Distillery Whiskies,0.1
+361,MISSISSIPPI RIVER DISTIL,Iowa Distilleries,0.15
+362,Luxco-St Louis,GREEN CREME DE MENTHE,0.19
+363,Diageo Americas,,0.13
+364,PERNOD RICARD USA,Flavored Gin,0.12
+365,Prestige Wine and Spirits Group,,0.29
+366,Luxco-St Louis,WHITE CREME DE CACAO,0.13
+367,Prost Beverage Company,,0.09
+368,Lonely Oak Distillery,Single Barrel Bourbon Whiskies,0.31
+369,E AND J GALLO WINERY,BARBADOS RUM,0.36
+370,"Sazerac Co., Inc.",COFFEE LIQUEURS,0.15
+371,Campari(skyy),STRAIGHT RYE WHISKIES,0.18
+372,SAZERAC NORTH AMERICA,American Distilled Spirit Specialty,0.04
+373,Pernod Ricard USA/Austin Nichols,,0.22
+374,Brown-Forman Corporation,BOTTLED IN BOND BOURBON,0.13
+375,Paterno Imports LTD,,0.29
+376,"Constellation Wine Company, Inc.",,0.17
+377,Jim Beam Brands,STRAWBERRY SCHNAPPS,0.28
+378,Cooper's Chase Distillery,100 PROOF VODKA,0.29
+379,Sazerac North America,100 PROOF VODKA,0.13
+380,"Caribbean Distillers, LLC",American Distilled Spirit Specialty,0.31
+381,Shaw Ross International Importers LL,BARBADOS RUM,0.06
+382,Mhw LTD,,0.06
+383,Gemini Spirits,Special Order Items,0.09
+384,Dehner Distillery,AMERICAN ALCOHOL,0.07
+385,Pernod Ricard USA/Austin Nichols,DISTILLED SPIRITS SPECIALTY,0.19
+386,MISSISSIPPI RIVER DISTIL,Coffee Liqueurs,0.14
+387,"Sazerac Co., Inc.",SINGLE BARREL BOURBON WHISKIES,0.09
+388,Park Street Imports,Imported Distilled Spirit Specialty,0.3
+389,Brown Forman Corp.,Single Barrel Bourbon Whiskies,0.19
+390,Laird & Company,Special Order Items,0.03
+391,"American Heritage Distillers, LLC / Century Farms Distillery",Corn Whiskies,0.16
+392,SERRALLES USA,Special Order Items,0.27
+393,"American Heritage Distillers, LLC / Century Farms Distillery",American Distilled Spirit Specialty,0.24
+394,LUXCO INC,Coffee Liqueurs,0.14
+395,"American Heritage Distillers, LLC",Corn Whiskies,0.17
+396,STOLI GROUP,Special Order Items,0.23
+397,Phillips Beverage,Special Order Items,0.21
+398,Topa Spirits,Imported Distilled Spirits Specialty,0.13
+399,RUSSIAN STANDARD VODKA,Special Order Items,0.28
+400,DUNKEL CORPORATION,Neutral Grain Spirits,0.06
+401,CONSTELLATION BRANDS INC,Imported Distilled Spirit Specialty,0.07
+402,Luxco-St Louis,PEACH BRANDIES,0.21
+403,Sazerac North America,APRICOT BRANDIES,0.24
+404,Paterno Imports LTD,Special Order Items,0.3
+405,Luxco-St Louis,DARK CREME DE CACAO,0.09
+406,MHW Ltd,DISTILLED SPIRITS SPECIALTY,0.3
+407,Diageo Americas,SINGLE MALT SCOTCH,0.07
+408,Heaven Hill Brands,COFFEE LIQUEURS,0.29
+409,"William Grant and Sons, Inc.",,0.05
+410,Diageo Americas,OTHER PROOF VODKA,0.08
+411,DIAGEO AMERICAS,Single Malt Scotch,0.23
+412,"William Grant and Sons, Inc.",SINGLE MALT SCOTCH,0.16
+413,Campari(skyy),SINGLE MALT SCOTCH,0.09
+414,REMY COINTREAU USA INC,American Distilled Spirits Specialty,0.1
+415,DEHNER DISTILLERY,Neutral Grain Spirits,0.28
+416,Luxco-St Louis,COFFEE LIQUEURS,0.11
+417,Luxco-St Louis,ANISETTE,0.27
+418,Luxco-St Louis,MISCELLANEOUS  BRANDIES,0.23
+419,Jim Beam Brands,LOW PROOF VODKA,0.31
+420,Edrington Group USA LLC,SINGLE MALT SCOTCH,0.16
+421,Prestige Wine and Spirits Group,IRISH WHISKIES,0.19
+422,SAZERAC COMPANY  INC,Single Barrel Bourbon Whiskies,0.07
+423,Gemini Spirits,DISTILLED SPIRITS SPECIALTY,0.09
+424,Skyy Spirits Inc,Gold Rum,0.28
+425,"maDIKwe USA, Inc.",DISTILLED SPIRITS SPECIALTY,0.07
+426,Phillips Beverage Company,BUTTERSCOTCH SCHNAPPS,0.11
+427,E AND J GALLO WINERY,MISCELLANEOUS  BRANDIES,0.3
+428,Luxco-St Louis,WHITE CREME DE MENTHE,0.03
+429,Heaven Hill Brands,Coffee Liqueurs,0.04
+430,Phillips Beverage Company,DECANTERS & SPECIALTY PACKAGES,0.1
+431,Mhw LTD,Gold Rum,0.24
+432,Blaum Bros. Distilling Co.,DISTILLED SPIRITS SPECIALTY,0.22
+433,HOTALING & CO,Special Order Items,0.15
+434,Sazerac North America,APPLE SCHNAPPS,0.14
+435,Heaven Hill Brands,Aged Dark Rum,0.11
+436,Sazerac North America,ROCK & RYE,0.18
+437,Phillips Beverage Company,CINNAMON SCHNAPPS,0.33
+438,Mccormick Distilling Company,DISTILLED SPIRITS SPECIALTY,0.06
+439,Dry Fly Distilling,DISTILLED SPIRITS SPECIALTY,0.14
+440,Sazerac North America,,0.3
+441,Diageo Americas,MISCELLANEOUS SCHNAPPS,0.33
+442,Infinium Spirits,,0.32
+443,Dehner Distillery,100 PROOF VODKA,0.07
+444,MHW Ltd,TROPICAL FRUIT SCHNAPPS,0.2
+445,Valentine Distilling Co.,,0.32
+446,Laird And Company,MISCELLANEOUS  BRANDIES,0.27
+447,E and J Gallo Winery,PEACH BRANDIES,0.3
+448,High West Distillery,STRAIGHT RYE WHISKIES,0.21
+449,"Constellation Wine Company, Inc.",DECANTERS & SPECIALTY PACKAGES,0.14
+450,Park Street Imports,Corn Whiskies,0.06
+451,"Bacardi U.S.A., Inc.",,0.03
+452,MHW Ltd,JAMAICA RUM,0.3
+453,HOTALING & CO,,0.24
+454,"WILDMAN AND SONS, F.",AMARETTO - IMPORTED,0.05
+455,Pernod Ricard USA/Austin Nichols,WHITE CREME DE CACAO,0.09
+456,Niche Import Co.,MISCELLANEOUS  BRANDIES,0.27
+457,Clear Creek Distillery,MISCELLANEOUS  BRANDIES,0.14
+458,Prestige Wine & Spirits Group,,0.3
+459,Luxco-Cleveland,CREME DE ALMOND,0.09
+460,Kobrand Corporation,COFFEE LIQUEURS,0.04
+461,"Charles Jacquin Et. Cie., Inc.",BLACKBERRY BRANDIES,0.23
+462,Park Street Imports,Mezcal,0.13
+463,Cooperspiritsinternational,ROCK & RYE,0.28
+464,"Cedar Ridge Vineyards,LLC",SINGLE BARREL BOURBON WHISKIES,0.18
+465,E AND J GALLO WINERY,APRICOT BRANDIES,0.16
+466,E AND J GALLO WINERY,PEACH BRANDIES,0.05
+467,Shaw Ross International Importers LL,DISTILLED SPIRITS SPECIALTY,0.26
+468,SAZERAC COMPANY  INC,Neutral Grain Spirits Flavored,0.24
+469,Patron Spirits Company,Special Order Items,0.13
+470,Luxco-St Louis,CREME DE ALMOND,0.08
+471,FRANK LIN DISTILLERS PRO,,0.19
+472,Jim Beam Brands,DARK CREME DE CACAO,0.31
+473,"Worldwide Libations, LLC",,0.08
+474,Luxco-Cleveland,100 PROOF VODKA,0.26
+475,MADIKWE USA INC,American Distilled Spirit Specialty,0.27
+476,McCormick Distilling Co.,American Distilled Spirits Specialty,0.18
+477,Castle Brands,,0.1
+478,Gemini Spirits,,0.1
+479,The Patron Spirits Company,,0.21
+480,STE MICHELLE WINE ESTATES,Special Order Items,0.17
+481,Serralles USA,DECANTERS & SPECIALTY PACKAGES,0.04
+482,Jim Beam Brands,American Vodka,0.14
+483,Trinchero Family Estates,DECANTERS & SPECIALTY PACKAGES,0.09
+484,Heaven Hill Brands,SINGLE BARREL BOURBON WHISKIES,0.15
+485,"Moet Hennessy USA, Inc.",BARBADOS RUM,0.19
+486,Pernod Ricard USA/Austin Nichols,BLACKBERRY BRANDIES,0.16
+487,"WILDMAN AND SONS, F.",SINGLE MALT SCOTCH,0.12
+488,Castle Brands,JAMAICA RUM,0.24
+489,"WILLIAM GRANT AND SONS, INC.",BARBADOS RUM,0.06
+490,OLE SMOKY DISTILLERY LLC,,0.03
+491,Kobrand Corp,Special Order Items,0.1
+492,"San Luis Spirits, Inc.",Special Order Items,0.05
+493,"Whyte and Machay(Americas) Limited,L",SINGLE MALT SCOTCH,0.24
+494,"Palm Bay Imports, Inc.",COFFEE LIQUEURS,0.28
+495,Mhw LTD,Imported Distilled Spirit Specialty,0.19
+496,Phillips Beverage Company,IRISH WHISKIES,0.13
+497,Stoli Group,,0.15
+498,Pernod Ricard USA/Austin Nichols,APRICOT BRANDIES,0.21
+499,Sazerac North America,AMERICAN SLOE GINS,0.12
+500,Jim Beam Brands,SINGLE BARREL BOURBON WHISKIES,0.15
+501,Jim Beam Brands,AMERICAN AMARETTO,0.17
+502,Jim Beam Brands,BOTTLED IN BOND BOURBON,0.3
+503,"Moet Hennessy USA, Inc.",IRISH WHISKIES,0.3
+504,Phillips Beverage,Single Malt Scotch,0.05
+505,Shaw Ross International Importers LL,JAMAICA RUM,0.24
+506,Brown-Forman Corporation,SINGLE BARREL BOURBON WHISKIES,0.21
+507,Shaw-Ross International,Aged Dark Rum,0.21
+508,"M.S. Walker, Inc.",MISCELLANEOUS  BRANDIES,0.32
+509,Cats Eye Distillery,Corn Whiskies,0.3
+510,"Evaton, Inc.",MISCELLANEOUS  BRANDIES,0.32
+511,Bendistillery,AMERICAN SLOE GINS,0.2
+512,"Bacardi U.S.A., Inc.",SINGLE MALT SCOTCH,0.32
+513,CARRIAGE HOUSE IMPORTS,,0.09
+514,"Charles Jacquin Et. Cie., Inc.",APRICOT BRANDIES,0.06
+515,Four Roses Distillery,SINGLE BARREL BOURBON WHISKIES,0.27
+516,"International Beverage Co., Inc.",MISCELLANEOUS  BRANDIES,0.3
+517,Proximo,,0.14
+518,Mhw LTD,Neutral Grain Spirits,0.09
+519,Mississippi River Distilling Co.,PEACH SCHNAPPS,0.12
+520,Laird & Company,Imported Cordials & Liqueur,0.04
+521,MISSISSIPPI RIVER DISTIL,Single Barrel Bourbon Whiskies,0.06
+522,CARRIAGE HOUSE IMPORTS,Special Order Items,0.19
+523,W J Deutsch & Sons LTD,Imported Distilled Spirits Specialty,0.29
+524,Phillips Beverage Company,MISCELLANEOUS  BRANDIES,0.22
+525,Park Street Imports-Voli,LOW PROOF VODKA,0.08
+526,Wilson Daniels Ltd.,CORN WHISKIES,0.18
+527,MHW Ltd,AMERICAN AMARETTO,0.07
+528,"Sazerac Co., Inc.",100 PROOF VODKA,0.09
+529,William Grant & Sons Inc,Gold Rum,0.08
+530,William Grant & Sons Inc,Corn Whiskies,0.15
+531,"WILLIAM GRANT AND SONS, INC.",,0.15
+532,Phillips Beverage,,0.1
+533,PIEDMONT DISTILLERS INC,,0.2
+534,Vision Wine and Spirits,MISCELLANEOUS  BRANDIES,0.11
+535,Anchor Distilling (PREISS IMPORTS),JAPANESE WHISKY,0.12
+536,Iowa Distilling Company,BARBADOS RUM,0.17
+537,Niche Import Co.,DECANTERS & SPECIALTY PACKAGES,0.11
+538,Piedmont Distillers,,0.22
+539,Niche Import Co,Imported Cordials & Liqueur,0.27
+540,Prestige Wine and Spirits Group,SINGLE MALT SCOTCH,0.15
+541,Gemini Spirits,SINGLE MALT SCOTCH,0.26
+542,Prestige Wine & Spirits Group,Single Malt Scotch,0.03
+543,Infinium Spirits,Gold Rum,0.12
+544,Anchor Distilling (PREISS IMPORTS),SINGLE MALT SCOTCH,0.33
+545,SAZERAC COMPANY  INC,Straight Rye Whiskies,0.28
+546,McCormick Distilling Co.,,0.07
+547,TY KU LLC,Mezcal,0.21
+548,Phillips Beverage Company,100 PROOF VODKA,0.27
+549,SPIRIT OF HARTFORD,Mezcal,0.1
+550,"International Beverage Co., Inc.",SINGLE MALT SCOTCH,0.26
+551,William Grant & Sons Inc,Straight Rye Whiskies,0.33
+552,Wilson Daniels Ltd.,JAMAICA RUM,0.14
+553,Stern Beverage,LOW PROOF VODKA,0.21
+554,"Tattersall Companies, LLC",American Distilled Spirit Specialty,0.33
+555,DV Spirits LLC,Corn Whiskies,0.11
+556,Pernod Ricard USA/Austin Nichols,CHERRY BRANDIES,0.06
+557,3 Badge Mixology,FLAVORED GINS,0.06
+558,Three Rangers,STRAIGHT RYE WHISKIES,0.28
+559,Dehner Distillery,DISTILLED SPIRITS SPECIALTY,0.08
+560,Artisan Grain Distillery,DISTILLED SPIRITS SPECIALTY,0.12
+561,KOVAL DISTILLERY,American Distilled Spirits Specialty,0.24
+562,Skyy Spirits Inc,Bottled in Bond Bourbon,0.27
+563,Luxco-St Louis,IRISH WHISKIES,0.08
+564,HOTALING & CO,Single Malt Scotch,0.18
+565,DISARONNO INTERNATIONAL,,0.22
+566,"WILLIAM GRANT AND SONS, INC.",SINGLE BARREL BOURBON WHISKIES,0.21
+567,PERNOD RICARD USA,American Distilled Spirit Specialty,0.17
+568,Mississippi River Distilling Co.,SINGLE BARREL BOURBON WHISKIES,0.26
+569,"Sazerac Co., Inc.",SINGLE MALT SCOTCH,0.22
+570,"Palm Bay Imports, Inc.",IRISH WHISKIES,0.23
+571,Total Beverage Solutions,SINGLE MALT SCOTCH,0.04
+572,Dilawri Barrels LLC,Straight Rye Whiskies,0.28
+573,MHW Ltd,STRAIGHT RYE WHISKIES,0.18
+574,Anchor Distilling (PREISS IMPORTS),IRISH WHISKIES,0.14
+575,W J Deutsch & Sons LTD,Straight Rye Whiskies,0.34
+576,BACARDI USA INC,Single Malt Scotch,0.15
+577,Impex Beverages Inc,SINGLE MALT SCOTCH,0.31
+578,Skyy Spirits Inc,Straight Rye Whiskies,0.12
+579,ST GEORGE SPIRITS INC,American Distilled Spirits Specialty,0.2
+580,Campari(skyy),SINGLE BARREL BOURBON WHISKIES,0.06
+581,Aveniu Brands,AMERICAN ALCOHOL,0.12
+582,Sidney Frank Importing Co.,IRISH WHISKIES,0.21
+583,Pacific Edge Wine and Spirits,IRISH WHISKIES,0.11
+584,"Chatham Imports,inc",STRAIGHT RYE WHISKIES,0.16
+585,"Bacardi U.S.A., Inc.",DISTILLED SPIRITS SPECIALTY,0.32
+586,"TY KU, LLC",DISTILLED SPIRITS SPECIALTY,0.29
+587,Gemini Spirits,IRISH WHISKIES,0.23
+588,SAZERAC COMPANY  INC,Single Malt Scotch,0.11
+589,"Hood River Distillers, Inc.",DECANTERS & SPECIALTY PACKAGES,0.2
+590,Luxco-St Louis,STRAIGHT RYE WHISKIES,0.05
+591,"Winebow, Inc.",SINGLE MALT SCOTCH,0.24
+592,Infinium Spirits,Imported Distilled Spirit Specialty,0.04
+593,Castle Brands,IRISH WHISKIES,0.07
+594,Skyy Spirits Inc,Single Barrel Bourbon Whiskies,0.27
+595,FRANK LIN DISTILLERS PRO,Special Order Items,0.31
+596,IMPEX BEVERAGE INC,Special Order Items,0.3
+597,Laird And Company,IMPORTED AMARETTO,0.29
+598,Brown Forman Corp.,Single Malt Scotch,0.08
+599,SURVILLE ENTERPRISES CORP,Special Order Items,0.12
+600,CHATHAM IMPORTS INC,,0.08
+601,Diageo Americas,IRISH WHISKIES,0.06
+602,HOTALING & CO,American Distilled Spirits Specialty,0.12
+603,ST GEORGE SPIRITS INC,American Distilled Spirit Specialty,0.15
+604,Domaine Select,Single Malt Scotch,0.22
+605,Doc Brown Enterprises,Aged Dark Rum,0.23
+606,"ASDSpirits, LLC",DISTILLED SPIRITS SPECIALTY,0.11
+607,"William Grant and Sons, Inc.",IRISH WHISKIES,0.23
+608,SAZERAC COMPANY  INC,Gold Rum,0.31
+609,Windy Hill Spirits,,0.08
+610,VINO COM LLC,Special Order Items,0.1
+611,Classic Wine Imports,SINGLE MALT SCOTCH,0.17
+612,SAZERAC NORTH AMERICA,Straight Rye Whiskies,0.04
+613,Demerara Distillers (USA) Inc.,Aged Dark Rum,0.12
+614,William Grant & Sons Inc,Aged Dark Rum,0.07
+615,Luxco-St Louis,SINGLE BARREL BOURBON WHISKIES,0.24
+616,Kobrand Corporation,,0.2
+617,MHW Ltd,,0.18
+618,NORTH SHORE DISTILLERY,Special Order Items,0.07
+619,Pittsburgh Distilling Company LLC,Straight Rye Whiskies,0.32
+620,"Cedar Ridge Vineyards,LLC",CORN WHISKIES,0.23
+621,3 Badge Mixology,STRAIGHT RYE WHISKIES,0.3
+622,Heaven Hill Brands,100 PROOF VODKA,0.08
+623,Luxco-St Louis,CORN WHISKIES,0.26
+624,"Ole Smoky Distillery, LLC",,0.09
+625,STOLI GROUP,Single Malt Scotch,0.05
+626,"WILDMAN AND SONS, F.",IRISH WHISKIES,0.23
+627,Artisan Grain Distillery,,0.15
+628,Aveniu Brands,100 PROOF VODKA,0.25
+629,MODERN SPIRIT LLC,Special Order Items,0.1
+630,SAZERAC NORTH AMERICA,Aged Dark Rum,0.18
+631,IMPERIAL BRANDS INC,,0.24
+632,Mccormick Distilling Company,OTHER PROOF VODKA,0.08
+633,AMERICAN VINTAGE BEVERAGE,,0.14
+634,STOLI GROUP,,0.31
+635,WESTERN SPIRITS BEVERAGE,Special Order Items,0.13
+636,JDSO INC / Red Boot Distillery,Neutral Grain Spirits,0.08
+637,W J Deutsch & Sons LTD,Aged Dark Rum,0.14
+638,Luxco-Cleveland,APPLE SCHNAPPS,0.2
+639,Shaw-Ross International,Gold Rum,0.25
+640,Infinium Spirits,Aged Dark Rum,0.32
+641,WESTERN SPIRITS BEVERAGE,Bottled in Bond Bourbon,0.13
+642,E & J Gallo Winery,Aged Dark Rum,0.12
+643,Prestige Wine & Spirits Group,Imported Cordials & Liqueur,0.19
+644,GUNSANDMORE INFO LLC,Iowa Distilleries,0.1
+645,Mhw LTD,American Cordials & Liqueurs,0.23
+646,PERNOD RICARD USA,Imported Cordials & Liqueur,0.3
+647,JDSO INC / Red Boot Distillery,Straight Rye Whiskies,0.33
+648,"Marussia Beverages USA, Inc / Niche Import",Gold Rum,0.06
+649,Castle Brands,Imported Cordials & Liqueur,0.24
+650,BACARDI USA INC,Coffee Liqueurs,0.3
+651,PROXIMO,Straight Rye Whiskies,0.2
+652,Hood River Distillers,Imported Cordials & Liqueur,0.08
+653,Heaven Hill Brands,American Distilled Spirits Specialty,0.0
+654,Cats Eye Distillery,Temporary &  Specialty Packages,0.07
+655,Best Case Wines LLC,Special Order Items,0.2
+656,PERNOD RICARD USA,Straight Rye Whiskies,0.05
+657,CEDAR RIDGE VINEYARDS LL,Temporary &  Specialty Packages,0.13
+658,WESTERN SPIRITS BEVERAGE,,0.14
+659,Mhw LTD,American Vodka,0.0
+660,Grand Prix Beverage LLC,Imported Distilled Spirit Specialty,0.2
+661,DIAGEO AMERICAS,Mezcal,0.24
+662,Heaven Hill Brands,Corn Whiskies,0.06
+663,MOET HENNESSY USA,Temporary &  Specialty Packages,0.17
+664,"Worldwide Libations, LLC",Imported Cordials & Liqueur,0.29
+665,PIEDMONT DISTILLERS INC,Single Barrel Bourbon Whiskies,0.14
+666,"Worldwide Libations, LLC",Aged Dark Rum,0.09
+667,SAZERAC NORTH AMERICA,Temporary &  Specialty Packages,0.11
+668,DEHNER DISTILLERY,Straight Rye Whiskies,0.12
+669,Georgetown Trading Co. LLC,Straight Rye Whiskies,0.26
+670,STOLI GROUP,Mezcal,0.17
+671,CONSTELLATION BRANDS INC,Gold Rum,0.21
+672,Vision Wine & Spirit LLC,Aged Dark Rum,0.3
+673,McCormick Distilling Co.,Temporary &  Specialty Packages,0.17
+674,"Sovereign Brands, LLC",Imported Cordials & Liqueur,0.32
+675,"James Joseph Sanctified Spirits, LLC / Oak&Eden",Distilled Spirits Specialty,0.26
+676,REMY COINTREAU USA INC,Aged Dark Rum,0.08
+677,DAVOS BRANDS LLC,Corn Whiskies,0.28
+678,DISARONNO INTERNATIONAL,Temporary &  Specialty Packages,0.3
+679,Park Street Imports,Straight Rye Whiskies,0.04
+680,"James Joseph Sanctified Spirits, LLC / Oak&Eden",American Distilled Spirit Specialty,0.18
+681,Vision Wine & Spirit LLC,Mezcal,0.12
+682,Bedford & Grove LLC/ Chankaska Creek and Ranch Winery,Straight Rye Whiskies,0.11
+683,45TH PARALLEL SPIRITS,Straight Rye Whiskies,0.03
+684,SERRALLES USA,Gold Rum,0.24
+685,E & J Gallo Winery,Gold Rum,0.23
+686,STOLLER IMPORTS INC / MARSALLE COMPANY,Mezcal,0.31
+687,MOET HENNESSY USA,Imported Vodka,0.19
+688,WILSON DANIELS LTD,Straight Rye Whiskies,0.2
+689,STOLLER IMPORTS INC / MARSALLE COMPANY,Straight Rye Whiskies,0.04
+690,SAZERAC COMPANY  INC,Mezcal,0.05
+691,DIAGEO AMERICAS,Holiday VAP,0.34
+692,Rocky Top Investments / Rock River Distillation,Straight Rye Whiskies,0.22
+693,LUXCO INC,Temporary &  Specialty Packages,0.13
+694,IA-Native Spirits,American Distilled Spirit Specialty,0.23
+695,Brown Forman Corp.,Delisted Items,0.02
+696,WILSON DANIELS LTD,Iowa Distillery Whiskies,0.39
+697,PIEDMONT DISTILLERS INC,Straight Rye Whiskies,0.31
+698,Vision Wine & Spirit LLC,Single Malt Scotch,0.16
+699,"Cowboy Country Distilling, Inc.",Single Barrel Bourbon Whiskies,0.11
+700,LUXCO INC,American Distilled Spirits Specialty,0.0
+701,AMERICAN SPIRITS EXCHANGE,Straight Rye Whiskies,0.21
+702,STOLI GROUP,Straight Rye Whiskies,0.09
+703,S&B Farms Distillery,Corn Whiskies,0.1
+704,MISSISSIPPI RIVER DISTIL,American Vodka,0.32
+705,HIGH WEST DISTILLERY LLC,Straight Rye Whiskies,0.0
+706,Vision Wine & Spirit LLC,American Distilled Spirit Specialty,0.33
+707,"James Joseph Sanctified Spirits, LLC / Oak&Eden",Imported Distilled Spirit Specialty,0.15
+708,BACARDI USA INC,Imported Distilled Spirits Specialty,0.04
+709,WILSON DANIELS LTD,Gold Rum,0.35
+710,Jim Beam Brands,Cocktails / RTD,0.0
+711,Georgetown Trading Co. LLC / James Pepper Distilling Co.,Straight Rye Whiskies,0.32
+712,SAZERAC NORTH AMERICA,American Cordials & Liqueurs,0.0
+713,Campari America,Mezcal,0.33
+714,"John Ernest Distillery, Inc.",American Distilled Spirit Specialty,0.18
+715,FIFTH GENERATION INC,,0.77
+716,CEDAR RIDGE VINEYARDS LL,American Vodka,0.52
+717,KOLOA RUM COMPANY,Cocktails / RTD,0.21
+718,MINHAS MICRO DISTILLERY,Temporary &  Specialty Packages,0.25
+719,Jim Beam Brands,CREME DE ALMOND,0.2
+720,"Imperial Brands, Inc.",IMPORTED VODKA - CHERRY,0.13
+721,Jim Beam Brands,APRICOT BRANDIES,0.2
+722,Levecke Corporation,Triple Sec,0.09
+723,Stolller Warehouse,Special Order Items,0.13
+724,Pernod Ricard USA/Austin Nichols,GREEN CREME DE MENTHE,0.08
+725,Pernod Ricard USA/Austin Nichols,DARK CREME DE CACAO,0.19
+726,Luxco-Cleveland,CHERRY BRANDIES,0.32
+727,Pernod Ricard USA/Austin Nichols,PEACH SCHNAPPS,0.31
+728,Edrington Group USA LLC,,0.16
+729,BACARDI USA INC,Cocktails / RTD,0.4
+730,LUXCO INC,Imported Vodka,0.0
+731,Prestige Wine & Spirits Group,American Vodka,0.0
+732,AMERICAN VINTAGE BEVERAGE,Cocktails / RTD,0.36
+733,DIAGEO AMERICAS,Cocktails / RTD,0.12
+734,GoAmericaGo Beverages LLC / WhistlePig,Temporary &  Specialty Packages,0.28
+735,YAHARA BAY DISTILLERS INC,Single Barrel Bourbon Whiskies,0.35
+736,CONSTELLATION BRANDS INC,Special Order Items,0.31
+737,Pernod Ricard USA/Austin Nichols,AMERICAN SLOE GINS,0.3
+738,Luxco-St Louis,,0.33
+739,Gunsandmore.info,,0.05
+740,OLE SMOKY DISTILLERY LLC,Neutral Grain Spirits,0.16
+741,"Palm Bay Imports, Inc.",TRIPLE SEC,0.3
+742,Aiko Importers Inc,IRISH WHISKIES,0.2
+743,Jim Beam Brands,CORN WHISKIES,0.3
+744,DEHNER DISTILLERY,Imported Distilled Spirit Specialty,0.11
+745,Willett Distillery,STRAIGHT RYE WHISKIES,0.14
+746,Cooperspiritsinternational,STRAIGHT RYE WHISKIES,0.08
+747,Campari(skyy),CORN WHISKIES,0.13
+748,Three Rangers,Straight Rye Whiskies,0.26
+749,"W. J. Deutsch And Sons, Ltd.",DECANTERS & SPECIALTY PACKAGES,0.23
+750,"Chatham Imports,inc",CORN WHISKIES,0.13
+751,ARTISAN GRAIN DISTILLERY,Corn Whiskies,0.23
+752,Shand Import LLC,FLAVORED GINS,0.07
+753,"Sazerac Co., Inc.",ROOT BEER SCHNAPPS,0.09
+754,E and J Gallo Winery,100 PROOF VODKA,0.15
+755,Boston Beer Company,HIGH PROOF BEER - AMERICAN,0.01
+756,E and J Gallo Winery,SINGLE MALT SCOTCH,0.19
+757,Artisan Grain Distillery,AMERICAN ALCOHOL,0.23
+758,Blaum Bros. Distilling Co.,100 PROOF VODKA,0.27
+759,Koenig Distillery Inc,,0.3
+760,Eastside Distilling,American Distilled Spirits Specialty,0.06
+761,Wilson Daniels Ltd.,JAPANESE WHISKY,0.33
+762,Aveniu Brands,STRAIGHT RYE WHISKIES,0.06
+763,REMY COINTREAU USA INC,Imported Cordials & Liqueur,0.15
+764,SAZERAC COMPANY  INC,Cocktails / RTD,0.0
+765,HOTALING & CO,Imported Cordials & Liqueur,0.32
+766,STOLI GROUP,Imported Vodka,0.0
+767,MOET HENNESSY USA,Neutral Grain Spirits,0.05
+768,PROXIMO,Imported Distilled Spirit Specialty,0.06
+769,Cats Eye Distillery,Straight Rye Whiskies,0.08
+770,SURVILLE ENTERPRISES CORP,American Distilled Spirit Specialty,0.15
+771,E & J Gallo Winery,Imported Cordials & Liqueur,0.07
+772,R�my Cointreau USA,JAMAICA RUM,0.25
+773,"International Beverage Co., Inc.",DISTILLED SPIRITS SPECIALTY,0.12
+774,Jim Beam Brands,Imported Distilled Spirit Specialty,0.26
+775,Mango Bottling,Cocktails / RTD,0.0
+776,DEHNER DISTILLERY,American Vodka,0.0
+777,Prestige Wine and Spirits Group,100 PROOF VODKA,0.26
+778,Woody Creek Distillers LLC,Straight Rye Whiskies,0.2
+779,Modern Matriarch,Gold Rum,0.05
+780,Meisenburg Brewing & Distilling,Neutral Grain Spirits,0.23
+781,STOLI GROUP,Aged Dark Rum,0.32
+782,Paterno Imports LTD / Terlato Wines International,Imported Distilled Spirits Specialty,0.33
+783,FRANK LIN DISTILLERS PRO,Bottled in Bond Bourbon,0.18
+784,Infinium Spirits,Temporary &  Specialty Packages,0.14
+785,HILLROCK ESTATE DISTILLERY,Special Order Items,0.17
+786,Niche Import Co,Special Order Items,0.12
+787,STOLLER IMPORTS INC / MARSALLE COMPANY,American Distilled Spirit Specialty,0.15
+788,SAZERAC NORTH AMERICA,Bottled in Bond Bourbon,0.28
+789,Wilderness Trail Distillery,Straight Rye Whiskies,0.23
+790,AHA TORO SPIRITS INC,Special Order Items,0.2
+791,Sugarlands Distilling Company LLC,Corn Whiskies,0.15
+792,S&B Farmstead Distillery,Iowa Distillery Whiskies,0.25
+793,"Traverse City Whiskey Co / TCWC, LLC",Straight Rye Whiskies,0.29
+794,HOTALING & CO,Imported Whiskies,0.14
+795,Park Street Imports,American Distilled Spirit Specialty,0.0
+796,Park Street Imports,Imported Vodka,0.02
+797,ST GEORGE SPIRITS INC,Single Malt Scotch,0.29
+798,PALM BAY INTERNATIONAL,Aged Dark Rum,0.05
+799,Hemingway Rum Company LLC,Aged Dark Rum,0.23
+800,Phillips Beverage,Single Barrel Bourbon Whiskies,0.25
+801,KOLOA RUM COMPANY,Aged Dark Rum,0.13
+802,Revelton Distilling Company,Corn Whiskies,0.19
+803,Paterno Imports LTD / Terlato Wines International,Single Malt Scotch,0.14
+804,Edrington Group USA LLC,Aged Dark Rum,0.13
+805,Paterno Imports LTD / Terlato Wines International,Special Order Items,0.12
+806,HOTALING & CO,Mezcal,0.24
+807,Des Moines Imports,Imported Distilled Spirit Specialty,0.28
+808,Shaw-Ross International,Single Malt Scotch,0.13
+809,3 BADGE CORPORATION,Mezcal,0.09
+810,Mhw LTD,Straight Rye Whiskies,0.2
+811,Edrington Group USA LLC,Straight Rye Whiskies,0.19
+812,ST GEORGE SPIRITS INC,Flavored Gin,0.17
+813,S&B Farms Distillery,Single Barrel Bourbon Whiskies,0.14
+814,Jacob Rieger & Company LLC,Coffee Liqueurs,0.11
+815,KOVAL DISTILLERY,Straight Rye Whiskies,0.18
+816,PACIFIC EDGE WINE & SPIRITS,Single Malt Scotch,0.24
+817,S&B Farmstead Distillery,Corn Whiskies,0.12
+818,LUXCO INC,Imported Cordials & Liqueur,0.18
+819,Lonely Oak Distillery,Aged Dark Rum,0.03
+820,Dreyfus Ashby,Special Order Items,0.07
+821,Park Street Imports,Single Barrel Bourbon Whiskies,0.31
+822,AHA TORO SPIRITS INC / Aha Yeto Tequila,Special Order Items,0.24
+823,Vino.com dba Total Beverage Solution,Single Malt Scotch,0.27
+824,DAVOS BRANDS LLC,Straight Rye Whiskies,0.15
+825,Cats Eye Distillery,Aged Dark Rum,0.24
+826,Paterno Imports LTD,Single Malt Scotch,0.35
+827,Park Street Imports,Gold Rum,0.25
+828,IMPEX BEVERAGE INC,Single Malt Scotch,0.26
+829,HIGH WEST DISTILLERY LLC,Special Order Items,0.14
+830,Vino.com dba Total Beverage Solution,Imported Cordials & Liqueur,0.12
+831,MISSISSIPPI RIVER DISTIL,Distilled Spirits Specialty,0.33
+832,Vikre Distillery,Imported Distilled Spirit Specialty,0.25
+833,Park Street Imports,Aged Dark Rum,0.24
+834,William Grant & Sons Inc,Mezcal,0.28
+835,"Green Frog Distillery, LLC",Temporary &  Specialty Packages,0.19
+836,Altamar Brands LLC,Aged Dark Rum,0.06
+837,Paterno Imports LTD / Terlato Wines International,Aged Dark Rum,0.3
+838,Niche Import Co,Imported Distilled Spirit Specialty,0.14
+839,Mhw LTD,Imported Gins,0.22
+840,PROXIMO,Flavored Gin,0.05
+841,LUXCO INC,American Distilled Spirit Specialty,0.3
+842,Edrington Group USA LLC,Gold Rum,0.18
+843,IMPERIAL BRANDS INC,Special Order Items,0.32
+844,Vino.com dba Total Beverage Solution,Special Order Items,0.12
+845,Driftless Glen Distillery,Straight Rye Whiskies,0.06
+846,DV Spirits LLC,Imported Cordials & Liqueur,0.1
+847,DAVOS BRANDS LLC,Imported Cordials & Liqueur,0.11
+848,"New Holland Brewing Company, LLC",Bottled in Bond Bourbon,0.17
+849,William Grant & Sons Inc,Imported Cordials & Liqueur,0.25
+850,KINDRED SPIRIT N AMERICA,Special Order Items,0.22
+851,Vision Wine & Spirit LLC,Imported Distilled Spirit Specialty,0.21
+852,Paterno Imports LTD,Imported Distilled Spirits Specialty,0.0
+853,VINO COM LLC,Gold Rum,0.09
+854,MINHAS MICRO DISTILLERY,Neutral Grain Spirits,0.26
+855,Caribbean Spirits Inc,Aged Dark Rum,0.15
+856,Lloyd Caruso LLC,,0.19
+857,Cats Eye Distillery,Coffee Liqueurs,0.09
+858,Heaven Hill Brands,American Cordials & Liqueurs,0.17
+859,DISARONNO INTERNATIONAL,Coffee Liqueurs,0.2
+860,CEDAR RIDGE VINEYARDS LL,American Cordials & Liqueurs,0.26
+861,Modern Matriarch,American Distilled Spirit Specialty,0.19
+862,MARSALLE COMPANY,Straight Rye Whiskies,0.2
+863,Swell Liquor LLC,American Vodka,0.0
+864,Proximo,TEQUILA,0.18
+865,The Patron Spirits Company,TEQUILA,0.15
+866,Luxco-St Louis,TEQUILA,0.33
+867,Pernod Ricard USA/Austin Nichols,TEQUILA,0.15
+868,Jim Beam Brands,TEQUILA,0.31
+869,"Sazerac Co., Inc.",TEQUILA,0.21
+870,Drinks Americas,TEQUILA,0.29
+871,Gemini Spirits,TEQUILA,0.1
+872,Sazerac North America,TEQUILA,0.08
+873,Brown-Forman Corporation,TEQUILA,0.1
+874,Diageo Americas,TEQUILA,0.29
+875,"Constellation Wine Company, Inc.",TEQUILA,0.12
+876,Campari(skyy),TEQUILA,0.09
+877,E AND J GALLO WINERY,TEQUILA,0.2
+878,"WILLIAM GRANT AND SONS, INC.",TEQUILA,0.3
+879,Trinchero Family Estates,TEQUILA,0.1
+880,Phillips Beverage Company,TEQUILA,0.16
+881,"Bacardi U.S.A., Inc.",TEQUILA,0.18
+882,Santa Fe Tequila Company,TEQUILA,0.04
+883,Mccormick Distilling Company,TEQUILA,0.12
+884,E and J Gallo Winery,TEQUILA,0.33
+885,Heaven Hill Brands,TEQUILA,0.24
+886,"William Grant and Sons, Inc.",TEQUILA,0.2
+887,Sidney Frank Importing Co.,TEQUILA,0.07
+888,"Dorado, Pizzorni & Sons, LLC",TEQUILA,0.24
+889,MHW Ltd,TEQUILA,0.19
+890,Wilson Daniels Ltd.,TEQUILA,0.17
+891,Marsalle Company/Stoller Warehouse,TEQUILA,0.05
+892,Anchor Distilling (PREISS IMPORTS),TEQUILA,0.05
+893,Aveniu Brands,TEQUILA,0.29
+894,Park Street Imports-Tanteo,TEQUILA,0.18
+895,Modern Spirits,TEQUILA,0.19
+896,Minhas Micro Distillery,TEQUILA,0.37
+897,Liquor Group Wholesale,TEQUILA,0.11
+898,SAZERAC NORTH AMERICA,White Rum,0.31
+899,BACARDI USA INC,White Rum,0.04
+900,LUXCO INC,White Rum,0.08
+901,Mhw LTD,White Rum,0.04
+902,DEHNER DISTILLERY,White Rum,0.13
+903,SAZERAC COMPANY  INC,White Rum,0.24
+904,Phillips Beverage,White Rum,0.11
+905,Gemini Spirits,White Rum,0.17
+906,DIAGEO AMERICAS,White Rum,0.08
+907,Jim Beam Brands,White Rum,0.11
+908,Laird & Company,White Rum,0.23
+909,JDSO INC / Red Boot Distillery,White Rum,0.07
+910,"Distillers Way, LLC",White Rum,0.33
+911,E & J Gallo Winery,White Rum,0.04
+912,Prestige Wine & Spirits Group,White Rum,0.02
+913,William Grant & Sons Inc,White Rum,0.21
+914,"Foundry Distilling Company, LLC",White Rum,0.1
+915,Red Boot Distillery,White Rum,0.18
+916,DUNKEL CORPORATION,White Rum,0.33
+917,SERRALLES USA,White Rum,0.27
+918,"Caribbean Distillers, LLC",White Rum,0.09
+919,PARADISE DISTILLING COMPANY,White Rum,0.03
+920,ARTISAN GRAIN DISTILLERY,White Rum,0.04
+921,CEDAR RIDGE VINEYARDS LL,White Rum,0.09
+922,Heaven Hill Brands,White Rum,0.07
+923,Modern Matriarch,White Rum,0.06
+924,"Worldwide Libations, LLC",White Rum,0.03
+925,STOLI GROUP,White Rum,0.3
+926,"Valhalla Imports, LLC",White Rum,0.12
+927,DUNKEL CORPORATION / Iowa Distilling,White Rum,0.18
+928,Levecke Corporation,White Rum,0.16
+929,Demerara Distillers (USA) Inc.,White Rum,0.26
+930,Edrington Group USA LLC,White Rum,0.28
+931,Diageo Americas,SPICED RUM,0.32
+932,Heaven Hill Brands,SPICED RUM,0.12
+933,Proximo,SPICED RUM,0.31
+934,"WILLIAM GRANT AND SONS, INC.",SPICED RUM,0.3
+935,Luxco-St Louis,SPICED RUM,0.11
+936,Prestige Wine and Spirits Group,SPICED RUM,0.25
+937,E AND J GALLO WINERY,SPICED RUM,0.16
+938,"Yahara Bay Distillers, Inc",SPICED RUM,0.29
+939,Phillips Beverage Company,SPICED RUM,0.14
+940,"Bacardi U.S.A., Inc.",SPICED RUM,0.18
+941,"William Grant and Sons, Inc.",SPICED RUM,0.3
+942,Jim Beam Brands,SPICED RUM,0.14
+943,Trinchero Family Estates,SPICED RUM,0.18
+944,"Sazerac Co., Inc.",SPICED RUM,0.18
+945,Stoli Group,SPICED RUM,0.04
+946,Pernod Ricard USA/Austin Nichols,SPICED RUM,0.24
+947,Rogue Ales and Spirits,SPICED RUM,0.13
+948,Park Street Imports-Sweet Revenge,SPICED RUM,0.24
+949,Paradise Distilling Company,SPICED RUM,0.1
+950,3 Badge Mixology,SPICED RUM,0.15
+951,Dehner Distillery,SPICED RUM,0.13
+952,Mccormick Distilling Company,SPICED RUM,0.26
+953,DIAGEO AMERICAS,Spiced Rum,0.22
+954,Heaven Hill Brands,Spiced Rum,0.05
+955,PROXIMO,Spiced Rum,0.11
+956,William Grant & Sons Inc,Spiced Rum,0.19
+957,LUXCO INC,Spiced Rum,0.32
+958,Prestige Wine & Spirits Group,Spiced Rum,0.07
+959,MINHAS MICRO DISTILLERY,Spiced Rum,0.31
+960,SAZERAC NORTH AMERICA,Spiced Rum,0.28
+961,Phillips Beverage,Spiced Rum,0.19
+962,BACARDI USA INC,Spiced Rum,0.28
+963,Prestige Wine & Spirits Group / United States Distilled Products Co,Spiced Rum,0.13
+964,DEHNER DISTILLERY,Spiced Rum,0.23
+965,SAZERAC COMPANY  INC,Spiced Rum,0.12
+966,Jim Beam Brands,Spiced Rum,0.13
+967,SUTTER HOME WINERY INC,Spiced Rum,0.16
+968,"John Ernest Distillery, Inc.",Spiced Rum,0.26
+969,PARADISE DISTILLING COMPANY,Spiced Rum,0.21
+970,Mhw LTD,Spiced Rum,0.27
+971,JDSO INC / Red Boot Distillery,Spiced Rum,0.11
+972,STOLI GROUP,Spiced Rum,0.04
+973,Allegheny Distilling LLC,Spiced Rum,0.24
+974,STOLLER IMPORTS INC / MARSALLE COMPANY,Spiced Rum,0.28
+975,MARSALLE COMPANY,Spiced Rum,0.19
+976,"Bacardi U.S.A., Inc.",FLAVORED RUM,0.1
+977,Pernod Ricard USA/Austin Nichols,FLAVORED RUM,0.22
+978,Luxco-Cleveland,FLAVORED RUM,0.3
+979,Heaven Hill Brands,FLAVORED RUM,0.29
+980,Diageo Americas,FLAVORED RUM,0.29
+981,Jim Beam Brands,FLAVORED RUM,0.3
+982,MHW Ltd,FLAVORED RUM,0.25
+983,Stoli Group,FLAVORED RUM,0.22
+984,"Werner Distilling, LLC",FLAVORED RUM,0.07
+985,"Sazerac Co., Inc.",FLAVORED RUM,0.14
+986,Rogue Ales and Spirits,FLAVORED RUM,0.07
+987,Trinchero Family Estates,FLAVORED RUM,0.3
+988,Castle Brands,FLAVORED RUM,0.11
+989,Dehner Distillery,FLAVORED RUM,0.24
+990,Gemini Spirits,FLAVORED RUM,0.15
+991,Mccormick Distilling Company,FLAVORED RUM,0.14
+992,Serralles USA,FLAVORED RUM,0.09
+993,Artisan Grain Distillery,FLAVORED RUM,0.25
+994,Shaw Ross International Importers LL,FLAVORED RUM,0.16
+995,"WILLIAM GRANT AND SONS, INC.",FLAVORED RUM,0.23
+996,3 Badge Mixology,FLAVORED RUM,0.07
+997,Luxco-St Louis,FLAVORED RUM,0.2
+998,"White Rock Distilleries, Inc.",FLAVORED RUM,0.28
+999,BACARDI USA INC,Flavored Rum,0.09
+1000,PERNOD RICARD USA,Flavored Rum,0.3
+1001,Heaven Hill Brands,Flavored Rum,0.19
+1002,SAZERAC COMPANY  INC,Flavored Rum,0.27
+1003,Jim Beam Brands,Flavored Rum,0.28
+1004,DIAGEO AMERICAS,Flavored Rum,0.3
+1005,E & J Gallo Winery,Flavored Rum,0.24
+1006,Prestige Wine & Spirits Group,Flavored Rum,0.28
+1007,Mhw LTD,Flavored Rum,0.26
+1008,PARADISE DISTILLING COMPANY,Flavored Rum,0.04
+1009,Castle Brands,Flavored Rum,0.06
+1010,JDSO INC / Red Boot Distillery,Flavored Rum,0.19
+1011,Prestige Wine & Spirits Group / United States Distilled Products Co,Flavored Rum,0.32
+1012,Levecke Corporation,Flavored Rum,0.31
+1013,SAZERAC NORTH AMERICA,Flavored Rum,0.18
+1014,W J Deutsch & Sons LTD,Flavored Rum,0.28
+1015,Gemini Spirits,Flavored Rum,0.19
+1016,STOLI GROUP,Flavored Rum,0.13
+1017,"Caribbean Distillers, LLC",Flavored Rum,0.23
+1018,William Grant & Sons Inc,Flavored Rum,0.21
+1019,Modern Matriarch,Flavored Rum,0.31
+1020,"Worldwide Libations, LLC",Flavored Rum,0.06
+1021,Park Street Imports,Flavored Rum,0.04
+1022,SERRALLES USA,Flavored Rum,0.19
+1023,PROXIMO,Mixto Tequila,0.28
+1024,SAZERAC COMPANY  INC,Mixto Tequila,0.32
+1025,SAZERAC NORTH AMERICA,Mixto Tequila,0.29
+1026,LUXCO INC,Mixto Tequila,0.12
+1027,Jim Beam Brands,Mixto Tequila,0.24
+1028,Gemini Spirits,Mixto Tequila,0.22
+1029,MINHAS MICRO DISTILLERY,Mixto Tequila,0.31
+1030,Levecke Corporation,Mixto Tequila,0.08
+1031,E & J Gallo Winery,Mixto Tequila,0.26
+1032,Park Street Imports,Mixto Tequila,0.2
+1033,PERNOD RICARD USA,Mixto Tequila,0.21
+1034,Shaw-Ross International,Mixto Tequila,0.2
+1035,DEHNER DISTILLERY,Mixto Tequila,0.16
+1036,Latasi Group,Mixto Tequila,0.2
+1037,JDSO INC / Red Boot Distillery,Mixto Tequila,0.05
+1038,SURVILLE ENTERPRISES CORP,Mixto Tequila,0.23
+1039,Diageo Americas,CREAM LIQUEURS,0.27
+1040,MHW Ltd,CREAM LIQUEURS,0.29
+1041,"A Hardy / U.S.A., Ltd.",CREAM LIQUEURS,0.27
+1042,Gemini Spirits,CREAM LIQUEURS,0.23
+1043,Mississippi River Distilling Co.,CREAM LIQUEURS,0.31
+1044,Campari(skyy),CREAM LIQUEURS,0.17
+1045,Mccormick Distilling Company,CREAM LIQUEURS,0.08
+1046,Heaven Hill Brands,CREAM LIQUEURS,0.22
+1047,"Sazerac Co., Inc.",CREAM LIQUEURS,0.16
+1048,Prestige Wine and Spirits Group,CREAM LIQUEURS,0.05
+1049,Rumcoqui and Co,CREAM LIQUEURS,0.1
+1050,Luxco-St Louis,CREAM LIQUEURS,0.14
+1051,Serralles USA,CREAM LIQUEURS,0.32
+1052,E AND J GALLO WINERY,CREAM LIQUEURS,0.31
+1053,"W. J. Deutsch And Sons, Ltd.",CREAM LIQUEURS,0.25
+1054,Jim Beam Brands,CREAM LIQUEURS,0.18
+1055,"Palm Bay Imports, Inc.",CREAM LIQUEURS,0.08
+1056,Duggan's Distillers Products Corp,CREAM LIQUEURS,0.23
+1057,Bacmar International,CREAM LIQUEURS,0.04
+1058,"Paterno Imports, Ltd.",CREAM LIQUEURS,0.12
+1059,"Speakeasy Spirits, LLC",CREAM LIQUEURS,0.09
+1060,Aveniu Brands,CREAM LIQUEURS,0.16
+1061,Western Spirits Beverage Co. LLC,CREAM LIQUEURS,0.24
+1062,Aiko Importers Inc,CREAM LIQUEURS,0.23
+1063,Dehner Distillery,CREAM LIQUEURS,0.06
+1064,Park Street Imports,Cocktails /RTD,0.33
+1065,PROXIMO,Cocktails /RTD,0.27
+1066,SAZERAC NORTH AMERICA,Cocktails /RTD,0.23
+1067,Jim Beam Brands,Cocktails /RTD,0.12
+1068,BACARDI USA INC,Cocktails /RTD,0.17
+1069,Levecke Corporation,Cocktails /RTD,0.08
+1070,Mango Bottling,Cocktails /RTD,0.21
+1071,SAZERAC COMPANY  INC,Cocktails /RTD,0.3
+1072,DIAGEO AMERICAS,Cocktails /RTD,0.1
+1073,MISSISSIPPI RIVER DISTIL,Cocktails /RTD,0.14
+1074,LUXCO INC,Cocktails /RTD,0.25
+1075,Charles Jacquin Et Cie,Cocktails /RTD,0.11
+1076,AMERICAN SPIRITS EXCHANGE,Cocktails /RTD,0.13
+1077,PERNOD RICARD USA,Cocktails /RTD,0.25
+1078,Gemini Spirits,Cocktails /RTD,0.05
+1079,Mhw LTD,Cocktails /RTD,0.2
+1080,Phillips Beverage,Cocktails /RTD,0.14
+1081,AMERICAN VINTAGE BEVERAGE,Cocktails /RTD,0.19
+1082,"Worldwide Libations, LLC",Cocktails /RTD,0.17
+1083,"Mid-Oak Distillery, Inc.",Cocktails /RTD,0.16
+1084,COOPER SPIRITS INTERNATIONAL,Cocktails /RTD,0.23
+1085,E & J Gallo Winery,Cocktails /RTD,0.1
+1086,JDSO INC / Red Boot Distillery,Cocktails /RTD,0.2
+1087,Southern Italy Imports,Cocktails /RTD,0.05
+1088,"Caribbean Distillers, LLC",Cocktails /RTD,0.1
+1089,DEHNER DISTILLERY,Cocktails /RTD,0.1
+1090,WESTERN SPIRITS BEVERAGE,Cocktails /RTD,0.14
+1091,Red Boot Distillery,Cocktails /RTD,0.15
+1092,CONSTELLATION BRANDS INC,Cocktails /RTD,0.29
+1093,Mhw LTD,Cream Liqueurs,0.08
+1094,DIAGEO AMERICAS,Cream Liqueurs,0.27
+1095,McCormick Distilling Co.,Cream Liqueurs,0.1
+1096,E & J Gallo Winery,Cream Liqueurs,0.24
+1097,Gemini Spirits,Cream Liqueurs,0.3
+1098,Heaven Hill Brands,Cream Liqueurs,0.19
+1099,MISA Imports Inc,Cream Liqueurs,0.12
+1100,Revelton Distilling Company,Cream Liqueurs,0.16
+1101,MISSISSIPPI RIVER DISTIL,Cream Liqueurs,0.27
+1102,LUXCO INC,Cream Liqueurs,0.32
+1103,SAZERAC COMPANY  INC,Cream Liqueurs,0.03
+1104,Infinium Spirits,Cream Liqueurs,0.06
+1105,Park Street Imports,Cream Liqueurs,0.22
+1106,Sugarlands Distilling Company LLC,Cream Liqueurs,0.28
+1107,Jim Beam Brands,Cream Liqueurs,0.17
+1108,Rumcoqui and Co,Cream Liqueurs,0.16
+1109,Paterno Imports LTD,Cream Liqueurs,0.14
+1110,Prestige Wine & Spirits Group,Cream Liqueurs,0.16
+1111,Niche Import Co,Cream Liqueurs,0.22
+1112,A HARDY USA LTD,Cream Liqueurs,0.05
+1113,SERRALLES USA,Cream Liqueurs,0.17
+1114,DISARONNO INTERNATIONAL,Cream Liqueurs,0.08
+1115,Paterno Imports LTD / Terlato Wines International,Cream Liqueurs,0.29
+1116,Phillips Beverage,Cream Liqueurs,0.23
+1117,WILSON DANIELS LTD,Cream Liqueurs,0.83
+1118,Bedford & Grove LLC/ Chankaska Creek and Ranch Winery,Cream Liqueurs,0.32
+1119,Charles Jacquin Et Cie,Cream Liqueurs,0.1
+1120,STOLLER IMPORTS INC / MARSALLE COMPANY,Cream Liqueurs,0.09
+1121,"USA Wine West, LLC",Cream Liqueurs,0.05
+1122,Prestige Wine & Spirits Group / United States Distilled Products Co,Cream Liqueurs,0.29
+1123,Skyy Spirits Inc,Cream Liqueurs,0.0
+1124,"Bacardi U.S.A., Inc.",IMPORTED VODKA,0.09
+1125,Diageo Americas,IMPORTED VODKA,0.32
+1126,Pernod Ricard USA/Austin Nichols,IMPORTED VODKA,0.23
+1127,Stoli Group,IMPORTED VODKA,0.15
+1128,"Constellation Wine Company, Inc.",IMPORTED VODKA,0.16
+1129,"Imperial Brands, Inc.",IMPORTED VODKA,0.18
+1130,Wilson Daniels Ltd.,IMPORTED VODKA,0.09
+1131,Wine Intelligence,IMPORTED VODKA,0.04
+1132,"Moet Hennessy USA, Inc.",IMPORTED VODKA,0.3
+1133,Jim Beam Brands,IMPORTED VODKA,0.27
+1134,Proximo,IMPORTED VODKA,0.26
+1135,Luxco-St Louis,IMPORTED VODKA,0.05
+1136,Aiko Importers Inc,IMPORTED VODKA,0.1
+1137,"WILLIAM GRANT AND SONS, INC.",IMPORTED VODKA,0.07
+1138,Shaw Ross International Importers LL,IMPORTED VODKA,0.24
+1139,"William Grant and Sons, Inc.",IMPORTED VODKA,0.14
+1140,MHW Ltd,IMPORTED VODKA,0.29
+1141,Dehner Distillery,IMPORTED VODKA,0.09
+1142,"W. J. Deutsch And Sons, Ltd.",IMPORTED VODKA,0.24
+1143,"Russian Standard Vodka, USA",IMPORTED VODKA,0.27
+1144,Quadro Group LLC,IMPORTED VODKA,0.23
+1145,Brown-Forman Corporation,IMPORTED VODKA,0.17
+1146,"Jinro America, Inc",IMPORTED VODKA,0.18
+1147,"Sazerac Co., Inc.",IMPORTED VODKA,0.33
+1148,"Klin Spirits, LLC",IMPORTED VODKA,0.26
+1149,Duggan's Distillers Products Corp,IMPORTED VODKA,0.08
+1150,Firestarter Spirits Inc.,IMPORTED VODKA,0.2
+1151,Marsalle Company/Stoller Warehouse,IMPORTED VODKA,0.21
+1152,"A Hardy / U.S.A., Ltd.",IMPORTED VODKA,0.29
+1153,Western Spirits Beverage Co. LLC,IMPORTED VODKA,0.06
+1154,Royal World Spirits,IMPORTED VODKA,0.1
+1155,PERNOD RICARD USA,Irish Whiskies,0.2
+1156,PROXIMO,Irish Whiskies,0.25
+1157,Castle Brands,Irish Whiskies,0.15
+1158,William Grant & Sons Inc,Irish Whiskies,0.21
+1159,SAZERAC COMPANY  INC,Irish Whiskies,0.04
+1160,LUXCO INC,Irish Whiskies,0.25
+1161,Phillips Beverage,Irish Whiskies,0.22
+1162,Park Street Imports,Irish Whiskies,0.3
+1163,MISA Imports Inc,Irish Whiskies,0.2
+1164,BACARDI USA INC,Irish Whiskies,0.1
+1165,Jim Beam Brands,Irish Whiskies,0.11
+1166,Prestige Wine & Spirits Group,Irish Whiskies,0.15
+1167,DISARONNO INTERNATIONAL,Irish Whiskies,0.08
+1168,E & J Gallo Winery,Irish Whiskies,0.19
+1169,MS WALKER INC,Irish Whiskies,0.29
+1170,Mhw LTD,Irish Whiskies,0.3
+1171,Prestige Wine & Spirits Group / United States Distilled Products Co,Irish Whiskies,0.28
+1172,HOTALING & CO,Irish Whiskies,0.21
+1173,Brown Forman Corp.,Irish Whiskies,0.32
+1174,STOLLER IMPORTS INC / MARSALLE COMPANY,Irish Whiskies,0.29
+1175,Glass Revolution Imports,Irish Whiskies,0.16
+1176,Levecke Corporation,Irish Whiskies,0.31
+1177,Diageo Americas,VODKA 80 PROOF,0.25
+1178,Sazerac North America,VODKA 80 PROOF,0.3
+1179,Fifth Generation Inc.,VODKA 80 PROOF,0.13
+1180,Laird And Company,VODKA 80 PROOF,0.19
+1181,Mccormick Distilling Company,VODKA 80 PROOF,0.2
+1182,Luxco-St Louis,VODKA 80 PROOF,0.06
+1183,"Sazerac Co., Inc.",VODKA 80 PROOF,0.14
+1184,Phillips Beverage Company,VODKA 80 PROOF,0.25
+1185,Wilson Daniels Ltd.,VODKA 80 PROOF,0.14
+1186,E AND J GALLO WINERY,VODKA 80 PROOF,0.06
+1187,Prestige Wine and Spirits Group,VODKA 80 PROOF,0.28
+1188,E and J Gallo Winery,VODKA 80 PROOF,0.1
+1189,Heaven Hill Brands,VODKA 80 PROOF,0.24
+1190,Campari(skyy),VODKA 80 PROOF,0.14
+1191,Jim Beam Brands,VODKA 80 PROOF,0.04
+1192,"Cedar Ridge Vineyards,LLC",VODKA 80 PROOF,0.14
+1193,MHW Ltd,VODKA 80 PROOF,0.19
+1194,Mississippi River Distilling Co.,VODKA 80 PROOF,0.3
+1195,Iowa Distilling Company,VODKA 80 PROOF,0.05
+1196,Swell Liquor LLC,VODKA 80 PROOF,0.09
+1197,"Yahara Bay Distillers, Inc",VODKA 80 PROOF,0.13
+1198,Sidney Frank Importing Co.,VODKA 80 PROOF,0.19
+1199,Minhas Micro Distillery,VODKA 80 PROOF,0.05
+1200,Proximo,VODKA 80 PROOF,0.15
+1201,Dehner Distillery,VODKA 80 PROOF,0.32
+1202,Brown-Forman Corporation,VODKA 80 PROOF,0.08
+1203,Better Brands Bev Co,VODKA 80 PROOF,0.11
+1204,Trinchero Family Estates,VODKA 80 PROOF,0.23
+1205,Cooper's Chase Distillery,VODKA 80 PROOF,0.05
+1206,Sovereign Brands,VODKA 80 PROOF,0.28
+1207,Marsalle Company,VODKA 80 PROOF,0.2
+1208,Blaum Bros. Distilling Co.,VODKA 80 PROOF,0.2
+1209,Serralles USA,VODKA 80 PROOF,0.17
+1210,The Wine Group,VODKA 80 PROOF,0.06
+1211,"Hood River Distillers, Inc.",VODKA 80 PROOF,0.07
+1212,Phillips Beverage Company,VODKA FLAVORED,0.09
+1213,E AND J GALLO WINERY,VODKA FLAVORED,0.17
+1214,Heaven Hill Brands,VODKA FLAVORED,0.19
+1215,Luxco-St Louis,VODKA FLAVORED,0.17
+1216,Jim Beam Brands,VODKA FLAVORED,0.3
+1217,Diageo Americas,VODKA FLAVORED,0.33
+1218,E and J Gallo Winery,VODKA FLAVORED,0.13
+1219,Mississippi River Distilling Co.,VODKA FLAVORED,0.33
+1220,Brown-Forman Corporation,VODKA FLAVORED,0.04
+1221,"Sazerac Co., Inc.",VODKA FLAVORED,0.22
+1222,Square One Organic Spirits,VODKA FLAVORED,0.29
+1223,Mccormick Distilling Company,VODKA FLAVORED,0.14
+1224,Wilson Daniels Ltd.,VODKA FLAVORED,0.15
+1225,Campari(skyy),VODKA FLAVORED,0.23
+1226,Luxco-Cleveland,VODKA FLAVORED,0.17
+1227,The Wine Group,VODKA FLAVORED,0.31
+1228,Trinchero Family Estates,VODKA FLAVORED,0.17
+1229,"Hood River Distillers, Inc.",VODKA FLAVORED,0.24
+1230,Blaum Bros. Distilling Co.,VODKA FLAVORED,0.24
+1231,Rogue Ales and Spirits,VODKA FLAVORED,0.11
+1232,Dehner Distillery,VODKA FLAVORED,0.28
+1233,Black Rock Spirits,VODKA FLAVORED,0.09
+1234,Proximo,VODKA FLAVORED,0.25
+1235,Park Street Imports-Voli,VODKA FLAVORED,0.12
+1236,Stern Beverage,VODKA FLAVORED,0.1
+1237,Sazerac North America,VODKA FLAVORED,0.09
+1238,McCormick Distilling Co.,American Vodkas,0.16
+1239,SAZERAC NORTH AMERICA,American Vodkas,0.22
+1240,Laird & Company,American Vodkas,0.15
+1241,DIAGEO AMERICAS,American Vodkas,0.22
+1242,LUXCO INC,American Vodkas,0.31
+1243,FIFTH GENERATION INC,American Vodkas,0.03
+1244,Heaven Hill Brands,American Vodkas,0.31
+1245,JDSO INC / Red Boot Distillery,American Vodkas,0.08
+1246,Swell Liquor LLC,American Vodkas,0.33
+1247,Infinium Spirits,American Vodkas,0.22
+1248,E & J Gallo Winery,American Vodkas,0.11
+1249,Phillips Beverage,American Vodkas,0.12
+1250,SAZERAC COMPANY  INC,American Vodkas,0.07
+1251,Gray Duck Spirits LLC,American Vodkas,0.14
+1252,CEDAR RIDGE VINEYARDS LL,American Vodkas,0.09
+1253,MINHAS MICRO DISTILLERY,American Vodkas,0.32
+1254,DEHNER DISTILLERY,American Vodkas,0.22
+1255,Campari America,American Vodkas,0.28
+1256,Skyy Spirits Inc,American Vodkas,0.06
+1257,MISSISSIPPI RIVER DISTIL,American Vodkas,0.21
+1258,Park Street Imports,American Vodkas,0.19
+1259,Prestige Wine & Spirits Group,American Vodkas,0.25
+1260,Levecke Corporation,American Vodkas,0.29
+1261,Jim Beam Brands,American Vodkas,0.12
+1262,"Foundry Distilling Company, LLC",American Vodkas,0.21
+1263,Lonely Oak Distillery,American Vodkas,0.19
+1264,CONSTELLATION BRANDS INC,American Vodkas,0.1
+1265,Mhw LTD,American Vodkas,0.19
+1266,DUNKEL CORPORATION / Iowa Distilling,American Vodkas,0.32
+1267,JEM Beverage Company,American Vodkas,0.19
+1268,Cats Eye Distillery,American Vodkas,0.2
+1269,PERNOD RICARD USA,American Vodkas,0.28
+1270,Oz Spirits LLC,American Vodkas,0.25
+1271,"American Heritage Distillers, LLC / Century Farms Distillery",American Vodkas,0.21
+1272,Red Boot Distillery,American Vodkas,0.27
+1273,DUNKEL CORPORATION,American Vodkas,0.13
+1274,"American Heritage Distillers, LLC",American Vodkas,0.17
+1275,45TH PARALLEL SPIRITS,American Vodkas,0.15
+1276,Meisenburg Brewing & Distilling,American Vodkas,0.21
+1277,Strong Spirits Distilling,American Vodkas,0.08
+1278,B. T. O. Distillers LLC,American Vodkas,0.25
+1279,Hawaii Sea Spirits LLC,American Vodkas,0.25
+1280,"O&R Ventures, LLC",American Vodkas,0.34
+1281,Colorado Gold Distillery,American Vodkas,0.21
+1282,MARSALLE COMPANY,American Vodkas,0.1
+1283,BLAUM BROTHERS DISTILLING CO,American Vodkas,0.03
+1284,Eastside Distilling,American Vodkas,0.14
+1285,One Eight Distilling LLC,American Vodkas,0.27
+1286,BAD BEAR ENTERPRISES LLC,American Vodkas,0.31
+1287,RS Lipman Company LLC,American Vodkas,0.06
+1288,Midwest Liquor Company,American Vodkas,0.17
+1289,Prestige Wine & Spirits Group / United States Distilled Products Co,American Vodkas,0.09
+1290,Driftless Glen Distillery,American Vodkas,0.3
+1291,Bluff Creek Distillery,American Vodkas,0.29
+1292,BAD BEAR ENTERPRISES LLC / Legendary Rye,American Vodkas,0.21
+1293,"Sion Farm Distillery / Twin City Island Spirits, Inc",American Vodkas,0.09
+1294,Jacob Rieger & Company LLC,American Vodkas,0.19
+1295,WESTERN SPIRITS BEVERAGE,American Vodkas,0.23
+1296,Revelton Distilling Company,American Vodkas,0.32
+1297,"Cowboy Country Distilling, Inc.",American Vodkas,0.18
+1298,Be In Good Spirits LLC / Frankly Organic Vodka,American Vodkas,0.31
+1299,"Trust Me Vodka, Inc.",American Vodkas,0.18
+1300,"Restless Spirits Distilling Company, LLC",American Vodkas,0.17
+1301,Rebecca Creek Distillery LLC,American Vodkas,0.28
+1302,DIAGEO AMERICAS,Imported Vodkas,0.27
+1303,BACARDI USA INC,Imported Vodkas,0.25
+1304,PERNOD RICARD USA,Imported Vodkas,0.34
+1305,SAZERAC COMPANY  INC,Imported Vodkas,0.13
+1306,Jim Beam Brands,Imported Vodkas,0.07
+1307,W J Deutsch & Sons LTD,Imported Vodkas,0.11
+1308,CONSTELLATION BRANDS INC,Imported Vodkas,0.15
+1309,STOLI GROUP,Imported Vodkas,0.3
+1310,MOET HENNESSY USA,Imported Vodkas,0.24
+1311,William Grant & Sons Inc,Imported Vodkas,0.06
+1312,LUXCO INC,Imported Vodkas,0.1
+1313,Mhw LTD,Imported Vodkas,0.27
+1314,PROXIMO,Imported Vodkas,0.19
+1315,IMPERIAL BRANDS INC,Imported Vodkas,0.29
+1316,MISA Imports Inc,Imported Vodkas,0.09
+1317,RUSSIAN STANDARD VODKA,Imported Vodkas,0.28
+1318,WESTERN SPIRITS BEVERAGE,Imported Vodkas,0.18
+1319,QUADRO GROUP LLC,Imported Vodkas,0.21
+1320,Infinium Spirits,Imported Vodkas,0.18
+1321,DEHNER DISTILLERY,Imported Vodkas,0.13
+1322,Park Street Imports,Imported Vodkas,0.35
+1323,AMERICAN SPIRITS EXCHANGE,Imported Vodkas,0.2
+1324,"Global Spirits USA, LLC",Imported Vodkas,0.31
+1325,"Yahara Bay Distillers, Inc",SCOTCH WHISKIES,0.24
+1326,Diageo Americas,SCOTCH WHISKIES,0.08
+1327,"Bacardi U.S.A., Inc.",SCOTCH WHISKIES,0.1
+1328,Pernod Ricard USA/Austin Nichols,SCOTCH WHISKIES,0.15
+1329,"WILLIAM GRANT AND SONS, INC.",SCOTCH WHISKIES,0.23
+1330,"M.S. Walker, Inc.",SCOTCH WHISKIES,0.12
+1331,Sazerac North America,SCOTCH WHISKIES,0.17
+1332,Shaw Ross International Importers LL,SCOTCH WHISKIES,0.29
+1333,"William Grant and Sons, Inc.",SCOTCH WHISKIES,0.13
+1334,MHW Ltd,SCOTCH WHISKIES,0.2
+1335,Edrington Group USA LLC,SCOTCH WHISKIES,0.09
+1336,"Whyte and Machay(Americas) Limited,L",SCOTCH WHISKIES,0.17
+1337,Anchor Distilling (PREISS IMPORTS),SCOTCH WHISKIES,0.18
+1338,Heaven Hill Brands,SCOTCH WHISKIES,0.26
+1339,Jim Beam Brands,SCOTCH WHISKIES,0.17
+1340,Prestige Wine and Spirits Group,SCOTCH WHISKIES,0.33
+1341,"WILDMAN AND SONS, F.",SCOTCH WHISKIES,0.19
+1342,"Moet Hennessy USA, Inc.",SCOTCH WHISKIES,0.08
+1343,E AND J GALLO WINERY,SCOTCH WHISKIES,0.21
+1344,Impex Beverages Inc,SCOTCH WHISKIES,0.18
+1345,"Sazerac Co., Inc.",SCOTCH WHISKIES,0.17
+1346,BACARDI USA INC,Scotch Whiskies,0.19
+1347,Shaw-Ross International,Scotch Whiskies,0.24
+1348,DIAGEO AMERICAS,Scotch Whiskies,0.24
+1349,William Grant & Sons Inc,Scotch Whiskies,0.31
+1350,SAZERAC NORTH AMERICA,Scotch Whiskies,0.25
+1351,SAZERAC COMPANY  INC,Scotch Whiskies,0.11
+1352,Prestige Wine & Spirits Group / United States Distilled Products Co,Scotch Whiskies,0.17
+1353,MISA Imports Inc,Scotch Whiskies,0.29
+1354,PERNOD RICARD USA,Scotch Whiskies,0.27
+1355,Prestige Wine & Spirits Group,Scotch Whiskies,0.25
+1356,Edrington Group USA LLC,Scotch Whiskies,0.13
+1357,Mhw LTD,Scotch Whiskies,0.15
+1358,Jim Beam Brands,Scotch Whiskies,0.05
+1359,Gemini Spirits,Scotch Whiskies,0.26
+1360,E & J Gallo Winery,Scotch Whiskies,0.26
+1361,Skyy Spirits Inc,Scotch Whiskies,0.09
+1362,Vision Wine & Spirit LLC,Scotch Whiskies,0.21
+1363,Campari America,Scotch Whiskies,0.32
+1364,REMY COINTREAU USA INC,Scotch Whiskies,0.23
+1365,Levecke Corporation,Scotch Whiskies,0.04
+1366,MOET HENNESSY USA,Scotch Whiskies,0.1
+1367,Phillips Beverage,Scotch Whiskies,0.25
+1368,Paterno Imports LTD,Scotch Whiskies,0.23
+1369,IMPEX BEVERAGE INC,Scotch Whiskies,0.04
+1370,Paterno Imports LTD / Terlato Wines International,Scotch Whiskies,0.25
+1371,"Sazerac Co., Inc.",WHISKEY LIQUEUR,0.23
+1372,Brown-Forman Corporation,WHISKEY LIQUEUR,0.24
+1373,Charles Jacquin/Independent Spirits,WHISKEY LIQUEUR,0.14
+1374,Diageo Americas,WHISKEY LIQUEUR,0.23
+1375,Heaven Hill Brands,WHISKEY LIQUEUR,0.22
+1376,Phillips Beverage Company,WHISKEY LIQUEUR,0.15
+1377,"Constellation Wine Company, Inc.",WHISKEY LIQUEUR,0.33
+1378,"Yahara Bay Distillers, Inc",WHISKEY LIQUEUR,0.12
+1379,Broadbent Distillery,WHISKEY LIQUEUR,0.29
+1380,Castle Brands,WHISKEY LIQUEUR,0.29
+1381,Dehner Distillery,WHISKEY LIQUEUR,0.17
+1382,"Whyte and Machay(Americas) Limited,L",WHISKEY LIQUEUR,0.26
+1383,Luxco-St Louis,WHISKEY LIQUEUR,0.33
+1384,Aveniu Brands,WHISKEY LIQUEUR,0.19
+1385,"Charles Jacquin Et. Cie., Inc.",WHISKEY LIQUEUR,0.06
+1386,Campari(skyy),WHISKEY LIQUEUR,0.16
+1387,Cooperspiritsinternational,WHISKEY LIQUEUR,0.26
+1388,Proximo,WHISKEY LIQUEUR,0.14
+1389,Niche Import Co.,WHISKEY LIQUEUR,0.05
+1390,SAZERAC COMPANY  INC,Whiskey Liqueur,0.25
+1391,Heaven Hill Brands,Whiskey Liqueur,0.27
+1392,DIAGEO AMERICAS,Whiskey Liqueur,0.3
+1393,"Minglewood Distilling Company, LLC",Whiskey Liqueur,0.24
+1394,Campari America,Whiskey Liqueur,0.05
+1395,DEHNER DISTILLERY,Whiskey Liqueur,0.1
+1396,Old Elk Distilleries LLC,Whiskey Liqueur,0.16
+1397,LUXCO INC,Whiskey Liqueur,0.21
+1398,PROXIMO,Whiskey Liqueur,0.1
+1399,CONSTELLATION BRANDS INC,Whiskey Liqueur,0.31
+1400,Phillips Beverage,Whiskey Liqueur,0.22
+1401,SAZERAC NORTH AMERICA,Whiskey Liqueur,0.31
+1402,Prestige Wine & Spirits Group,Whiskey Liqueur,0.28
+1403,COOPER SPIRITS INTERNATIONAL,Whiskey Liqueur,0.24
+1404,Charles Jacquin Et Cie,Whiskey Liqueur,0.28
+1405,JDSO INC / Red Boot Distillery,Whiskey Liqueur,0.27
+1406,Mhw LTD,Whiskey Liqueur,0.23
+1407,STOLLER IMPORTS INC / MARSALLE COMPANY,Whiskey Liqueur,0.11
+1408,Red Boot Distillery,Whiskey Liqueur,0.24
+1409,BROADBENT VENTURES LLC,Whiskey Liqueur,0.06
+1410,Skyy Spirits Inc,Whiskey Liqueur,0.07
+1411,MISSISSIPPI RIVER DISTIL,Whiskey Liqueur,0.29
+1412,Diageo Americas,BLENDED WHISKIES,0.17
+1413,Laird And Company,BLENDED WHISKIES,0.14
+1414,Luxco-St Louis,BLENDED WHISKIES,0.04
+1415,Jim Beam Brands,BLENDED WHISKIES,0.31
+1416,Mccormick Distilling Company,BLENDED WHISKIES,0.32
+1417,"Cedar Ridge Vineyards,LLC",BLENDED WHISKIES,0.28
+1418,Western Spirits Beverage Co. LLC,BLENDED WHISKIES,0.05
+1419,Sazerac North America,BLENDED WHISKIES,0.08
+1420,Mississippi River Distilling Co.,BLENDED WHISKIES,0.28
+1421,Sage Beverages,BLENDED WHISKIES,0.17
+1422,Proximo,BLENDED WHISKIES,0.29
+1423,"Palm Bay Imports, Inc.",BLENDED WHISKIES,0.15
+1424,Iowa Distilling Company,BLENDED WHISKIES,0.31
+1425,"Yahara Bay Distillers, Inc",BLENDED WHISKIES,0.16
+1426,Phillips Beverage Company,BLENDED WHISKIES,0.12
+1427,Honey Creek Distillery,BLENDED WHISKIES,0.32
+1428,MHW Ltd,BLENDED WHISKIES,0.16
+1429,"High West Distillery, LLC",BLENDED WHISKIES,0.26
+1430,Broadbent Distillery,BLENDED WHISKIES,0.15
+1431,Rogue Ales and Spirits,BLENDED WHISKIES,0.18
+1432,"3-Oaks Distillery, LLC",BLENDED WHISKIES,0.16
+1433,LEVECKE CORP,BLENDED WHISKIES,0.04
+1434,Dehner Distillery,BLENDED WHISKIES,0.19
+1435,"WILLIAM GRANT AND SONS, INC.",BLENDED WHISKIES,0.31
+1436,Levecke Corp,BLENDED WHISKIES,0.23
+1437,Castle Brands,BLENDED WHISKIES,0.09
+1438,Levecke Corp.,BLENDED WHISKIES,0.12
+1439,"Bacardi U.S.A., Inc.",BLENDED WHISKIES,0.16
+1440,"Boffo Brands, LLC",BLENDED WHISKIES,0.18
+1441,Koval Distillery,BLENDED WHISKIES,0.04
+1442,Domaine Charbay,BLENDED WHISKIES,0.05
+1443,Serralles USA,BLENDED WHISKIES,0.26
+1444,Aiko Importers Inc,BLENDED WHISKIES,0.09
+1445,Jim Beam Brands,Blended Whiskies,0.06
+1446,Laird & Company,Blended Whiskies,0.31
+1447,WESTERN SPIRITS BEVERAGE,Blended Whiskies,0.18
+1448,DIAGEO AMERICAS,Blended Whiskies,0.17
+1449,Infinium Spirits,Blended Whiskies,0.32
+1450,LUXCO INC,Blended Whiskies,0.11
+1451,DUNKEL CORPORATION,Blended Whiskies,0.28
+1452,CEDAR RIDGE VINEYARDS LL,Blended Whiskies,0.22
+1453,SAZERAC COMPANY  INC,Blended Whiskies,0.32
+1454,McCormick Distilling Co.,Blended Whiskies,0.31
+1455,DEHNER DISTILLERY,Blended Whiskies,0.07
+1456,PROXIMO,Blended Whiskies,0.32
+1457,DUNKEL CORPORATION / Iowa Distilling,Blended Whiskies,0.15
+1458,Jacob Rieger & Company LLC,Blended Whiskies,0.32
+1459,SAZERAC NORTH AMERICA,Blended Whiskies,0.29
+1460,MISSISSIPPI RIVER DISTIL,Blended Whiskies,0.04
+1461,"Foundry Distilling Company, LLC",Blended Whiskies,0.16
+1462,Phillips Beverage,Blended Whiskies,0.27
+1463,Cats Eye Distillery,Blended Whiskies,0.06
+1464,Skyy Spirits Inc,Blended Whiskies,0.07
+1465,Mhw LTD,Blended Whiskies,0.09
+1466,"Caribbean Distillers, LLC",Blended Whiskies,0.28
+1467,PERNOD RICARD USA,Blended Whiskies,0.33
+1468,BROADBENT VENTURES LLC,Blended Whiskies,0.33
+1469,JDSO INC / Red Boot Distillery,Blended Whiskies,0.14
+1470,BRECKENRIDGE DISTILLERY,Blended Whiskies,0.07
+1471,Templeton Distilling LLC,Blended Whiskies,0.0
+1472,BACARDI USA INC,Blended Whiskies,0.11
+1473,Revelton Distilling Company,Blended Whiskies,0.27
+1474,"3-Oaks Distillery, LLC",Blended Whiskies,0.25
+1475,W J Deutsch & Sons LTD,Blended Whiskies,0.14
+1476,CONSTELLATION BRANDS INC,Blended Whiskies,0.28
+1477,PIEDMONT DISTILLERS INC,Blended Whiskies,0.28
+1478,PROST BEVERAGE COMPANY,Blended Whiskies,0.31
+1479,Levecke Corporation,Blended Whiskies,0.29
+1480,Driftless Glen Distillery,Blended Whiskies,0.33
+1481,"Firestone & Robertson Distilling Company, LLC",Blended Whiskies,0.2
+1482,Rebecca Creek Distillery LLC,Blended Whiskies,0.07
+1483,William Grant & Sons Inc,Blended Whiskies,0.13
+1484,CNS Imports; Four Seasons Trading; CNS Wine & Spirits,Blended Whiskies,0.04
+1485,Old Elk Distilleries LLC,Blended Whiskies,0.26
+1486,Niche Import Co,Blended Whiskies,0.11
+1487,GoAmericaGo Beverages LLC / WhistlePig,Blended Whiskies,0.13
+1488,CHATHAM IMPORTS INC,Blended Whiskies,0.3
+1489,AIKO IMPORTERS INC,Blended Whiskies,0.13
+1490,"Restless Spirits Distilling Company, LLC",Blended Whiskies,0.1
+1491,Park Street Imports,Blended Whiskies,0.12
+1492,RS Lipman Company LLC,Blended Whiskies,0.36
+1493,Red Boot Distillery,Blended Whiskies,0.2
+1494,Dilawri Barrels LLC,Blended Whiskies,0.31
+1495,Eastside Distilling,Blended Whiskies,0.33
+1496,"Marussia Beverages USA, Inc / Niche Import",Blended Whiskies,0.31
+1497,Edrington Group USA LLC,Blended Whiskies,0.19
+1498,California Tequila Inc,Blended Whiskies,0.14
+1499,Bedford & Grove LLC/ Chankaska Creek and Ranch Winery,Blended Whiskies,0.09
+1500,Savage & Cooke / Santa Croce LLC,Blended Whiskies,0.31
+1501,Old Sugar Distillery,Blended Whiskies,0.1
+1502,HIGH WEST DISTILLERY LLC,Blended Whiskies,0.53
+1503,Pernod Ricard USA/Austin Nichols,AMERICAN DRY GINS,0.07
+1504,E AND J GALLO WINERY,AMERICAN DRY GINS,0.06
+1505,Phillips Beverage Company,AMERICAN DRY GINS,0.11
+1506,Laird And Company,AMERICAN DRY GINS,0.15
+1507,Luxco-St Louis,AMERICAN DRY GINS,0.09
+1508,Mccormick Distilling Company,AMERICAN DRY GINS,0.27
+1509,Jim Beam Brands,AMERICAN DRY GINS,0.15
+1510,Sazerac North America,AMERICAN DRY GINS,0.34
+1511,Heaven Hill Brands,AMERICAN DRY GINS,0.13
+1512,Diageo Americas,AMERICAN DRY GINS,0.17
+1513,E and J Gallo Winery,AMERICAN DRY GINS,0.07
+1514,Mississippi River Distilling Co.,AMERICAN DRY GINS,0.29
+1515,"Yahara Bay Distillers, Inc",AMERICAN DRY GINS,0.31
+1516,"Cedar Ridge Vineyards,LLC",AMERICAN DRY GINS,0.14
+1517,"TY KU, LLC",AMERICAN DRY GINS,0.05
+1518,Anchor Distilling (PREISS IMPORTS),AMERICAN DRY GINS,0.25
+1519,Rogue Ales and Spirits,AMERICAN DRY GINS,0.1
+1520,Serralles USA,AMERICAN DRY GINS,0.07
+1521,Blaum Bros. Distilling Co.,AMERICAN DRY GINS,0.3
+1522,Panther Distillery,AMERICAN DRY GINS,0.23
+1523,CONSTELLATION BRANDS INC,American Brandies,0.19
+1524,E & J Gallo Winery,American Brandies,0.15
+1525,LUXCO INC,American Brandies,0.3
+1526,Heaven Hill Brands,American Brandies,0.12
+1527,SAZERAC COMPANY  INC,American Brandies,0.11
+1528,BROADBENT VENTURES LLC,American Brandies,0.12
+1529,SAZERAC NORTH AMERICA,American Brandies,0.08
+1530,Phillips Beverage,American Brandies,0.21
+1531,Brown Forman Corp.,American Brandies,0.06
+1532,MINHAS MICRO DISTILLERY,American Brandies,0.15
+1533,CEDAR RIDGE VINEYARDS LL,American Brandies,0.2
+1534,Laird & Company,American Brandies,0.14
+1535,Levecke Corporation,American Brandies,0.2
+1536,Jim Beam Brands,American Brandies,0.12
+1537,Copper & Kings American Brandy Company,American Brandies,0.3
+1538,Driftless Glen Distillery,American Brandies,0.35
+1539,Laird & Company,American Dry Gins,0.21
+1540,PERNOD RICARD USA,American Dry Gins,0.15
+1541,DIAGEO AMERICAS,American Dry Gins,0.33
+1542,E & J Gallo Winery,American Dry Gins,0.14
+1543,LUXCO INC,American Dry Gins,0.12
+1544,SAZERAC NORTH AMERICA,American Dry Gins,0.1
+1545,BACARDI USA INC,American Dry Gins,0.18
+1546,Jim Beam Brands,American Dry Gins,0.31
+1547,SAZERAC COMPANY  INC,American Dry Gins,0.14
+1548,DEHNER DISTILLERY,American Dry Gins,0.32
+1549,McCormick Distilling Co.,American Dry Gins,0.12
+1550,Phillips Beverage,American Dry Gins,0.12
+1551,Mach Flynt Inc.,American Dry Gins,0.33
+1552,Mhw LTD,American Dry Gins,0.18
+1553,Heaven Hill Brands,American Dry Gins,0.07
+1554,JDSO INC / Red Boot Distillery,American Dry Gins,0.24
+1555,MISSISSIPPI RIVER DISTIL,American Dry Gins,0.26
+1556,Revelton Distilling Company,American Dry Gins,0.09
+1557,DAVOS BRANDS LLC,American Dry Gins,0.16
+1558,W J Deutsch & Sons LTD,American Dry Gins,0.32
+1559,TY KU LLC,American Dry Gins,0.18
+1560,"Foundry Distilling Company, LLC",American Dry Gins,0.21
+1561,Oregon Brewing Co,American Dry Gins,0.12
+1562,CEDAR RIDGE VINEYARDS LL,American Dry Gins,0.24
+1563,Strong Spirits Distilling,American Dry Gins,0.22
+1564,One Eight Distilling LLC,American Dry Gins,0.04
+1565,ST GEORGE SPIRITS INC,American Dry Gins,0.25
+1566,MINHAS MICRO DISTILLERY,American Dry Gins,0.14
+1567,"Sovereign Brands, LLC",American Dry Gins,0.2
+1568,Jacob Rieger & Company LLC,American Dry Gins,0.21
+1569,Woody Creek Distillers LLC,American Dry Gins,0.09
+1570,"Restless Spirits Distilling Company, LLC",American Dry Gins,0.25
+1571,Jackson Hole Still Works,American Dry Gins,0.13
+1572,Red Boot Distillery,American Dry Gins,0.25
+1573,BLAUM BROTHERS DISTILLING CO,American Dry Gins,0.03
+1574,"Tattersall Companies, LLC",American Dry Gins,0.17
+1575,Durham Distillery,American Dry Gins,0.06
+1576,Middle West Spirits,American Dry Gins,0.05
+1577,Park Street Imports,American Dry Gins,0.27
+1578,Jim Beam Brands,American Schnapps,0.28
+1579,Phillips Beverage,American Schnapps,0.05
+1580,SAZERAC NORTH AMERICA,American Schnapps,0.25
+1581,LUXCO INC,American Schnapps,0.23
+1582,SAZERAC COMPANY  INC,American Schnapps,0.21
+1583,PERNOD RICARD USA,American Schnapps,0.22
+1584,DIAGEO AMERICAS,American Schnapps,0.2
+1585,Heaven Hill Brands,American Schnapps,0.25
+1586,Diageo Americas,CANADIAN WHISKIES,0.28
+1587,"Constellation Wine Company, Inc.",CANADIAN WHISKIES,0.33
+1588,Luxco-St Louis,CANADIAN WHISKIES,0.32
+1589,Sazerac North America,CANADIAN WHISKIES,0.13
+1590,Brown-Forman Corporation,CANADIAN WHISKIES,0.04
+1591,Jim Beam Brands,CANADIAN WHISKIES,0.06
+1592,"Sazerac Co., Inc.",CANADIAN WHISKIES,0.25
+1593,"Hood River Distillers, Inc.",CANADIAN WHISKIES,0.26
+1594,Mccormick Distilling Company,CANADIAN WHISKIES,0.17
+1595,Phillips Beverage Company,CANADIAN WHISKIES,0.09
+1596,Dehner Distillery,CANADIAN WHISKIES,0.33
+1597,Campari(skyy),CANADIAN WHISKIES,0.16
+1598,Pernod Ricard USA/Austin Nichols,CANADIAN WHISKIES,0.29
+1599,"WILLIAM GRANT AND SONS, INC.",CANADIAN WHISKIES,0.13
+1600,Gemini Spirits,CANADIAN WHISKIES,0.26
+1601,Frank-lin Distillers Products Ltd.,CANADIAN WHISKIES,0.04
+1602,DIAGEO AMERICAS,Canadian Whiskies,0.11
+1603,Heaven Hill Brands,Canadian Whiskies,0.26
+1604,Jim Beam Brands,Canadian Whiskies,0.29
+1605,CONSTELLATION BRANDS INC,Canadian Whiskies,0.13
+1606,Brown Forman Corp.,Canadian Whiskies,0.09
+1607,SAZERAC NORTH AMERICA,Canadian Whiskies,0.13
+1608,Phillips Beverage,Canadian Whiskies,0.3
+1609,SAZERAC COMPANY  INC,Canadian Whiskies,0.12
+1610,Prestige Wine & Spirits Group / United States Distilled Products Co,Canadian Whiskies,0.21
+1611,Skyy Spirits Inc,Canadian Whiskies,0.14
+1612,McCormick Distilling Co.,Canadian Whiskies,0.21
+1613,LUXCO INC,Canadian Whiskies,0.05
+1614,PROXIMO,Canadian Whiskies,0.1
+1615,Prestige Wine & Spirits Group,Canadian Whiskies,0.04
+1616,DEHNER DISTILLERY,Canadian Whiskies,0.03
+1617,Indio Spirits Inc,Canadian Whiskies,0.04
+1618,Campari America,Canadian Whiskies,0.29
+1619,AMERICAN SPIRITS EXCHANGE,Canadian Whiskies,0.31
+1620,AIKO IMPORTERS INC,Canadian Whiskies,0.17
+1621,HOTALING & CO,Canadian Whiskies,0.11
+1622,Hood River Distillers,Canadian Whiskies,0.0
+1623,William Grant & Sons Inc,Canadian Whiskies,0.11
+1624,Pernod Ricard USA/Austin Nichols,IMPORTED DRY GINS,0.27
+1625,"Bacardi U.S.A., Inc.",IMPORTED DRY GINS,0.04
+1626,Diageo Americas,IMPORTED DRY GINS,0.14
+1627,Jim Beam Brands,IMPORTED DRY GINS,0.2
+1628,"WILLIAM GRANT AND SONS, INC.",IMPORTED DRY GINS,0.22
+1629,"William Grant and Sons, Inc.",IMPORTED DRY GINS,0.16
+1630,Proximo,IMPORTED DRY GINS,0.24
+1631,MHW Ltd,IMPORTED DRY GINS,0.22
+1632,Mccormick Distilling Company,IMPORTED DRY GINS,0.06
+1633,Kindred Spirits Of North America,IMPORTED DRY GINS,0.12
+1634,Prestige Wine and Spirits Group,IMPORTED DRY GINS,0.33
+1635,Anchor Distilling (PREISS IMPORTS),IMPORTED DRY GINS,0.06
+1636,Campari(skyy),IMPORTED DRY GINS,0.15
+1637,Vision Wine and Spirits,IMPORTED DRY GINS,0.06
+1638,Sazerac North America,IMPORTED DRY GINS,0.04
+1639,Luxco-St Louis,IMPORTED DRY GINS,0.07
+1640,Sidney Frank Importing Co.,IMPORTED DRY GINS,0.31
+1641,Diageo Americas,IMPORTED SCHNAPPS,0.07
+1642,"Sazerac Co., Inc.",IMPORTED SCHNAPPS,0.19
+1643,Phillips Beverage Company,IMPORTED SCHNAPPS,0.15
+1644,MOET HENNESSY USA,Imported Brandies,0.12
+1645,REMY COINTREAU USA INC,Imported Brandies,0.32
+1646,Grand Prix Beverage LLC,Imported Brandies,0.27
+1647,Jim Beam Brands,Imported Brandies,0.3
+1648,"Worldwide Libations, LLC",Imported Brandies,0.3
+1649,Gemini Spirits,Imported Brandies,0.12
+1650,DIAGEO AMERICAS,Imported Brandies,0.06
+1651,Vin Divino Ltd,Imported Brandies,0.13
+1652,Mhw LTD,Imported Brandies,0.3
+1653,Shaw-Ross International,Imported Brandies,0.32
+1654,LUXCO INC,Imported Brandies,0.12
+1655,Brown Forman Corp.,Imported Brandies,0.24
+1656,Best Case Wines LLC,Imported Brandies,0.08
+1657,PERNOD RICARD USA,Imported Brandies,0.19
+1658,Premier Distributors LLC,Imported Brandies,0.26
+1659,HOTALING & CO,Imported Brandies,0.28
+1660,Park Street Imports,Imported Brandies,0.3
+1661,Infinium Spirits,Imported Brandies,0.23
+1662,Heavenly Spirits LLC,Imported Brandies,0.03
+1663,Dreyfus Ashby,Imported Brandies,0.16
+1664,CVI Brands,Imported Brandies,0.3
+1665,Driftless Glen Distillery,Imported Brandies,0.09
+1666,MISA Imports Inc,Imported Brandies,0.27
+1667,Vin Divino Ltd / Gonzalez Byass USA,Imported Brandies,0.16
+1668,DIAGEO AMERICAS,Imported Dry Gins,0.23
+1669,William Grant & Sons Inc,Imported Dry Gins,0.33
+1670,PERNOD RICARD USA,Imported Dry Gins,0.21
+1671,BACARDI USA INC,Imported Dry Gins,0.05
+1672,Jim Beam Brands,Imported Dry Gins,0.31
+1673,McCormick Distilling Co.,Imported Dry Gins,0.24
+1674,Mhw LTD,Imported Dry Gins,0.15
+1675,PROXIMO,Imported Dry Gins,0.25
+1676,Skyy Spirits Inc,Imported Dry Gins,0.03
+1677,Prestige Wine & Spirits Group,Imported Dry Gins,0.15
+1678,REMY COINTREAU USA INC,Imported Dry Gins,0.08
+1679,AIKO IMPORTERS INC,Imported Dry Gins,0.22
+1680,PALM BAY INTERNATIONAL,Imported Dry Gins,0.31
+1681,Niche Import Co,Imported Dry Gins,0.2
+1682,Infinium Spirits,Imported Dry Gins,0.24
+1683,Fredrick Wildman & Son,Imported Dry Gins,0.33
+1684,Park Street Imports,Imported Dry Gins,0.3
+1685,STOLLER IMPORTS INC / MARSALLE COMPANY,Imported Dry Gins,0.3
+1686,"Marussia Beverages USA, Inc / Niche Import",Imported Dry Gins,0.08
+1687,W J Deutsch & Sons LTD,Imported Dry Gins,0.22
+1688,Shaw-Ross International,Imported Dry Gins,0.2
+1689,DIAGEO AMERICAS,Imported Schnapps,0.25
+1690,SAZERAC COMPANY  INC,Imported Schnapps,0.25
+1691,BACARDI USA INC,100% Agave Tequila,0.19
+1692,Patron Spirits Company,100% Agave Tequila,0.33
+1693,LUXCO INC,100% Agave Tequila,0.14
+1694,Gemini Spirits,100% Agave Tequila,0.06
+1695,PROXIMO,100% Agave Tequila,0.17
+1696,Jim Beam Brands,100% Agave Tequila,0.05
+1697,DIAGEO AMERICAS,100% Agave Tequila,0.21
+1698,PERNOD RICARD USA,100% Agave Tequila,0.14
+1699,Brown Forman Corp.,100% Agave Tequila,0.28
+1700,CONSTELLATION BRANDS INC,100% Agave Tequila,0.17
+1701,SAZERAC COMPANY  INC,100% Agave Tequila,0.08
+1702,Skyy Spirits Inc,100% Agave Tequila,0.22
+1703,E & J Gallo Winery,100% Agave Tequila,0.08
+1704,"Mast-Jagermeister US, Inc",100% Agave Tequila,0.23
+1705,DV Spirits LLC,100% Agave Tequila,0.31
+1706,Campari America,100% Agave Tequila,0.3
+1707,Heaven Hill Brands,100% Agave Tequila,0.23
+1708,William Grant & Sons Inc,100% Agave Tequila,0.1
+1709,MPL Brands NV Inc,100% Agave Tequila,0.22
+1710,MISA Imports Inc,100% Agave Tequila,0.18
+1711,Infinium Spirits,100% Agave Tequila,0.3
+1712,Mhw LTD,100% Agave Tequila,0.3
+1713,Mara Imports,100% Agave Tequila,0.03
+1714,Shaw-Ross International,100% Agave Tequila,0.04
+1715,Park Street Imports,100% Agave Tequila,0.24
+1716,MINHAS MICRO DISTILLERY,100% Agave Tequila,0.25
+1717,Inter Wines Group,100% Agave Tequila,0.27
+1718,PALM BAY INTERNATIONAL,100% Agave Tequila,0.24
+1719,Phillips Beverage,100% Agave Tequila,0.26
+1720,SAZERAC NORTH AMERICA,100% Agave Tequila,0.25
+1721,MARSALLE COMPANY,100% Agave Tequila,0.31
+1722,McCormick Distilling Co.,100% Agave Tequila,0.25
+1723,World Trade Liquor Imports LLC,100% Agave Tequila,0.18
+1724,TY KU LLC,100% Agave Tequila,0.22
+1725,SPIRIT OF HARTFORD,100% Agave Tequila,0.18
+1726,California Tequila Inc,100% Agave Tequila,0.17
+1727,STOLLER IMPORTS INC / MARSALLE COMPANY,100% Agave Tequila,0.1
+1728,"Tequilas Premium, Inc",100% Agave Tequila,0.18
+1729,Latasi Group,100% Agave Tequila,0.12
+1730,Two Sons Imports LLC,100% Agave Tequila,0.06
+1731,Hexa Partners LP,100% Agave Tequila,0.04
+1732,STOLI GROUP,100% Agave Tequila,0.33
+1733,Edrington Group USA LLC,100% Agave Tequila,0.17
+1734,Mexcor Inc.,100% Agave Tequila,0.17
+1735,"Global Beverage Team, LLC",100% Agave Tequila,0.13
+1736,"Sazerac Co., Inc.",AMERICAN COCKTAILS,0.15
+1737,Phillips Beverage Company,AMERICAN COCKTAILS,0.09
+1738,Proximo,AMERICAN COCKTAILS,0.3
+1739,Diageo Americas,AMERICAN COCKTAILS,0.14
+1740,Sazerac North America,AMERICAN COCKTAILS,0.33
+1741,"Bacardi U.S.A., Inc.",AMERICAN COCKTAILS,0.21
+1742,Luxco-St Louis,AMERICAN COCKTAILS,0.21
+1743,Jim Beam Brands,AMERICAN COCKTAILS,0.19
+1744,Gemini Spirits,AMERICAN COCKTAILS,0.22
+1745,"Charles Jacquin Et. Cie., Inc.",AMERICAN COCKTAILS,0.08
+1746,Pernod Ricard USA/Austin Nichols,AMERICAN COCKTAILS,0.31
+1747,Brown-Forman Corporation,AMERICAN COCKTAILS,0.18
+1748,American Vintage Beverage,AMERICAN COCKTAILS,0.17
+1749,"Mango Bottling, Inc.",AMERICAN COCKTAILS,0.09
+1750,The Wine Group,AMERICAN COCKTAILS,0.23
+1751,Luxco-Cleveland,AMERICAN COCKTAILS,0.29
+1752,Frank-lin Distillers Products Ltd.,AMERICAN COCKTAILS,0.22
+1753,Serralles USA,AMERICAN COCKTAILS,0.25
+1754,National Brokers,AMERICAN COCKTAILS,0.25
+1755,Koloa Rum Company,AMERICAN COCKTAILS,0.22
+1756,Brown-Forman Corporation,TENNESSEE WHISKIES,0.27
+1757,"Bacardi U.S.A., Inc.",TENNESSEE WHISKIES,0.0
+1758,Diageo Americas,TENNESSEE WHISKIES,0.1
+1759,Four Roses Distillery,TENNESSEE WHISKIES,0.31
+1760,"Ole Smoky Distillery, LLC",TENNESSEE WHISKIES,0.13
+1761,Heaven Hill Brands,TENNESSEE WHISKIES,0.19
+1762,Luxco-St Louis,TENNESSEE WHISKIES,0.14
+1763,Duggan's Distillers Products Corp,TENNESSEE WHISKIES,0.04
+1764,Brown Forman Corp.,Tennessee Whiskies,0.08
+1765,OLE SMOKY DISTILLERY LLC,Tennessee Whiskies,0.16
+1766,Park Street Imports,Tennessee Whiskies,0.31
+1767,DIAGEO AMERICAS,Tennessee Whiskies,0.2
+1768,DV Spirits LLC,Tennessee Whiskies,0.13
+1769,Cats Eye Distillery,Tennessee Whiskies,0.31
+1770,CONSTELLATION BRANDS INC,Tennessee Whiskies,0.18
+1771,Prestige Wine and Spirits Group,PEPPERMINT SCHNAPPS,0.13
+1772,Luxco-St Louis,PEPPERMINT SCHNAPPS,0.16
+1773,Phillips Beverage Company,PEPPERMINT SCHNAPPS,0.31
+1774,Jim Beam Brands,PEPPERMINT SCHNAPPS,0.14
+1775,Sazerac North America,PEPPERMINT SCHNAPPS,0.2
+1776,"Sazerac Co., Inc.",PEPPERMINT SCHNAPPS,0.23
+1777,Pernod Ricard USA/Austin Nichols,PEPPERMINT SCHNAPPS,0.06
+1778,Minhas Micro Distillery,PEPPERMINT SCHNAPPS,0.06
+1779,E and J Gallo Winery,PEPPERMINT SCHNAPPS,0.04
+1780,E AND J GALLO WINERY,PEPPERMINT SCHNAPPS,0.1
+1781,Duggan's Distillers Products Corp,PEPPERMINT SCHNAPPS,0.18
+1782,Serralles USA,PEPPERMINT SCHNAPPS,0.18
+1783,Diageo Americas,IMPORTED VODKA - MISC,0.11
+1784,Pernod Ricard USA/Austin Nichols,IMPORTED VODKA - MISC,0.05
+1785,Luxco-St Louis,IMPORTED VODKA - MISC,0.3
+1786,"Constellation Wine Company, Inc.",IMPORTED VODKA - MISC,0.25
+1787,Jim Beam Brands,IMPORTED VODKA - MISC,0.11
+1788,Proximo,IMPORTED VODKA - MISC,0.18
+1789,Stoli Group,IMPORTED VODKA - MISC,0.27
+1790,Western Spirits Beverage Co. LLC,IMPORTED VODKA - MISC,0.3
+1791,"WILLIAM GRANT AND SONS, INC.",IMPORTED VODKA - MISC,0.31
+1792,"Carriage House Imports, Ltd.",IMPORTED VODKA - MISC,0.27
+1793,"Moet Hennessy USA, Inc.",IMPORTED VODKA - MISC,0.08
+1794,"Bacardi U.S.A., Inc.",IMPORTED VODKA - MISC,0.11
+1795,"Imperial Brands, Inc.",IMPORTED VODKA - MISC,0.21
+1796,Brown-Forman Corporation,IMPORTED VODKA - MISC,0.16
+1797,Dehner Distillery,IMPORTED VODKA - MISC,0.04
+1798,"Sazerac Co., Inc.",IMPORTED VODKA - MISC,0.27
+1799,E and J Gallo Winery,AMERICAN GRAPE BRANDIES,0.19
+1800,"Constellation Wine Company, Inc.",AMERICAN GRAPE BRANDIES,0.32
+1801,E AND J GALLO WINERY,AMERICAN GRAPE BRANDIES,0.08
+1802,Heaven Hill Brands,AMERICAN GRAPE BRANDIES,0.27
+1803,Jim Beam Brands,AMERICAN GRAPE BRANDIES,0.25
+1804,Brown-Forman Corporation,AMERICAN GRAPE BRANDIES,0.3
+1805,Sazerac North America,AMERICAN GRAPE BRANDIES,0.25
+1806,"Cedar Ridge Vineyards,LLC",AMERICAN GRAPE BRANDIES,0.19
+1807,Broadbent Distillery,AMERICAN GRAPE BRANDIES,0.32
+1808,Phillips Beverage,American Flavored Vodka,0.22
+1809,Heaven Hill Brands,American Flavored Vodka,0.07
+1810,E & J Gallo Winery,American Flavored Vodka,0.31
+1811,JEM Beverage Company,American Flavored Vodka,0.26
+1812,LUXCO INC,American Flavored Vodka,0.08
+1813,DIAGEO AMERICAS,American Flavored Vodka,0.3
+1814,McCormick Distilling Co.,American Flavored Vodka,0.31
+1815,Infinium Spirits,American Flavored Vodka,0.31
+1816,BLACK ROCK SPIRITS,American Flavored Vodka,0.12
+1817,Skyy Spirits Inc,American Flavored Vodka,0.3
+1818,Revelton Distilling Company,American Flavored Vodka,0.06
+1819,WESTERN SPIRITS BEVERAGE,American Flavored Vodka,0.11
+1820,Campari America,American Flavored Vodka,0.1
+1821,SAZERAC COMPANY  INC,American Flavored Vodka,0.06
+1822,JDSO INC / Red Boot Distillery,American Flavored Vodka,0.26
+1823,Lonely Oak Distillery,American Flavored Vodka,0.21
+1824,SAZERAC NORTH AMERICA,American Flavored Vodka,0.33
+1825,DEHNER DISTILLERY,American Flavored Vodka,0.18
+1826,BLAUM BROTHERS DISTILLING CO,American Flavored Vodka,0.01
+1827,Charbay Distillers LLC,American Flavored Vodka,0.19
+1828,"Cowboy Country Distilling, Inc.",American Flavored Vodka,0.29
+1829,BACARDI USA INC,American Flavored Vodka,0.13
+1830,Driftless Glen Distillery,American Flavored Vodka,0.14
+1831,"Central Standard, LLC",American Flavored Vodka,0.08
+1832,Be In Good Spirits LLC / Frankly Organic Vodka,American Flavored Vodka,0.15
+1833,Middle West Spirits,American Flavored Vodka,0.18
+1834,Heritage Distilling Company,American Flavored Vodka,0.17
+1835,ST GEORGE SPIRITS INC,American Flavored Vodka,0.14
+1836,Hood River Distillers,American Flavored Vodka,0.12
+1837,Jim Beam Brands,American Flavored Vodka,0.07
+1838,Bluff Creek Distillery,American Flavored Vodka,0.17
+1839,"Moet Hennessy USA, Inc.",IMPORTED GRAPE BRANDIES,0.12
+1840,Jim Beam Brands,IMPORTED GRAPE BRANDIES,0.27
+1841,REMY COINTREAU USA         .,IMPORTED GRAPE BRANDIES,0.27
+1842,R�my Cointreau USA,IMPORTED GRAPE BRANDIES,0.28
+1843,"Yahara Bay Distillers, Inc",IMPORTED GRAPE BRANDIES,0.21
+1844,Gemini Spirits,IMPORTED GRAPE BRANDIES,0.1
+1845,Ste. Michelle Wine Estates,IMPORTED GRAPE BRANDIES,0.05
+1846,Luxco-St Louis,IMPORTED GRAPE BRANDIES,0.18
+1847,Pernod Ricard USA/Austin Nichols,IMPORTED GRAPE BRANDIES,0.08
+1848,"W. J. Deutsch And Sons, Ltd.",IMPORTED GRAPE BRANDIES,0.06
+1849,Duggan's Distillers Products Corp,IMPORTED GRAPE BRANDIES,0.18
+1850,"Bacardi U.S.A., Inc.",IMPORTED GRAPE BRANDIES,0.12
+1851,Stephen Augustus Imports,IMPORTED GRAPE BRANDIES,0.26
+1852,"A Hardy / U.S.A., Ltd.",IMPORTED GRAPE BRANDIES,0.04
+1853,Classic Wine Imports,IMPORTED GRAPE BRANDIES,0.22
+1854,Grand Prix Beverage LLC,IMPORTED GRAPE BRANDIES,0.1
+1855,Anchor Distilling,IMPORTED GRAPE BRANDIES,0.17
+1856,"Palm Bay Imports, Inc.",IMPORTED GRAPE BRANDIES,0.24
+1857,Shaw Ross International Importers LL,IMPORTED GRAPE BRANDIES,0.29
+1858,Kobrand Corporation,IMPORTED GRAPE BRANDIES,0.25
+1859,Aiko Importers Inc,IMPORTED GRAPE BRANDIES,0.21
+1860,MHW Ltd,IMPORTED GRAPE BRANDIES,0.27
+1861,Niche Import Co.,IMPORTED GRAPE BRANDIES,0.16
+1862,Stanley Stawski Distributing Co.,IMPORTED GRAPE BRANDIES,0.32
+1863,Vision Wine and Spirits,IMPORTED GRAPE BRANDIES,0.31
+1864,CONSTELLATION BRANDS INC,Imported Flavored Vodka,0.27
+1865,PERNOD RICARD USA,Imported Flavored Vodka,0.19
+1866,DIAGEO AMERICAS,Imported Flavored Vodka,0.13
+1867,STOLI GROUP,Imported Flavored Vodka,0.1
+1868,Jim Beam Brands,Imported Flavored Vodka,0.15
+1869,PROXIMO,Imported Flavored Vodka,0.07
+1870,AMERICAN SPIRITS EXCHANGE,Imported Flavored Vodka,0.19
+1871,SAZERAC COMPANY  INC,Imported Flavored Vodka,0.12
+1872,BACARDI USA INC,Imported Flavored Vodka,0.09
+1873,CARRIAGE HOUSE IMPORTS,Imported Flavored Vodka,0.26
+1874,MOET HENNESSY USA,Imported Flavored Vodka,0.17
+1875,LUXCO INC,Imported Flavored Vodka,0.0
+1876,DEHNER DISTILLERY,Imported Flavored Vodka,0.0
+1877,RUSSIAN STANDARD VODKA,Imported Flavored Vodka,0.16
+1878,Jim Beam Brands,STRAIGHT BOURBON WHISKIES,0.24
+1879,Heaven Hill Brands,STRAIGHT BOURBON WHISKIES,0.09
+1880,Sazerac North America,STRAIGHT BOURBON WHISKIES,0.12
+1881,Campari(skyy),STRAIGHT BOURBON WHISKIES,0.11
+1882,"Sazerac Co., Inc.",STRAIGHT BOURBON WHISKIES,0.33
+1883,Luxco-St Louis,STRAIGHT BOURBON WHISKIES,0.16
+1884,Mississippi River Distilling Co.,STRAIGHT BOURBON WHISKIES,0.12
+1885,"Cedar Ridge Vineyards,LLC",STRAIGHT BOURBON WHISKIES,0.27
+1886,Laird And Company,STRAIGHT BOURBON WHISKIES,0.07
+1887,Brown-Forman Corporation,STRAIGHT BOURBON WHISKIES,0.24
+1888,"Yahara Bay Distillers, Inc",STRAIGHT BOURBON WHISKIES,0.24
+1889,Homestead American Whiskey,STRAIGHT BOURBON WHISKIES,0.13
+1890,Western Spirits Beverage Co. LLC,STRAIGHT BOURBON WHISKIES,0.17
+1891,Diageo Americas,STRAIGHT BOURBON WHISKIES,0.24
+1892,Prairie Creek Beverages LLC,STRAIGHT BOURBON WHISKIES,0.18
+1893,Louisville Distilling Co,STRAIGHT BOURBON WHISKIES,0.04
+1894,Four Roses Distillery,STRAIGHT BOURBON WHISKIES,0.31
+1895,Jesse James Distilling Company,STRAIGHT BOURBON WHISKIES,0.14
+1896,Breckenridge Distillery,STRAIGHT BOURBON WHISKIES,0.16
+1897,Rogue Ales and Spirits,STRAIGHT BOURBON WHISKIES,0.18
+1898,Park Street Imports,STRAIGHT BOURBON WHISKIES,0.26
+1899,Mccormick Distilling Company,STRAIGHT BOURBON WHISKIES,0.05
+1900,"Chatham Imports,inc",STRAIGHT BOURBON WHISKIES,0.32
+1901,Castle Brands,STRAIGHT BOURBON WHISKIES,0.22
+1902,Aveniu Brands,STRAIGHT BOURBON WHISKIES,0.09
+1903,High West Distillery,STRAIGHT BOURBON WHISKIES,0.17
+1904,Willett Distillery,STRAIGHT BOURBON WHISKIES,0.26
+1905,Park Street Imports-Duke Spirits,STRAIGHT BOURBON WHISKIES,0.22
+1906,Patriarch Distillers,STRAIGHT BOURBON WHISKIES,0.27
+1907,Iowa Distilling Company,STRAIGHT BOURBON WHISKIES,0.15
+1908,Frank-lin Distillers Products Ltd.,STRAIGHT BOURBON WHISKIES,0.33
+1909,"WILLIAM GRANT AND SONS, INC.",STRAIGHT BOURBON WHISKIES,0.29
+1910,Anchor Distilling (PREISS IMPORTS),STRAIGHT BOURBON WHISKIES,0.05
+1911,Panther Distillery,STRAIGHT BOURBON WHISKIES,0.23
+1912,Proximo,STRAIGHT BOURBON WHISKIES,0.14
+1913,Bad Bear Enterprises,STRAIGHT BOURBON WHISKIES,0.22
+1914,"Hood River Distillers, Inc.",STRAIGHT BOURBON WHISKIES,0.26
+1915,Park Street Imports-Few Spirits,STRAIGHT BOURBON WHISKIES,0.2
+1916,Jim Beam Brands,Straight Bourbon Whiskies,0.16
+1917,CEDAR RIDGE VINEYARDS LL,Straight Bourbon Whiskies,0.25
+1918,SAZERAC NORTH AMERICA,Straight Bourbon Whiskies,0.07
+1919,DIAGEO AMERICAS,Straight Bourbon Whiskies,0.28
+1920,Skyy Spirits Inc,Straight Bourbon Whiskies,0.3
+1921,Campari America,Straight Bourbon Whiskies,0.27
+1922,Heaven Hill Brands,Straight Bourbon Whiskies,0.13
+1923,CHATHAM IMPORTS INC,Straight Bourbon Whiskies,0.14
+1924,Brown Forman Corp.,Straight Bourbon Whiskies,0.09
+1925,SAZERAC COMPANY  INC,Straight Bourbon Whiskies,0.11
+1926,FOUR ROSES DISTILLERY,Straight Bourbon Whiskies,0.29
+1927,BACARDI USA INC,Straight Bourbon Whiskies,0.06
+1928,LUXCO INC,Straight Bourbon Whiskies,0.03
+1929,Laird & Company,Straight Bourbon Whiskies,0.28
+1930,MISSISSIPPI RIVER DISTIL,Straight Bourbon Whiskies,0.16
+1931,J & D Wines Inc / Wooler Brands,Straight Bourbon Whiskies,0.09
+1932,CONSTELLATION BRANDS INC,Straight Bourbon Whiskies,0.25
+1933,Castle Brands,Straight Bourbon Whiskies,0.23
+1934,Levecke Corporation,Straight Bourbon Whiskies,0.04
+1935,William Grant & Sons Inc,Straight Bourbon Whiskies,0.3
+1936,PERNOD RICARD USA,Straight Bourbon Whiskies,0.12
+1937,Kings County Distillery,Straight Bourbon Whiskies,0.06
+1938,Mhw LTD,Straight Bourbon Whiskies,0.22
+1939,Driftless Glen Distillery,Straight Bourbon Whiskies,0.23
+1940,Lonely Oak Distillery,Straight Bourbon Whiskies,0.32
+1941,Bedford & Grove LLC/ Chankaska Creek and Ranch Winery,Straight Bourbon Whiskies,0.15
+1942,DUNKEL CORPORATION / Iowa Distilling,Straight Bourbon Whiskies,0.04
+1943,DUNKEL CORPORATION,Straight Bourbon Whiskies,0.32
+1944,Heritage Distilling Company,Straight Bourbon Whiskies,0.23
+1945,PROXIMO,Straight Bourbon Whiskies,0.1
+1946,BAD BEAR ENTERPRISES LLC,Straight Bourbon Whiskies,0.29
+1947,Levecke Corporation JJB,Straight Bourbon Whiskies,0.28
+1948,"Southwest Spirits & Wine, LLC",Straight Bourbon Whiskies,0.08
+1949,DV Spirits LLC,Straight Bourbon Whiskies,0.22
+1950,W J Deutsch & Sons LTD,Straight Bourbon Whiskies,0.11
+1951,WESTERN SPIRITS BEVERAGE,Straight Bourbon Whiskies,0.16
+1952,RS Lipman Company LLC,Straight Bourbon Whiskies,0.37
+1953,"Caribbean Distillers, LLC",Straight Bourbon Whiskies,0.28
+1954,Eastside Distilling,Straight Bourbon Whiskies,0.21
+1955,BLAUM BROTHERS DISTILLING CO,Straight Bourbon Whiskies,0.09
+1956,One Eight Distilling LLC,Straight Bourbon Whiskies,0.06
+1957,S&B Farms Distillery,Straight Bourbon Whiskies,0.31
+1958,Old Elk Distilleries LLC,Straight Bourbon Whiskies,0.12
+1959,JDSO INC / Red Boot Distillery,Straight Bourbon Whiskies,0.29
+1960,STOLLER IMPORTS INC / MARSALLE COMPANY,Straight Bourbon Whiskies,0.31
+1961,Park Street Imports,Straight Bourbon Whiskies,0.21
+1962,45TH PARALLEL SPIRITS,Straight Bourbon Whiskies,0.2
+1963,S&B Farmstead Distillery,Straight Bourbon Whiskies,0.1
+1964,STOLI GROUP,Straight Bourbon Whiskies,0.28
+1965,Georgetown Trading Co. LLC / James Pepper Distilling Co.,Straight Bourbon Whiskies,0.14
+1966,Country Smooth Spirits,Straight Bourbon Whiskies,0.33
+1967,Georgetown Trading Co. LLC,Straight Bourbon Whiskies,0.24
+1968,"Central Standard, LLC",Straight Bourbon Whiskies,0.28
+1969,GoAmericaGo Beverages LLC / WhistlePig,Straight Bourbon Whiskies,0.22
+1970,Phusion Projects LLC,Straight Bourbon Whiskies,0.32
+1971,CH Distillery,Straight Bourbon Whiskies,0.12
+1972,Woody Creek Distillers LLC,Straight Bourbon Whiskies,0.24
+1973,"Foundry Distilling Company, LLC",Straight Bourbon Whiskies,0.33
+1974,CH Distillery / 773 LLC,Straight Bourbon Whiskies,0.08
+1975,Rocky Top Investments / Rock River Distillation,Straight Bourbon Whiskies,0.12
+1976,"Bucktown Distilling Co., LLC / Artisan Grain Distillery",Straight Bourbon Whiskies,0.31
+1977,DAVOS BRANDS LLC,Straight Bourbon Whiskies,0.24
+1978,Prairie Creek Beverages LLC,Straight Bourbon Whiskies,0.14
+1979,Famous Brands,Straight Bourbon Whiskies,0.2
+1980,DEHNER DISTILLERY,Straight Bourbon Whiskies,0.19
+1981,MARSALLE COMPANY,Straight Bourbon Whiskies,0.33
+1982,"3-Oaks Distillery, LLC",Straight Bourbon Whiskies,0.05
+1983,Prichards Distillery Inc,Straight Bourbon Whiskies,0.23
+1984,Dilawri Barrels LLC,Straight Bourbon Whiskies,0.22
+1985,"Cowboy Country Distilling, Inc.",Straight Bourbon Whiskies,0.25
+1986,Edrington Group USA LLC,Straight Bourbon Whiskies,0.26
+1987,Stillworks LLC,Straight Bourbon Whiskies,0.04
+1988,Stoller Warehouse,Straight Bourbon Whiskies,0.08
+1989,Gargoyle Enterprises / Laws Whiskey House,Straight Bourbon Whiskies,0.33
+1990,Shaw-Ross International,Straight Bourbon Whiskies,0.08
+1991,Churchill Vineyards,Straight Bourbon Whiskies,0.33
+1992,"Traverse City Whiskey Co / TCWC, LLC",Straight Bourbon Whiskies,0.04
+1993,AMERICAN SPIRITS EXCHANGE,Straight Bourbon Whiskies,0.21
+1994,CVI Brands,Straight Bourbon Whiskies,0.1
+1995,Hood River Distillers,Straight Bourbon Whiskies,0.23
+1996,Traverse City Whiskey Co,Straight Bourbon Whiskies,0.17
+1997,"Firestone & Robertson Distilling Company, LLC",Straight Bourbon Whiskies,0.24
+1998,"Splinter Group Napa, LLC",Straight Bourbon Whiskies,0.2
+1999,Dogtown Distilling / Wright & Brown Distilling Co,Straight Bourbon Whiskies,0.28
+2000,Prestige Wine & Spirits Group,American Cordials & Liqueur,0.12
+2001,SAZERAC NORTH AMERICA,American Cordials & Liqueur,0.11
+2002,Heaven Hill Brands,American Cordials & Liqueur,0.32
+2003,Prestige Wine & Spirits Group / United States Distilled Products Co,American Cordials & Liqueur,0.31
+2004,LUXCO INC,American Cordials & Liqueur,0.32
+2005,SAZERAC COMPANY  INC,American Cordials & Liqueur,0.17
+2006,Jim Beam Brands,American Cordials & Liqueur,0.11
+2007,Mhw LTD,American Cordials & Liqueur,0.2
+2008,Campari America,American Cordials & Liqueur,0.03
+2009,Skyy Spirits Inc,American Cordials & Liqueur,0.1
+2010,E & J Gallo Winery,American Cordials & Liqueur,0.23
+2011,BROADBENT VENTURES LLC,American Cordials & Liqueur,0.09
+2012,MINHAS MICRO DISTILLERY,American Cordials & Liqueur,0.18
+2013,CH Distillery,American Cordials & Liqueur,0.3
+2014,MISSISSIPPI RIVER DISTIL,American Cordials & Liqueur,0.29
+2015,CEDAR RIDGE VINEYARDS LL,American Cordials & Liqueur,0.25
+2016,Sugarlands Distilling Company LLC,American Cordials & Liqueur,0.24
+2017,VBJ Beverages LLC,American Cordials & Liqueur,0.18
+2018,Park Street Imports,American Cordials & Liqueur,0.25
+2019,"Tattersall Companies, LLC",American Cordials & Liqueur,0.22
+2020,Mason Dixon Spirits LLC,American Cordials & Liqueur,0.21
+2021,CH Distillery / 773 LLC,American Cordials & Liqueur,0.07
+2022,WESTERN SPIRITS BEVERAGE,American Cordials & Liqueur,0.07
+2023,SPIRIT OF HARTFORD,American Cordials & Liqueur,0.31
+2024,DIAGEO AMERICAS,American Cordials & Liqueur,0.38
+2025,Prichards Distillery Inc,American Cordials & Liqueur,0.25
+2026,Phillips Beverage,American Cordials & Liqueur,0.16
+2027,STOLLER IMPORTS INC / MARSALLE COMPANY,American Cordials & Liqueur,0.17
+2028,ST GEORGE SPIRITS INC,American Cordials & Liqueur,0.18
+2029,"Mast-Jagermeister US, Inc",Imported Cordials & Liqueurs,0.24
+2030,BACARDI USA INC,Imported Cordials & Liqueurs,0.2
+2031,Gemini Spirits,Imported Cordials & Liqueurs,0.25
+2032,DISARONNO INTERNATIONAL,Imported Cordials & Liqueurs,0.31
+2033,Campari America,Imported Cordials & Liqueurs,0.23
+2034,Mhw LTD,Imported Cordials & Liqueurs,0.06
+2035,Park Street Imports,Imported Cordials & Liqueurs,0.32
+2036,Heaven Hill Brands,Imported Cordials & Liqueurs,0.18
+2037,REMY COINTREAU USA INC,Imported Cordials & Liqueurs,0.18
+2038,Skyy Spirits Inc,Imported Cordials & Liqueurs,0.28
+2039,Brown Forman Corp.,Imported Cordials & Liqueurs,0.13
+2040,SAZERAC COMPANY  INC,Imported Cordials & Liqueurs,0.28
+2041,SAZERAC NORTH AMERICA,Imported Cordials & Liqueurs,0.04
+2042,Patron Spirits Company,Imported Cordials & Liqueurs,0.11
+2043,W J Deutsch & Sons LTD,Imported Cordials & Liqueurs,0.24
+2044,McCormick Distilling Co.,Imported Cordials & Liqueurs,0.16
+2045,William Grant & Sons Inc,Imported Cordials & Liqueurs,0.24
+2046,Kobrand Corp,Imported Cordials & Liqueurs,0.25
+2047,"Sidney Frank Importing Company, Inc.",Imported Cordials & Liqueurs,0.0
+2048,YAHARA BAY DISTILLERS INC,Imported Cordials & Liqueurs,0.48
+2049,"Mast-Jaegermeister US, Inc",Imported Cordials & Liqueurs,0.06
+2050,Niche Import Co,Imported Cordials & Liqueurs,0.16
+2051,Jim Beam Brands,Imported Cordials & Liqueurs,0.28
+2052,Infinium Spirits,Imported Cordials & Liqueurs,0.31
+2053,DIAGEO AMERICAS,Imported Cordials & Liqueurs,0.11
+2054,Prestige Wine & Spirits Group / United States Distilled Products Co,Imported Cordials & Liqueurs,0.13
+2055,Phillips Beverage,Imported Cordials & Liqueurs,0.17
+2056,Vision Wine & Spirit LLC,Imported Cordials & Liqueurs,0.07
+2057,HOTALING & CO,Imported Cordials & Liqueurs,0.17
+2058,IMPERIAL BRANDS INC,Imported Cordials & Liqueurs,0.33
+2059,Prestige Wine & Spirits Group,Imported Cordials & Liqueurs,0.08
+2060,MARSALLE COMPANY,Imported Cordials & Liqueurs,0.17
+2061,RUSSIAN STANDARD VODKA,Imported Cordials & Liqueurs,0.41
+2062,"Marussia Beverages USA, Inc / Niche Import",Imported Cordials & Liqueurs,0.24
+2063,Hood River Distillers,Imported Cordials & Liqueurs,0.12
+2064,WINE IS FINE INC,Imported Cordials & Liqueurs,0.06
+2065,AIKO IMPORTERS INC,Imported Cordials & Liqueurs,0.16
+2066,WILSON DANIELS LTD,Imported Cordials & Liqueurs,0.25
+2067,LUXCO INC,Imported Cordials & Liqueurs,0.06
+2068,Hexa Partners LP,Imported Cordials & Liqueurs,0.25
+2069,SPIRIT OF HARTFORD,Imported Cordials & Liqueurs,0.01
+2070,Mhw LTD,Temporary & Specialty Packages,0.3
+2071,DIAGEO AMERICAS,Temporary & Specialty Packages,0.14
+2072,PROXIMO,Temporary & Specialty Packages,0.06
+2073,Patron Spirits Company,Temporary & Specialty Packages,0.07
+2074,Brown Forman Corp.,Temporary & Specialty Packages,0.06
+2075,BACARDI USA INC,Temporary & Specialty Packages,0.09
+2076,Jim Beam Brands,Temporary & Specialty Packages,0.15
+2077,PERNOD RICARD USA,Temporary & Specialty Packages,0.07
+2078,CONSTELLATION BRANDS INC,Temporary & Specialty Packages,0.29
+2079,SAZERAC COMPANY  INC,Temporary & Specialty Packages,0.3
+2080,LUXCO INC,Temporary & Specialty Packages,0.32
+2081,E & J Gallo Winery,Temporary & Specialty Packages,0.05
+2082,Heaven Hill Brands,Temporary & Specialty Packages,0.29
+2083,WESTERN SPIRITS BEVERAGE,Temporary & Specialty Packages,0.29
+2084,Infinium Spirits,Temporary & Specialty Packages,0.11
+2085,MOET HENNESSY USA,Temporary & Specialty Packages,0.16
+2086,Skyy Spirits Inc,Temporary & Specialty Packages,0.28
+2087,Phillips Beverage,Temporary & Specialty Packages,0.1
+2088,Charles Jacquin Et Cie,Temporary & Specialty Packages,0.11
+2089,"Mast-Jagermeister US, Inc",Temporary & Specialty Packages,0.26
+2090,William Grant & Sons Inc,Temporary & Specialty Packages,0.04
+2091,PROST BEVERAGE COMPANY,Temporary & Specialty Packages,0.33
+2092,OLE SMOKY DISTILLERY LLC,Temporary & Specialty Packages,0.12
+2093,JEM Beverage Company,Temporary & Specialty Packages,0.26
+2094,BLACK ROCK SPIRITS,Temporary & Specialty Packages,0.12
+2095,McCormick Distilling Co.,Temporary & Specialty Packages,0.21
+2096,Campari America,Temporary & Specialty Packages,0.31
+2097,GoAmericaGo Beverages LLC / WhistlePig,Temporary & Specialty Packages,0.27
+2098,PIEDMONT DISTILLERS INC,Temporary & Specialty Packages,0.06
+2099,"Sovereign Brands, LLC",Temporary & Specialty Packages,0.23
+2100,Old Elk Distilleries LLC,Temporary & Specialty Packages,0.28
+2101,MARSALLE COMPANY,Temporary & Specialty Packages,0.25
+2102,Prichards Distillery Inc,Temporary & Specialty Packages,0.28
+2103,S&B Farmstead Distillery,Temporary & Specialty Packages,0.25
+2104,"Mid-Oak Distillery, Inc.",Temporary & Specialty Packages,0.18
+2105,Park Street Imports,Temporary & Specialty Packages,0.26
+2106,MISSISSIPPI RIVER DISTIL,Temporary & Specialty Packages,0.13
+2107,STOLLER IMPORTS INC / MARSALLE COMPANY,Temporary & Specialty Packages,0.09
+2108,Be In Good Spirits LLC / Frankly Organic Vodka,Temporary & Specialty Packages,0.04
+2109,Edrington Group USA LLC,Temporary & Specialty Packages,0.17
+2110,"Green Frog Distillery, LLC",Temporary & Specialty Packages,0.12
+2111,TY KU LLC,Temporary & Specialty Packages,0.33
+2112,SAZERAC NORTH AMERICA,Temporary & Specialty Packages,0.15
+2113,Prestige Wine & Spirits Group,Temporary & Specialty Packages,0.11
+2114,Niche Import Co,Temporary & Specialty Packages,0.26
+2115,DISARONNO INTERNATIONAL,Temporary & Specialty Packages,0.3
+2116,RS Lipman Company LLC,Temporary & Specialty Packages,0.31
+2117,CEDAR RIDGE VINEYARDS LL,Temporary & Specialty Packages,0.3
+2118,GoAmericaGo Beverages LLC,Temporary & Specialty Packages,0.13
+2119,STOLI GROUP,Temporary & Specialty Packages,0.06
+2120,RUSSIAN STANDARD VODKA,Temporary & Specialty Packages,0.27
+2121,"Foundry Distilling Company, LLC",Temporary & Specialty Packages,0.1
+2122,COOPER SPIRITS INTERNATIONAL,Temporary & Specialty Packages,0.25
+2123,"USA Wine West, LLC",Temporary & Specialty Packages,0.14
+2124,Bedford & Grove LLC/ Chankaska Creek and Ranch Winery,Temporary & Specialty Packages,0.11
+2125,"Marussia Beverages USA, Inc / Niche Import",Temporary & Specialty Packages,0.12
+2126,FOUR ROSES DISTILLERY,Temporary & Specialty Packages,0.23
+2127,"James Joseph Sanctified Spirits, LLC / Oak&Eden",Temporary & Specialty Packages,0.29
+2128,DAVOS BRANDS LLC,Temporary & Specialty Packages,0.15
+2129,Prestige Wine & Spirits Group / United States Distilled Products Co,Temporary & Specialty Packages,0.24
+2130,Shaw-Ross International,Temporary & Specialty Packages,0.07
+2131,"Bacardi U.S.A., Inc.",PUERTO RICO & VIRGIN ISLANDS RUM,0.33
+2132,Phillips Beverage Company,PUERTO RICO & VIRGIN ISLANDS RUM,0.1
+2133,Luxco-St Louis,PUERTO RICO & VIRGIN ISLANDS RUM,0.09
+2134,Sazerac North America,PUERTO RICO & VIRGIN ISLANDS RUM,0.21
+2135,Jim Beam Brands,PUERTO RICO & VIRGIN ISLANDS RUM,0.13
+2136,Diageo Americas,PUERTO RICO & VIRGIN ISLANDS RUM,0.29
+2137,"Cedar Ridge Vineyards,LLC",PUERTO RICO & VIRGIN ISLANDS RUM,0.11
+2138,"Sazerac Co., Inc.",PUERTO RICO & VIRGIN ISLANDS RUM,0.07
+2139,Laird And Company,PUERTO RICO & VIRGIN ISLANDS RUM,0.14
+2140,Wilson Daniels Ltd.,PUERTO RICO & VIRGIN ISLANDS RUM,0.08
+2141,Prestige Wine and Spirits Group,PUERTO RICO & VIRGIN ISLANDS RUM,0.31
+2142,Serralles USA,PUERTO RICO & VIRGIN ISLANDS RUM,0.29
+2143,Shaw Ross International Importers LL,PUERTO RICO & VIRGIN ISLANDS RUM,0.06
+2144,MHW Ltd,PUERTO RICO & VIRGIN ISLANDS RUM,0.09
+2145,"WILLIAM GRANT AND SONS, INC.",PUERTO RICO & VIRGIN ISLANDS RUM,0.12
+2146,Lapham Import Co,PUERTO RICO & VIRGIN ISLANDS RUM,0.13
+2147,The Patron Spirits Company,PUERTO RICO & VIRGIN ISLANDS RUM,0.06
+2148,Koloa Rum Company,PUERTO RICO & VIRGIN ISLANDS RUM,0.13
+2149,H A P LLC,PUERTO RICO & VIRGIN ISLANDS RUM,0.1
+2150,"W. J. Deutsch And Sons, Ltd.",PUERTO RICO & VIRGIN ISLANDS RUM,0.15
+2151,Heaven Hill Brands,PUERTO RICO & VIRGIN ISLANDS RUM,0.06
+2152,Aveniu Brands,PUERTO RICO & VIRGIN ISLANDS RUM,0.06
+2153,Anchor Distilling (PREISS IMPORTS),PUERTO RICO & VIRGIN ISLANDS RUM,0.14
+2154,Mccormick Distilling Company,PUERTO RICO & VIRGIN ISLANDS RUM,0.29
+2155,Gemini Spirits,PUERTO RICO & VIRGIN ISLANDS RUM,0.16
+2156,Paradise Distilling Company,PUERTO RICO & VIRGIN ISLANDS RUM,0.23
+2157,Prestige Wine and Spirits Group,MISC. AMERICAN CORDIALS & LIQUEURS,0.13
+2158,"Yahara Bay Distillers, Inc",MISC. AMERICAN CORDIALS & LIQUEURS,0.27
+2159,Broadbent Distillery,MISC. AMERICAN CORDIALS & LIQUEURS,0.17
+2160,Jim Beam Brands,MISC. AMERICAN CORDIALS & LIQUEURS,0.12
+2161,Heaven Hill Brands,MISC. AMERICAN CORDIALS & LIQUEURS,0.14
+2162,E AND J GALLO WINERY,MISC. AMERICAN CORDIALS & LIQUEURS,0.27
+2163,Pernod Ricard USA/Austin Nichols,MISC. AMERICAN CORDIALS & LIQUEURS,0.15
+2164,Park Street Imports-Sweet Revenge,MISC. AMERICAN CORDIALS & LIQUEURS,0.25
+2165,Phillips Beverage Company,MISC. AMERICAN CORDIALS & LIQUEURS,0.25
+2166,"Cedar Ridge Vineyards,LLC",MISC. AMERICAN CORDIALS & LIQUEURS,0.27
+2167,Luxco-St Louis,MISC. AMERICAN CORDIALS & LIQUEURS,0.19
+2168,"Sazerac Co., Inc.",MISC. AMERICAN CORDIALS & LIQUEURS,0.21
+2169,MHW Ltd,MISC. AMERICAN CORDIALS & LIQUEURS,0.27
+2170,Duggan's Distillers Products Corp,MISC. AMERICAN CORDIALS & LIQUEURS,0.06
+2171,Park Street Imports-Veev,MISC. AMERICAN CORDIALS & LIQUEURS,0.14
+2172,Campari(skyy),MISC. AMERICAN CORDIALS & LIQUEURS,0.25
+2173,Anchor Distilling (PREISS IMPORTS),MISC. AMERICAN CORDIALS & LIQUEURS,0.17
+2174,Mccormick Distilling Company,MISC. AMERICAN CORDIALS & LIQUEURS,0.18
+2175,Luxco-Cleveland,MISC. AMERICAN CORDIALS & LIQUEURS,0.31
+2176,"Mango Bottling, Inc.",MISC. AMERICAN CORDIALS & LIQUEURS,0.16
+2177,Panther Distillery,MISC. AMERICAN CORDIALS & LIQUEURS,0.17
+2178,VBJ Beverages LLC,MISC. AMERICAN CORDIALS & LIQUEURS,0.29
+2179,"A Hardy / U.S.A., Ltd.",MISC. AMERICAN CORDIALS & LIQUEURS,0.14
+2180,Surville Enterprises Corp,MISC. AMERICAN CORDIALS & LIQUEURS,0.11
+2181,E and J Gallo Winery,MISC. AMERICAN CORDIALS & LIQUEURS,0.31
+2182,Mississippi River Distilling Co.,MISC. AMERICAN CORDIALS & LIQUEURS,0.19
+2183,Diageo Americas,MISC. AMERICAN CORDIALS & LIQUEURS,0.05
+2184,Breckenridge Distillery,MISC. AMERICAN CORDIALS & LIQUEURS,0.33
+2185,Sidney Frank Importing Co.,MISC. IMPORTED CORDIALS & LIQUEURS,0.21
+2186,Proximo,MISC. IMPORTED CORDIALS & LIQUEURS,0.17
+2187,Heaven Hill Brands,MISC. IMPORTED CORDIALS & LIQUEURS,0.17
+2188,Sazerac North America,MISC. IMPORTED CORDIALS & LIQUEURS,0.16
+2189,Brown-Forman Corporation,MISC. IMPORTED CORDIALS & LIQUEURS,0.04
+2190,"Yahara Bay Distillers, Inc",MISC. IMPORTED CORDIALS & LIQUEURS,0.21
+2191,REMY COINTREAU USA         .,MISC. IMPORTED CORDIALS & LIQUEURS,0.05
+2192,"Bacardi U.S.A., Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.17
+2193,Gemini Spirits,MISC. IMPORTED CORDIALS & LIQUEURS,0.1
+2194,MHW Ltd,MISC. IMPORTED CORDIALS & LIQUEURS,0.28
+2195,"Biagio Cru And Estate Wines, LLC",MISC. IMPORTED CORDIALS & LIQUEURS,0.13
+2196,Pernod Ricard USA/Austin Nichols,MISC. IMPORTED CORDIALS & LIQUEURS,0.31
+2197,"Moet Hennessy USA, Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.19
+2198,Campari(skyy),MISC. IMPORTED CORDIALS & LIQUEURS,0.17
+2199,Niche Import Co.,MISC. IMPORTED CORDIALS & LIQUEURS,0.31
+2200,Shaw Ross International Importers LL,MISC. IMPORTED CORDIALS & LIQUEURS,0.06
+2201,"TY KU, LLC",MISC. IMPORTED CORDIALS & LIQUEURS,0.11
+2202,"WILLIAM GRANT AND SONS, INC.",MISC. IMPORTED CORDIALS & LIQUEURS,0.13
+2203,R�my Cointreau USA,MISC. IMPORTED CORDIALS & LIQUEURS,0.11
+2204,Diageo Americas,MISC. IMPORTED CORDIALS & LIQUEURS,0.11
+2205,Kobrand Corporation,MISC. IMPORTED CORDIALS & LIQUEURS,0.32
+2206,"Sazerac Co., Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.14
+2207,Jim Beam Brands,MISC. IMPORTED CORDIALS & LIQUEURS,0.19
+2208,Disaronno International LLC,MISC. IMPORTED CORDIALS & LIQUEURS,0.04
+2209,The Patron Spirits Company,MISC. IMPORTED CORDIALS & LIQUEURS,0.14
+2210,"W. J. Deutsch And Sons, Ltd.",MISC. IMPORTED CORDIALS & LIQUEURS,0.06
+2211,Anchor Distilling (PREISS IMPORTS),MISC. IMPORTED CORDIALS & LIQUEURS,0.19
+2212,"Carriage House Imports, Ltd.",MISC. IMPORTED CORDIALS & LIQUEURS,0.2
+2213,"Chatham Imports,inc",MISC. IMPORTED CORDIALS & LIQUEURS,0.08
+2214,"William Grant and Sons, Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.27
+2215,Park Street Imports,MISC. IMPORTED CORDIALS & LIQUEURS,0.27
+2216,Wilson Daniels Ltd.,MISC. IMPORTED CORDIALS & LIQUEURS,0.3
+2217,Park Street Imports-Berentzen,MISC. IMPORTED CORDIALS & LIQUEURS,0.29
+2218,Anchor Distilling,MISC. IMPORTED CORDIALS & LIQUEURS,0.26
+2219,Total Beverage Solutions,MISC. IMPORTED CORDIALS & LIQUEURS,0.08
+2220,Castle Brands,MISC. IMPORTED CORDIALS & LIQUEURS,0.04
+2221,"Palm Bay Imports, Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.33
+2222,Prestige Wine and Spirits Group,MISC. IMPORTED CORDIALS & LIQUEURS,0.12
+2223,Vision Wine and Spirits,MISC. IMPORTED CORDIALS & LIQUEURS,0.28
+2224,"Hood River Distillers, Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.33
+2225,"Evaton, Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.06
+2226,"A Hardy / U.S.A., Ltd.",MISC. IMPORTED CORDIALS & LIQUEURS,0.19
+2227,Van Gogh Imports,MISC. IMPORTED CORDIALS & LIQUEURS,0.12
+2228,"International Beverage Co., Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.23
+2229,Luxco-St Louis,MISC. IMPORTED CORDIALS & LIQUEURS,0.23
+2230,Aiko Importers Inc,MISC. IMPORTED CORDIALS & LIQUEURS,0.33
+2231,Classic Wine Imports,MISC. IMPORTED CORDIALS & LIQUEURS,0.33
+2232,"Stellar Importing Company, LLC",MISC. IMPORTED CORDIALS & LIQUEURS,0.05
+2233,"Foundry Distilling Company, LLC",Iowa Distillery Whiskies,0.24
+2234,DUNKEL CORPORATION / Iowa Distilling,,0.23
+2235,Prestige Wine & Spirits Group,Gold Rum,0.28
+2236,SWISS CELLARS,Single Malt Scotch,0.19
+2237,BACARDI USA INC,Imported Cordials & Liqueur,0.25
+2238,Rocky Top Investments / Rock River Distillation,Temporary &  Specialty Packages,0.3
+2239,Templeton Distilling LLC,Corn Whiskies,0.15
+2240,HILLROCK ESTATE DISTILLERY,Single Malt Scotch,0.11
+2241,Jim Beam Brands,ANISETTE,0.29
+2242,SUTTER HOME WINERY INC / Trinchero Family Estates,Special Order Items,0.24
+2243,"Yahara Bay Distillers, Inc",JAPANESE WHISKY,0.09
+2244,Wilson Daniels Ltd.,100 PROOF VODKA,0.19
+2245,Diageo Americas,SCHNAPPS - IMPORTED,0.09
+2246,"Mast-Jaegermeister US, Inc",Imported Cordials & Liqueur,0.0
+2247,MOET HENNESSY USA,Special Order Items,0.18
+2248,SAZERAC COMPANY  INC,American Distilled Spirit Specialty,0.24
+2249,Heaven Hill Brands,BLACKBERRY BRANDIES,0.04
+2250,DISARONNO INTERNATIONAL,Special Order Items,0.2
+2251,DIAGEO AMERICAS,Coffee Liqueurs,0.26
+2252,"Dreyfus, Ashby Co.",MISCELLANEOUS  BRANDIES,0.21
+2253,VINO COM LLC,,0.16
+2254,Phillips Beverage Company,OTHER PROOF VODKA,0.28
+2255,"Paterno Imports, Ltd.",,0.1
+2256,Koval Distillery,,0.18
+2257,Phillips Beverage Company,SINGLE MALT SCOTCH,0.09
+2258,VINO COM LLC,Imported Cordials & Liqueur,0.29
+2259,WESTERN SPIRITS BEVERAGE,American Distilled Spirit Specialty,0.23
+2260,Anchor Distilling (PREISS IMPORTS),,0.25
+2261,Sazerac North America,COFFEE LIQUEURS,0.16
+2262,"WILLIAM GRANT AND SONS, INC.",JAMAICA RUM,0.15
+2263,Kobrand Corp,Imported Cordials & Liqueur,0.3
+2264,Anchor Distilling,JAPANESE WHISKY,0.16
+2265,Oregon Brewing Co,Special Order Items,0.27
+2266,3 Badge Mixology,AMERICAN SLOE GINS,0.2
+2267,Hood River Distillers,Special Order Items,0.24
+2268,Shaw-Ross International,,0.05
+2269,Anchor Distilling,IRISH WHISKIES,0.33
+2270,Vision Wine & Spirit LLC,,0.25
+2271,Luxco-Cleveland,COFFEE LIQUEURS,0.29
+2272,Shaw Ross International Importers LL,SINGLE MALT SCOTCH,0.21
+2273,Luxco-Cleveland,BARBADOS RUM,0.29
+2274,PALM BAY INTERNATIONAL,,0.11
+2275,Square One Organic Spirits,DISTILLED SPIRITS SPECIALTY,0.06
+2276,Mccormick Distilling Company,COFFEE LIQUEURS,0.13
+2277,E AND J GALLO WINERY,SINGLE MALT SCOTCH,0.3
+2278,Castle Brands,Cocktails / RTD,0.2
+2279,"Paterno Imports, Ltd.",SINGLE MALT SCOTCH,0.04
+2280,"WILLIAM GRANT AND SONS, INC.",DISTILLED SPIRITS SPECIALTY,0.21
+2281,"WILLIAM GRANT AND SONS, INC.",STRAIGHT RYE WHISKIES,0.17
+2282,Anchor Distilling (PREISS IMPORTS),OTHER PROOF VODKA,0.25
+2283,KOVAL DISTILLERY,,0.15
+2284,Luxco-Cleveland,TRIPLE SEC,0.22
+2285,Jim Beam Brands,100 PROOF VODKA,0.13
+2286,McCormick Distilling Co.,Cocktails / RTD,0.08
+2287,Caledonia Spirits,Flavored Gin,0.25
+2288,William Grant & Sons Inc,Imported Vodka,0.27
+2289,Pyatt Enterprises LLC,Imported Distilled Spirit Specialty,0.17
+2290,SAZERAC COMPANY  INC,Delisted Items,0.0
+2291,Charles Jacquin Et Cie,Cocktails / RTD,0.0
+2292,MHW Ltd,TRIPLE SEC,0.13
+2293,"Cowboy Country Distilling, Inc.",Corn Whiskies,0.17
+2294,"Cowboy Country Distilling, Inc.",Coffee Liqueurs,0.06
+2295,WILSON DANIELS LTD,Imported Vodka,0.0
+2296,WINDY HILL SPIRITS,Corn Whiskies,0.14
+2297,MARSALLE COMPANY,American Vodka,0.0
+2298,Mhw LTD,Imported Vodka,0.0
+2299,Thome Enterprises LLC,American Distilled Spirit Specialty,0.72
+2300,RUSSIAN STANDARD VODKA,Delisted Items,0.06
+2301,Pernod Ricard USA/Austin Nichols,PEACH BRANDIES,0.1
+2302,"Yahara Bay Distillers, Inc",100 PROOF VODKA,0.33
+2303,MHW Ltd,ROOT BEER SCHNAPPS,0.23
+2304,Jim Beam Brands,GREEN CREME DE MENTHE,0.04
+2305,American Spirits Exchange,,0.32
+2306,Jim Beam Brands,WHITE CREME DE CACAO,0.25
+2307,LUXCO INC,Delisted Items,0.1
+2308,Shand Import LLC,,0.32
+2309,"W. J. Deutsch And Sons, Ltd.",,0.06
+2310,AIKO IMPORTERS INC,,0.28
+2311,Royal World Spirits,,0.16
+2312,Purple Valley Imports,,0.12
+2313,PERNOD RICARD USA,Delisted Items,0.86
+2314,"Yahara Bay Distillers, Inc",,0.17
+2315,Skyy Spirits Inc,American Cordials & Liqueurs,0.0
+2316,MARSALLE COMPANY,American Distilled Spirit Specialty,0.14
+2317,HILLROCK ESTATE DISTILLERY,Straight Rye Whiskies,0.07
+2318,W J Deutsch & Sons LTD,Imported Cordials & Liqueur,0.11
+2319,Savage & Cooke / Santa Croce LLC,Straight Rye Whiskies,0.28
+2320,PACIFIC EDGE WINE & SPIRITS,Special Order Items,0.26
+2321,Stoller Warehouse,American Distilled Spirit Specialty,0.16
+2322,Gargoyle Enterprises / Laws Whiskey House,Straight Rye Whiskies,0.1
+2323,Levecke Corporation,Imported Cordials & Liqueur,0.19
+2324,PROXIMO,Aged Dark Rum,0.17
+2325,SUTTER HOME WINERY INC,Special Order Items,0.31
+2326,KOVAL DISTILLERY,American Vodka,0.09
+2327,Vino.com dba Total Beverage Solution,Aged Dark Rum,0.27
+2328,Kings County Distillery,American Distilled Spirit Specialty,0.06
+2329,Skyy Spirits Inc,Imported Cordials & Liqueur,0.42
+2330,"Dorado, Pizzorni & Sons, LLC",Special Order Items,0.11
+2331,Shaw-Ross International,Mezcal,0.15
+2332,Paterno Imports LTD,Aged Dark Rum,0.13
+2333,STOLLER IMPORTS INC / MARSALLE COMPANY,Imported Cordials & Liqueur,0.08
+2334,PALM BAY INTERNATIONAL,Mezcal,0.05
+2335,Norden Spirits LLC,American Distilled Spirit Specialty,0.11
+2336,Paterno Imports LTD / Terlato Wines International,Single Barrel Bourbon Whiskies,0.22
+2337,Opici Import Company,Imported Cordials & Liqueur,0.1
+2338,Spirit Imports Inc,Imported Cordials & Liqueur,0.19
+2339,Vino.com dba Total Beverage Solution,Mezcal,0.18
+2340,Prestige Wine & Spirits Group / United States Distilled Products Co,Special Order Items,0.33
+2341,Red Boot Distillery,Neutral Grain Spirits,0.1
+2342,PALM BAY INTERNATIONAL,Special Order Items,0.23
+2343,Vin Divino Ltd,Special Order Items,0.3
+2344,DV Spirits LLC,Imported Distilled Spirit Specialty,0.16
+2345,Stoller Warehouse,Straight Rye Whiskies,0.32
+2346,BACARDI USA INC,Delisted Items,0.0
+2347,IMPERIAL BRANDS INC,Imported Vodka,0.0
+2348,Heaven Hill Brands,Holiday VAP,0.0
+2349,Minhas Micro Distillery,APRICOT BRANDIES,0.18
+2350,Park Street Imports- Caballeros,TEQUILA,0.11
+2351,"Paterno Imports, Ltd.",TEQUILA,0.31
+2352,Park Street Imports,TEQUILA,0.3
+2353,Intersect Beverage LLC,TEQUILA,0.26
+2354,"Suro International Importers, Inc",White Rum,0.2
+2355,PERNOD RICARD USA,White Rum,0.21
+2356,Domaine Select,White Rum,0.17
+2357,MINHAS MICRO DISTILLERY,White Rum,0.29
+2358,Park Street Imports,White Rum,0.13
+2359,KOLOA RUM COMPANY,White Rum,0.21
+2360,Red Boot Distillery,Spiced Rum,0.04
+2361,"Sovereign Brands, LLC",Spiced Rum,0.31
+2362,RJ Importers LLC,Flavored Rum,0.18
+2363,"Drum Circle Distilling, LLC",Flavored Rum,0.27
+2364,Demerara Distillers (USA) Inc.,Flavored Rum,0.27
+2365,PROXIMO,Flavored Rum,0.11
+2366,Hexa Partners LP,Mixto Tequila,0.23
+2367,Casa 1921 LLC,CREAM LIQUEURS,0.06
+2368,KOLOA RUM COMPANY,Cocktails /RTD,0.28
+2369,DV Spirits LLC,Cocktails /RTD,0.27
+2370,Levecke Corporation,Cream Liqueurs,0.3
+2371,Veriano Fine Foods & Spirits Ltd,Cream Liqueurs,0.21
+2372,IMPERIAL BRANDS INC,Cream Liqueurs,0.31
+2373,AMERICAN SPIRITS EXCHANGE,Cream Liqueurs,0.26
+2374,Stanley Stawski Distributing Co.,IMPORTED VODKA,0.3
+2375,"Charles Jacquin Et. Cie., Inc.",IMPORTED VODKA,0.18
+2376,"Phenix Brands, LLC",IMPORTED VODKA,0.05
+2377,Park Street Imports,IMPORTED VODKA,0.11
+2378,Vision Wine & Spirit LLC,Irish Whiskies,0.24
+2379,MINHAS MICRO DISTILLERY,Irish Whiskies,0.09
+2380,Levecke Corporation JJB,Irish Whiskies,0.17
+2381,Niche Import Co,Irish Whiskies,0.21
+2382,YAHARA BAY DISTILLERS INC,Irish Whiskies,0.19
+2383,PALM BAY INTERNATIONAL,Irish Whiskies,0.06
+2384,"Restless Spirits Distilling Company, LLC",Irish Whiskies,0.18
+2385,Niche Import Co.,VODKA 80 PROOF,0.12
+2386,Patriarch Distillers,VODKA 80 PROOF,0.11
+2387,Lloyd Caruso LLC,VODKA FLAVORED,0.04
+2388,Koenig Distillery Inc,American Vodkas,0.3
+2389,Stoller Warehouse,American Vodkas,0.25
+2390,Woody Creek Distillers LLC,American Vodkas,0.19
+2391,Egghead Too LLC/ ARE Concepts,American Vodkas,0.22
+2392,Jackson Hole Still Works,American Vodkas,0.08
+2393,STOLLER IMPORTS INC / MARSALLE COMPANY,American Vodkas,0.24
+2394,Niche Import Co,Imported Vodkas,0.32
+2395,PALM BAY INTERNATIONAL,Imported Vodkas,0.3
+2396,HOTALING & CO,Imported Vodkas,0.29
+2397,"Foundry Distilling Company, LLC",Scotch Whiskies,0.04
+2398,Classic Wine Imports,WHISKEY LIQUEUR,0.27
+2399,Niche Import Co,Whiskey Liqueur,0.05
+2400,"USA Wine West, LLC",Whiskey Liqueur,0.31
+2401,Breuckelen Distilling,BLENDED WHISKIES,0.24
+2402,KOVAL DISTILLERY,Blended Whiskies,0.03
+2403,Modern Spirits,AMERICAN DRY GINS,0.29
+2404,Park Street Imports-House Spirits,AMERICAN DRY GINS,0.25
+2405,Koval Distillery,AMERICAN DRY GINS,0.25
+2406,"North Shore Distillery, LLC.",AMERICAN DRY GINS,0.16
+2407,"Central Standard, LLC",American Brandies,0.12
+2408,Mhw LTD,American Brandies,0.27
+2409,SERRALLES USA,American Dry Gins,0.18
+2410,FRANK LIN DISTILLERS PRO,American Dry Gins,0.23
+2411,KOVAL DISTILLERY,American Dry Gins,0.08
+2412,Levecke Corporation,American Dry Gins,0.32
+2413,Copper & Kings American Brandy Company,American Dry Gins,0.3
+2414,Caledonia Spirits,American Dry Gins,0.16
+2415,Ransom Spirits LLC,American Dry Gins,0.1
+2416,AMERICAN SPIRITS EXCHANGE,American Dry Gins,0.08
+2417,Mhw LTD,American Schnapps,0.15
+2418,Prestige Wine and Spirits Group,CANADIAN WHISKIES,0.17
+2419,REMY COINTREAU USA         .,IMPORTED DRY GINS,0.3
+2420,CVI Brands,IMPORTED DRY GINS,0.04
+2421,R�my Cointreau USA,IMPORTED DRY GINS,0.19
+2422,"W. J. Deutsch And Sons, Ltd.",IMPORTED DRY GINS,0.19
+2423,VINO COM LLC,Imported Brandies,0.25
+2424,Heaven Hill Brands,Imported Brandies,0.0
+2425,"Serendipity Wines, LLC",Imported Dry Gins,0.31
+2426,HOTALING & CO,Imported Dry Gins,0.05
+2427,Paterno Imports LTD,Imported Dry Gins,0.16
+2428,PACIFIC EDGE WINE & SPIRITS,Imported Dry Gins,0.16
+2429,Keepers Quest Inc,Imported Dry Gins,0.27
+2430,WILSON DANIELS LTD,100% Agave Tequila,0.2
+2431,HPSepicurean LLC / Preiss Imports,100% Agave Tequila,0.06
+2432,Altamar Brands LLC,100% Agave Tequila,0.2
+2433,"Sazerac Co., Inc.",TENNESSEE WHISKIES,0.09
+2434,WILSON DANIELS LTD,American Flavored Vodka,0.0
+2435,Grand Teton Distillery,American Flavored Vodka,0.19
+2436,Sazerac North America,IMPORTED GRAPE BRANDIES,0.28
+2437,Laird And Company,IMPORTED GRAPE BRANDIES,0.29
+2438,Anchor Distilling (PREISS IMPORTS),IMPORTED GRAPE BRANDIES,0.31
+2439,HPSepicurean LLC / Preiss Imports,Imported Flavored Vodka,0.15
+2440,Journeyman Distillery LLC,STRAIGHT BOURBON WHISKIES,0.28
+2441,Hillrock Estate Distillery LLC,STRAIGHT BOURBON WHISKIES,0.21
+2442,Phillips Beverage Company,STRAIGHT BOURBON WHISKIES,0.17
+2443,FRANK LIN DISTILLERS PRO,Straight Bourbon Whiskies,0.06
+2444,Mach Flynt Inc.,Straight Bourbon Whiskies,0.16
+2445,SUTTER HOME WINERY INC,Straight Bourbon Whiskies,0.14
+2446,HIGH WEST DISTILLERY LLC,Straight Bourbon Whiskies,0.0
+2447,CVI Brands / California Vineyards Inc,Straight Bourbon Whiskies,0.27
+2448,Tom's Town Distilling Co,Straight Bourbon Whiskies,0.13
+2449,Kings Country Distillery,Straight Bourbon Whiskies,0.2
+2450,SUTTER HOME WINERY INC / Trinchero Family Estates,Straight Bourbon Whiskies,0.2
+2451,Vision Wine & Spirit LLC,Straight Bourbon Whiskies,0.3
+2452,Levecke Corporation,American Cordials & Liqueur,0.06
+2453,AMERICAN SPIRITS EXCHANGE,American Cordials & Liqueur,0.08
+2454,IA-Native Spirits,American Cordials & Liqueur,0.09
+2455,"Worldwide Libations, LLC",Imported Cordials & Liqueurs,0.14
+2456,Paterno Imports LTD / Terlato Wines International,Imported Cordials & Liqueurs,0.32
+2457,"Caribbean Distillers, LLC",Temporary & Specialty Packages,0.04
+2458,S&B Farms Distillery,Temporary & Specialty Packages,0.09
+2459,Trinchero Family Estates,PUERTO RICO & VIRGIN ISLANDS RUM,0.17
+2460,Levecke Corp.,PUERTO RICO & VIRGIN ISLANDS RUM,0.05
+2461,Dehner Distillery,PUERTO RICO & VIRGIN ISLANDS RUM,0.29
+2462,Sazerac North America,MISC. AMERICAN CORDIALS & LIQUEURS,0.25
+2463,Seashore Marketing Group,MISC. IMPORTED CORDIALS & LIQUEURS,0.04
+2464,MINHAS MICRO DISTILLERY,Gold Rum,0.1
+2465,DIAGEO AMERICAS,Single Barrel Bourbon Whiskies,0.18
+2466,Luxco-Cleveland,ROCK & RYE,0.14
+2467,OLE SMOKY DISTILLERY LLC,American Distilled Spirits Specialty,0.09
+2468,Driftless Glen Distillery,Single Barrel Bourbon Whiskies,0.25
+2469,LEVECKE CORP,100 PROOF VODKA,0.25
+2470,Stillworks LLC,American Distilled Spirit Specialty,0.15
+2471,"American Heritage Distillers, LLC / Century Farms Distillery",Single Barrel Bourbon Whiskies,0.33
+2472,PERNOD RICARD USA,Holiday VAP,
+2473,Jim Beam Brands,JAPANESE WHISKY,0.26
+2474,Campari America,,0.29
+2475,Niche Import Co.,DISTILLED SPIRITS SPECIALTY,0.2
+2476,H A P LLC,Special Order Items,0.13
+2477,Koval Distillery,SINGLE BARREL BOURBON WHISKIES,0.16
+2478,Pernod Ricard USA/Austin Nichols,MISCELLANEOUS SCHNAPPS,0.22
+2479,SAZERAC COMPANY  INC,Corn Whiskies,0.05
+2480,Luxco-St Louis,BARBADOS RUM,0.31
+2481,Niche Import Co.,IMPORTED DRY GINS,0.16
+2482,"Belmont Farms Of Va., Inc",DISTILLED SPIRITS SPECIALTY,0.1
+2483,WhistlePig LLC,CORN WHISKIES,0.25
+2484,KOLOA RUM COMPANY,Special Order Items,0.25
+2485,Pernod Ricard USA/Austin Nichols,AMERICAN AMARETTO,0.2
+2486,KOLOA RUM COMPANY,,0.3
+2487,"William Grant and Sons, Inc.",JAMAICA RUM,0.1
+2488,"Charles Jacquin Et. Cie., Inc.",CHERRY BRANDIES,0.06
+2489,"Charles Jacquin Et. Cie., Inc.",PEACH BRANDIES,0.16
+2490,Proximo,100 PROOF VODKA,0.04
+2491,Laird & Company,,0.08
+2492,MHW Ltd,RASPBERRY SCHNAPPS,0.1
+2493,TY KU LLC,Special Order Items,0.17
+2494,IMPERIAL BRANDS INC,Imported Distilled Spirit Specialty,0.24
+2495,45th Parallel Spirits,,0.18
+2496,"Sazerac Co., Inc.",IRISH WHISKIES,0.22
+2497,Impex Beverages Inc,IRISH WHISKIES,0.07
+2498,Shaw Ross International Importers LL,IMPORTED DRY GINS,0.24
+2499,VINO COM LLC,Single Malt Scotch,0.26
+2500,Clear Creek Distillery,APRICOT BRANDIES,0.22
+2501,Purple Valley Imports,Imported Distilled Spirits Specialty,0.03
+2502,Best Case Wines LLC,,0.32
+2503,Broadslab Distillery,DISTILLED SPIRITS SPECIALTY,0.15
+2504,NORTH SHORE DISTILLERY,American Vodka,0.25
+2505,Levecke Corporation,,0.16
+2506,Hemingway Rum Company LLC,Gold Rum,0.05
+2507,"High West Distillery, LLC",STRAIGHT RYE WHISKIES,0.24
+2508,Patron Spirits Company,Imported Vodka,0.12
+2509,Anchor Distilling (PREISS IMPORTS),JAMAICA RUM,0.24
+2510,Mccormick Distilling Company,,0.33
+2511,Charbay Distillers LLC,Special Order Items,0.14
+2512,Park Street Imports-Berentzen,,0.11
+2513,"Cowboy Country Distilling, Inc.",Aged Dark Rum,0.17
+2514,Pernod Ricard USA/Austin Nichols,WHITE CREME DE MENTHE,0.29
+2515,Doc Herson's Natural Spirits,,0.08
+2516,"Sagamore Whiskey, LLC",Straight Rye Whiskies,0.12
+2517,Shaw-Ross International,Flavored Gin,0.25
+2518,S&B Farms Distillery,,0.27
+2519,Copper & Kings American Brandy Company,American Distilled Spirit Specialty,0.17
+2520,SAZERAC COMPANY  INC,Imported Vodka,0.28
+2521,Prestige Wine & Spirits Group / United States Distilled Products Co,Imported Cordials & Liqueur,0.13
+2522,Castle Brands,Single Malt Scotch,0.31
+2523,Paterno Imports LTD / Terlato Wines International,Gold Rum,0.31
+2524,Domaine Select,Gold Rum,0.13
+2525,Mile High Spirits LLC,Single Barrel Bourbon Whiskies,0.22
+2526,OLE SMOKY DISTILLERY LLC,Corn Whiskies,0.22
+2527,Phillips Beverage,Gold Rum,0.31
+2528,TY KU LLC,Imported Cordials & Liqueur,0.23
+2529,HPSepicurean LLC / Preiss Imports,Special Order Items,0.09
+2530,MISSISSIPPI RIVER DISTIL,Iowa Distillery Whiskies,0.57
+2531,PERNOD RICARD USA,Imported Distilled Spirits Specialty,0.01
+2532,Aha Toro Spirits Inc,TEQUILA,0.19
+2533,Haas Brothers,TEQUILA,0.33
+2534,Casa 1921 LLC,TEQUILA,0.15
+2535,KOLOA RUM COMPANY,Spiced Rum,0.22
+2536,Prestige Wine and Spirits Group,FLAVORED RUM,0.04
+2537,Caribbean Spirits Inc,FLAVORED RUM,0.24
+2538,Modern Spirits,FLAVORED RUM,0.3
+2539,Anchor Distilling (PREISS IMPORTS),FLAVORED RUM,0.21
+2540,Sugarlands Distilling Company LLC,Flavored Rum,0.18
+2541,KOLOA RUM COMPANY,Flavored Rum,0.22
+2542,United Spirits Inc,Mixto Tequila,0.23
+2543,Demerara Distillers (USA) Inc.,Cream Liqueurs,0.08
+2544,Anheuser-Busch/Longtail Libations,IMPORTED VODKA,0.1
+2545,Bmc Imports,IMPORTED VODKA,0.26
+2546,DIAGEO AMERICAS,Irish Whiskies,0.26
+2547,WILSON DANIELS LTD,Irish Whiskies,0.0
+2548,Square One Organic Spirits,VODKA 80 PROOF,0.33
+2549,Breckenridge Distillery,VODKA 80 PROOF,0.26
+2550,"Imperial Brands, Inc.",VODKA FLAVORED,0.09
+2551,ST GEORGE SPIRITS INC,American Vodkas,0.06
+2552,Oregon Brewing Co,American Vodkas,0.18
+2553,St. Louis Distillery LLC,American Vodkas,0.24
+2554,"Winebow, Inc.",SCOTCH WHISKIES,0.18
+2555,Sidney Frank Importing Co.,SCOTCH WHISKIES,0.31
+2556,Luxco-Cleveland,WHISKEY LIQUEUR,0.26
+2557,"Chatham Imports,inc",BLENDED WHISKIES,0.24
+2558,"Seven Jars Distillery, LLC",Blended Whiskies,0.19
+2559,Park Street Imports-Few Spirits,AMERICAN DRY GINS,0.04
+2560,Dry Fly Distilling,AMERICAN DRY GINS,0.22
+2561,Ransom Spirits LLC,AMERICAN DRY GINS,0.1
+2562,Hood River Distillers,American Brandies,0.07
+2563,Maverick Spirit LLC,American Dry Gins,0.26
+2564,"Cowboy Country Distilling, Inc.",American Dry Gins,0.31
+2565,Kobrand Corp,Imported Brandies,0.08
+2566,Niche Import Co,Imported Brandies,0.09
+2567,SAZERAC NORTH AMERICA,Imported Brandies,0.07
+2568,HAAS BROTHERS,100% Agave Tequila,0.3
+2569,AMERICAN SPIRITS EXCHANGE,100% Agave Tequila,0.04
+2570,Castle Brands,AMERICAN COCKTAILS,0.09
+2571,Campari(skyy),PEPPERMINT SCHNAPPS,0.33
+2572,Clear Creek Distillery,AMERICAN GRAPE BRANDIES,0.03
+2573,Mhw LTD,American Flavored Vodka,0.24
+2574,Vision Wine & Spirit LLC,American Flavored Vodka,0.1
+2575,CVI Brands,STRAIGHT BOURBON WHISKIES,0.08
+2576,Black Dirt Distillery,Straight Bourbon Whiskies,0.15
+2577,Rock Town Distillery,Straight Bourbon Whiskies,0.1
+2578,Filibuster Barrels LLC,Straight Bourbon Whiskies,0.15
+2579,Van Brunt Stillhouse,Straight Bourbon Whiskies,0.19
+2580,Red Boot Distillery,Straight Bourbon Whiskies,0.14
+2581,"Cowboy Country Distilling, Inc.",American Cordials & Liqueur,0.2
+2582,MS WALKER INC,American Cordials & Liqueur,0.19
+2583,Stoller Warehouse,American Cordials & Liqueur,0.2
+2584,Old Elk Distilleries LLC,American Cordials & Liqueur,0.14
+2585,Grand Prix Beverage LLC,Imported Cordials & Liqueurs,0.3
+2586,Rocky Top Investments / Rock River Distillation,Temporary & Specialty Packages,0.09
+2587,"William Grant and Sons, Inc.",PUERTO RICO & VIRGIN ISLANDS RUM,0.26
+2588,Itsko Imports Inc,PUERTO RICO & VIRGIN ISLANDS RUM,0.24
+2589,Park Street Imports-House Spirits,PUERTO RICO & VIRGIN ISLANDS RUM,0.09
+2590,Park Street Imports-Sweet Revenge,PUERTO RICO & VIRGIN ISLANDS RUM,0.18
+2591,Proximo,PUERTO RICO & VIRGIN ISLANDS RUM,0.28
+2592,Brown-Forman Corporation,MISC. AMERICAN CORDIALS & LIQUEURS,0.25
+2593,Domaine Select Wine Estates,MISC. IMPORTED CORDIALS & LIQUEURS,0.19
+2594,Lonely Oak Distillery,Iowa Distillery Whiskies,0.29
+2595,"Foundry Distilling Company, LLC",American Whiskies,0.13
+2596,RUSSIAN STANDARD VODKA,Imported Vodka,0.0
+2597,Niche Import Co.,AMERICAN AMARETTO,0.15
+2598,MISSISSIPPI RIVER DISTIL,Delisted Items,0.69
+2599,SERRALLES USA,,0.27
+2600,Vision Wine and Spirits,,0.15
+2601,IMPERIAL BRANDS INC,Imported Cordials & Liqueur,0.13
+2602,Castle Brands,STRAIGHT RYE WHISKIES,0.08
+2603,"Charles Jacquin Et. Cie., Inc.",MISCELLANEOUS  BRANDIES,0.08
+2604,Purple Valley Imports,Aged Dark Rum,0.33
+2605,Royal Wine Corporation,,0.19
+2606,Grand Teton Distillery,,0.09
+2607,Levecke Corporation,Special Order Items,0.27
+2608,Pernod Ricard USA/Austin Nichols,MISCELLANEOUS  BRANDIES,0.29
+2609,San Bartolo Farms Inc.,Imported Cordials & Liqueur,0.23
+2610,Caffo Beverages Inc,Imported Cordials & Liqueur,0.21
+2611,Oregon Brewing Co,Aged Dark Rum,0.32
+2612,Trinchero Family Estates,,0.13
+2613,HAAS BROTHERS,,0.29
+2614,Castle Brands,IMPORTED AMARETTO,0.1
+2615,R�my Cointreau USA,IRISH WHISKIES,0.27
+2616,Anchor Distilling,SINGLE MALT SCOTCH,0.24
+2617,Edrington Group USA LLC,IRISH WHISKIES,0.04
+2618,Sidney Frank Importing Co.,,0.1
+2619,Purple Valley Imports,Single Malt Scotch,0.19
+2620,REMY COINTREAU USA         .,IRISH WHISKIES,0.25
+2621,Purple Valley Imports,Straight Rye Whiskies,0.12
+2622,Wild Agave Imports LLC,Special Order Items,0.31
+2623,Kings Country Distillery,Bottled in Bond Bourbon,0.31
+2624,Classic Wine Imports,IRISH WHISKIES,0.22
+2625,HOTALING & CO,Gold Rum,0.33
+2626,Proximo,SCHNAPPS - IMPORTED,0.19
+2627,Heaven Hill Brands,Imported Cordials & Liqueur,0.17
+2628,DUNKEL CORPORATION,American Vodka,0.01
+2629,PERNOD RICARD USA,Cocktails / RTD,0.0
+2630,PROST BEVERAGE COMPANY,American Distilled Spirits Specialty,0.32
+2631,DIAGEO AMERICAS,Delisted Items,0.0
+2632,Jim Beam Brands,Holiday VAP,
+2633,United Spirits Inc,Corn Whiskies,0.04
+2634,Park Street Imports-Few Spirits,STRAIGHT RYE WHISKIES,0.31
+2635,"Spirit Imports, Inc.",SINGLE MALT SCOTCH,0.16
+2636,Pacific Edge Wine & Spirits,SINGLE MALT SCOTCH,0.18
+2637,Phillips Beverage,Cocktails / RTD,0.0
+2638,45TH PARALLEL SPIRITS,Flavored Gin,0.23
+2639,Wildcat Products LLC,Corn Whiskies,0.1
+2640,Western Spirits Beverage Co. LLC,,0.15
+2641,"Global Beverage Team, LLC",Mezcal,0.04
+2642,SERRALLES USA,Aged Dark Rum,0.27
+2643,INTERNATIONAL TRADE ONE CORP,Gold Rum,0.18
+2644,Paterno Imports LTD / Terlato Wines International,,0.17
+2645,Mountain Laurel Spirits LLC,American Distilled Spirit Specialty,0.09
+2646,PROXIMO,Gold Rum,0.27
+2647,Levecke Corporation,American Distilled Spirit Specialty,0.15
+2648,McCormick Distilling Co.,American Cordials & Liqueurs,0.13
+2649,Shaw Ross International Importers LL,TEQUILA,0.17
+2650,Skyy Spirits Inc,White Rum,0.15
+2651,"Tattersall Companies, LLC",White Rum,0.32
+2652,Bom Dia Imports LLC,White Rum,0.11
+2653,Stoller Warehouse,Spiced Rum,0.22
+2654,HPSepicurean LLC / Preiss Imports,Flavored Rum,0.27
+2655,Red Boot Distillery,Mixto Tequila,0.19
+2656,"Biagio Cru And Estate Wines, LLC",CREAM LIQUEURS,0.22
+2657,Dakota Spirits Distillery,VODKA 80 PROOF,0.21
+2658,United Spirits Inc,American Vodkas,0.07
+2659,"Spirit Imports, Inc.",SCOTCH WHISKIES,0.17
+2660,"Paterno Imports, Ltd.",SCOTCH WHISKIES,0.28
+2661,YAHARA BAY DISTILLERS INC,Scotch Whiskies,0.02
+2662,United Spirits Inc,Whiskey Liqueur,0.03
+2663,FRANK LIN DISTILLERS PRO,Blended Whiskies,0.12
+2664,Middle West Spirits,Blended Whiskies,0.08
+2665,ST GEORGE SPIRITS INC,Blended Whiskies,0.24
+2666,Park Street Imports-Philadelphia Dis,AMERICAN DRY GINS,0.17
+2667,Prestige Wine & Spirits Group / United States Distilled Products Co,American Schnapps,0.3
+2668,Prestige Wine & Spirits Group,American Schnapps,0.07
+2669,SAZERAC COMPANY  INC,Imported Brandies,0.27
+2670,Macchu Pisco LLC,Imported Brandies,0.08
+2671,Campari America,Imported Dry Gins,0.16
+2672,Brown Forman Corp.,Imported Dry Gins,0.13
+2673,Paterno Imports LTD / Terlato Wines International,Imported Dry Gins,0.26
+2674,Tierra Madre LLC,100% Agave Tequila,0.08
+2675,Charbay Distillers LLC,100% Agave Tequila,0.32
+2676,Benchmark Beverage Company LLC,100% Agave Tequila,0.31
+2677,Aveniu Brands,TENNESSEE WHISKIES,0.32
+2678,Mach Flynt Inc.,Tennessee Whiskies,0.26
+2679,Minhas Micro Distillery,AMERICAN GRAPE BRANDIES,0.44
+2680,Prestige Wine & Spirits Group / United States Distilled Products Co,American Flavored Vodka,0.15
+2681,Local Choice Inc,American Flavored Vodka,0.19
+2682,MHW Ltd,STRAIGHT BOURBON WHISKIES,0.2
+2683,"St. George Spirit, Inc",STRAIGHT BOURBON WHISKIES,0.06
+2684,PERNOD RICARD USA,American Cordials & Liqueur,0.04
+2685,DEHNER DISTILLERY,Temporary & Specialty Packages,0.18
+2686,"Mast-Jaegermeister US, Inc",Temporary & Specialty Packages,0.0
+2687,Levecke Corp,PUERTO RICO & VIRGIN ISLANDS RUM,0.33
+2688,"Moet Hennessy USA, Inc.",PUERTO RICO & VIRGIN ISLANDS RUM,0.11
+2689,Gemini Spirits,MISC. AMERICAN CORDIALS & LIQUEURS,0.3
+2690,Surville Enterprises Corp,MISC. IMPORTED CORDIALS & LIQUEURS,0.13
+2691,"Winebow, Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.18
+2692,"Cedar Ridge Vineyards,LLC",SINGLE MALT SCOTCH,0.12
+2693,PERNOD RICARD USA,American Cordials & Liqueurs,0.29
+2694,"Bucktown Distilling Co., LLC / Artisan Grain Distillery",Straight Rye Whiskies,0.09
+2695,"Bucktown Distilling Co., LLC / Artisan Grain Distillery",Gold Rum,0.31
+2696,Prestige Wine and Spirits Group,DISTILLED SPIRITS SPECIALTY,0.18
+2697,CARRIAGE HOUSE IMPORTS,Imported Cordials & Liqueur,0.08
+2698,Serralles USA,JAMAICA RUM,0.31
+2699,Marsalle Company,STRAIGHT RYE WHISKIES,0.09
+2700,Rogue Ales and Spirits,,0.12
+2701,Traverse City Whiskey Co,Straight Rye Whiskies,0.2
+2702,Vodquila LLC,DISTILLED SPIRITS SPECIALTY,0.13
+2703,Anchor Distilling,,0.26
+2704,Swiss Cellars,IRISH WHISKIES,0.23
+2705,HOTALING & CO,Straight Rye Whiskies,0.27
+2706,"Pennsylvania Pure Distilleries, LLC",Special Order Items,0.27
+2707,McCormick Distilling Co.,Delisted Items,0.0
+2708,Park Street Imports,American Vodka,
+2709,Jim Beam Brands,WHITE CREME DE MENTHE,0.2
+2710,A V BRANDS INC,American Vodka,0.0
+2711,SAZERAC NORTH AMERICA,Imported Distilled Spirits Specialty,0.22
+2712,YAHARA BAY DISTILLERS INC,American Cordials & Liqueurs,0.18
+2713,Pernod Ricard USA/Austin Nichols,CREME DE ALMOND,0.16
+2714,Mhw LTD,Single Barrel Bourbon Whiskies,0.16
+2715,Anchor Distilling (PREISS IMPORTS),STRAIGHT RYE WHISKIES,0.17
+2716,CVI Brands / California Vineyards Inc,Straight Rye Whiskies,0.14
+2717,HAAS BROTHERS,Mezcal,0.13
+2718,Glass Revolution Imports,Single Malt Scotch,0.31
+2719,Mhw LTD,American Sloe Gins,0.21
+2720,MS WALKER INC,Gold Rum,0.18
+2721,Paterno Imports LTD / Terlato Wines International,Imported Cordials & Liqueur,0.21
+2722,Anchor Distilling,TEQUILA,0.05
+2723,Spirits Of The USA,TEQUILA,0.05
+2724,HOTALING & CO,White Rum,0.23
+2725,Levecke Corporation,Spiced Rum,0.33
+2726,"Drum Circle Distilling, LLC",Spiced Rum,0.25
+2727,Domaine Charbay,VODKA 80 PROOF,0.05
+2728,Modern Spirits,VODKA 80 PROOF,0.03
+2729,"Boffo Brands, LLC",VODKA FLAVORED,0.13
+2730,Pernod Ricard USA/Austin Nichols,VODKA FLAVORED,0.08
+2731,Churchill Vineyards,American Vodkas,0.1
+2732,CARRIAGE HOUSE IMPORTS,Imported Vodkas,0.29
+2733,PACIFIC EDGE WINE & SPIRITS,Scotch Whiskies,0.12
+2734,High West Distillery,BLENDED WHISKIES,0.33
+2735,Anchor Distilling,AMERICAN DRY GINS,0.28
+2736,YAHARA BAY DISTILLERS INC,American Dry Gins,0.06
+2737,"William Grant and Sons, Inc.",CANADIAN WHISKIES,0.25
+2738,Laird And Company,CANADIAN WHISKIES,0.15
+2739,Purple Valley Imports,Canadian Whiskies,0.05
+2740,US Stone Castle Imports LLC,Imported Brandies,0.27
+2741,Purple Valley Imports,Imported Dry Gins,0.15
+2742,Highclere Castle Spirits,Imported Dry Gins,0.05
+2743,SUTTER HOME WINERY INC / Trinchero Family Estates,100% Agave Tequila,0.16
+2744,Mccormick Distilling Company,AMERICAN COCKTAILS,0.19
+2745,"Cedar Ridge Vineyards,LLC",TENNESSEE WHISKIES,0.18
+2746,Prairie Creek Beverages LLC,Tennessee Whiskies,0.3
+2747,Tenn South Distillery / Big Machine Distillery,Tennessee Whiskies,0.14
+2748,Mccormick Distilling Company,PEPPERMINT SCHNAPPS,0.2
+2749,"Sion Farm Distillery / Twin City Island Spirits, Inc",American Flavored Vodka,0.17
+2750,The Country Vintner,STRAIGHT BOURBON WHISKIES,0.15
+2751,Trinchero Family Estates,STRAIGHT BOURBON WHISKIES,0.22
+2752,McCormick Distilling Co.,Straight Bourbon Whiskies,0.14
+2753,Coup de Foudre LLC,Straight Bourbon Whiskies,0.33
+2754,Boot Hill Distillery LLC,Straight Bourbon Whiskies,0.16
+2755,KOVAL DISTILLERY,American Cordials & Liqueur,0.16
+2756,Total Beverage Solutions,PUERTO RICO & VIRGIN ISLANDS RUM,0.26
+2757,Western Spirits Beverage Co. LLC,MISC. AMERICAN CORDIALS & LIQUEURS,0.05
+2758,Temperance Distiling Company,MISC. AMERICAN CORDIALS & LIQUEURS,0.21
+2759,CEDAR RIDGE VINEYARDS LL,Corn Whiskies,0.24
+2760,Old Elk Distilleries LLC,Straight Rye Whiskies,0.18
+2761,DISARONNO INTERNATIONAL,Imported Cordials & Liqueur,0.24
+2762,"Bacardi U.S.A., Inc.",IRISH WHISKIES,0.25
+2763,William Grant & Sons Inc,Flavored Gin,0.13
+2764,REMY COINTREAU USA         .,SINGLE MALT SCOTCH,0.05
+2765,"W. J. Deutsch And Sons, Ltd.",BARBADOS RUM,0.17
+2766,Anchor Distilling (PREISS IMPORTS),HIGH PROOF BEER - AMERICAN,0.32
+2767,Edrington Group USA LLC,JAMAICA RUM,0.2
+2768,Laird And Company,AMERICAN AMARETTO,0.24
+2769,Castle Brands,Gold Rum,0.1
+2770,Pacific Edge Wine and Spirits,,0.3
+2771,Brown-Forman Corporation,STRAIGHT RYE WHISKIES,0.25
+2772,"Sazerac Co., Inc.",JAMAICA RUM,0.1
+2773,"Speakeasy Spirits, LLC",DISTILLED SPIRITS SPECIALTY,0.04
+2774,SQUARE ONE ORGANIC SPIRITS,Special Order Items,0.07
+2775,Gemini Spirits,JAPANESE WHISKY,0.23
+2776,Brown Forman Corp.,Holiday VAP,
+2777,BROADBENT VENTURES LLC,American Cordials & Liqueurs,0.49
+2778,WhistlePig,Straight Rye Whiskies,
+2779,"Yahara Bay Distillers, Inc",APRICOT BRANDIES,0.12
+2780,PACIFIC EDGE WINE & SPIRITS,Mezcal,0.05
+2781,COOPER SPIRITS INTERNATIONAL,Imported Cordials & Liqueur,0.16
+2782,"Worldwide Libations, LLC",Special Order Items,0.28
+2783,Prichards Distillery Inc,Special Order Items,0.13
+2784,Hood River Distillers,Single Malt Scotch,0.33
+2785,HOTALING & CO,Imported Vodka,0.32
+2786,"Tequilas Premium, Inc",Special Order Items,0.25
+2787,Glass Revolution Imports,Aged Dark Rum,0.31
+2788,MODERN SPIRIT LLC / Greenbar Distillery,Special Order Items,0.31
+2789,PROXIMO,White Rum,0.29
+2790,Park Street Imports-Voli,IMPORTED VODKA,0.13
+2791,Campari(skyy),IMPORTED VODKA,0.11
+2792,"USA Wine West, LLC",Irish Whiskies,0.26
+2793,HPSepicurean LLC / Preiss Imports,Irish Whiskies,0.04
+2794,Dry Fly Distilling,VODKA 80 PROOF,0.27
+2795,RS Lipman Company LLC,BLENDED WHISKIES,0.2
+2796,"St. George Spirit, Inc",AMERICAN DRY GINS,0.17
+2797,United Spirits Inc,American Dry Gins,0.31
+2798,Caffo Beverages Inc,Imported Brandies,0.1
+2799,Wilderness Trail Distillery,Straight Bourbon Whiskies,0.21
+2800,3 BADGE MIXOLOGY,Straight Bourbon Whiskies,0.0
+2801,Chuckanut Bay Distillery,Straight Bourbon Whiskies,0.17
+2802,Phillips Beverage,Straight Bourbon Whiskies,0.14
+2803,Paterno Imports LTD,Imported Cordials & Liqueurs,0.22
+2804,LEVECKE CORP,PUERTO RICO & VIRGIN ISLANDS RUM,0.29
+2805,Duggan's Distillers Products Corp,PUERTO RICO & VIRGIN ISLANDS RUM,0.07
+2806,Park Street Imports,PUERTO RICO & VIRGIN ISLANDS RUM,0.16
+2807,"Foundry Distilling Company, LLC",,0.11
+2808,Piedmont Distillers,AMERICAN ALCOHOL,0.08
+2809,RJ Importers LLC,Aged Dark Rum,0.12
+2810,Flemish Lion LLC,Imported Distilled Spirit Specialty,0.2
+2811,Levecke Corporation,American Vodka,0.1
+2812,BENDISTILLERY,Special Order Items,0.16
+2813,The Wine Group,IRISH WHISKIES,0.11
+2814,MHW Ltd,IRISH WHISKIES,0.26
+2815,"TY KU, LLC",,0.06
+2816,Duggan's Distillers Products Corp,MISCELLANEOUS  BRANDIES,0.2
+2817,A HARDY USA LTD,Special Order Items,0.29
+2818,DEHNER DISTILLERY,Imported Vodka,0.76
+2819,Pernod Ricard USA/Austin Nichols,APPLE SCHNAPPS,0.29
+2820,MHW Ltd,BUTTERSCOTCH SCHNAPPS,0.26
+2821,Fredrick Wildman & Son,Imported Distilled Spirit Specialty,0.11
+2822,MARSALLE COMPANY,Imported Cordials & Liqueur,0.67
+2823,Kings Country Distillery,,0.28
+2824,Jim Beam Brands,Flavored Gin,0.09
+2825,Mara Imports,Imported Distilled Spirit Specialty,0.04
+2826,Vino.com dba Total Beverage Solution,Gold Rum,0.12
+2827,Patron Spirits Company,,0.29
+2828,SUTTER HOME WINERY INC,White Rum,0.29
+2829,Gemini Spirits,Irish Whiskies,0.26
+2830,The Country Vintner,VODKA 80 PROOF,0.22
+2831,Mutual Wholesale Liquor Inc,Imported Vodkas,0.31
+2832,"Black Sea Imports, Inc",Imported Vodkas,0.11
+2833,Campari(skyy),SCOTCH WHISKIES,0.13
+2834,Shand Import LLC,Scotch Whiskies,0.05
+2835,Prichards Distillery Inc,Whiskey Liqueur,0.15
+2836,Leatherbee Distillers,AMERICAN DRY GINS,0.13
+2837,American Spirits Exchange,AMERICAN DRY GINS,0.06
+2838,"San Luis Spirits, Inc.",American Dry Gins,0.2
+2839,JEM Beverage Company,American Dry Gins,0.14
+2840,SERRALLES USA,American Schnapps,0.19
+2841,Classic Wine Imports,IMPORTED DRY GINS,0.21
+2842,Levecke Corporation,Imported Brandies,0.24
+2843,"Yahara Bay Distillers, Inc",TENNESSEE WHISKIES,0.21
+2844,MHW Ltd,PEPPERMINT SCHNAPPS,0.22
+2845,Sidney Frank Importing Co.,IMPORTED GRAPE BRANDIES,0.05
+2846,Middle West Spirits,Straight Bourbon Whiskies,0.06
+2847,DC Beverage LLC,Straight Bourbon Whiskies,0.07
+2848,Jim Beam Brands,AMERICAN SLOE GINS,0.09
+2849,"W. J. Deutsch And Sons, Ltd.",DISTILLED SPIRITS SPECIALTY,0.23
+2850,"Palm Bay Imports, Inc.",JAPANESE WHISKY,0.28
+2851,Vision Wine & Spirit LLC,Imported Cordials & Liqueur,0.07
+2852,SAZERAC COMPANY  INC,Holiday VAP,
+2853,MISSISSIPPI RIVER DISTIL,American Distilled Spirits Specialty,0.71
+2854,Pernod Ricard USA/Austin Nichols,RASPBERRY SCHNAPPS,0.09
+2855,United Spirits Inc,Gold Rum,0.13
+2856,VBJ Beverages LLC,American Cordials & Liqueurs,0.0
+2857,CVI Brands,Straight Rye Whiskies,0.05
+2858,"Sagamore Whiskey, LLC",American Distilled Spirit Specialty,0.07
+2859,Gargoyle Enterprises / Laws Whiskey House,Bottled in Bond Bourbon,0.23
+2860,CONSTELLATION BRANDS INC,Delisted Items,0.0
+2861,PACIFIC EDGE WINE & SPIRITS,Flavored Rum,0.14
+2862,WERNER DISTILLING,Flavored Rum,0.2
+2863,Headframe Spirits,Cream Liqueurs,0.12
+2864,A HARDY USA LTD,Irish Whiskies,0.2
+2865,Campari,VODKA FLAVORED,0.2
+2866,CHATHAM IMPORTS INC,American Vodkas,0.15
+2867,KLIN SPIRITS,Imported Vodkas,0.13
+2868,Levecke Corporation,Whiskey Liqueur,0.09
+2869,PALM BAY INTERNATIONAL,Blended Whiskies,0.04
+2870,YAHARA BAY DISTILLERS INC,Imported Brandies,0.18
+2871,Purple Valley Imports / Glass Revolution Imports,Imported Dry Gins,0.26
+2872,SUTTER HOME WINERY INC,100% Agave Tequila,0.15
+2873,Stoller Warehouse,100% Agave Tequila,0.22
+2874,Bendistillery,IMPORTED VODKA - MISC,0.13
+2875,Copper & Kings American Brandy Company,American Cordials & Liqueur,0.18
+2876,Anchor Distilling,MISC. AMERICAN CORDIALS & LIQUEURS,0.31
+2877,3 Badge Mixology,CORN WHISKIES,0.12
+2878,Keepers Quest Inc,Straight Rye Whiskies,0.28
+2879,CEDAR RIDGE VINEYARDS LL,Bottled in Bond Bourbon,0.32
+2880,"Foundry Distilling Company, LLC",Single Barrel Bourbon Whiskies,0.09
+2881,Reservoir Distillery,American Distilled Spirit Specialty,0.2
+2882,Ransom Spirits LLC,Straight Rye Whiskies,0.07
+2883,"St. George Spirit, Inc",,0.04
+2884,Pacific Edge Wine and Spirits,SINGLE MALT SCOTCH,0.29
+2885,Dry Fly Distilling,,0.28
+2886,"Puente International, Inc.",Mezcal,0.09
+2887,Red Boot Distillery,Straight Rye Whiskies,0.3
+2888,PROST BEVERAGE COMPANY,,0.12
+2889,"Sazerac Co., Inc.",SCHNAPPS - IMPORTED,0.16
+2890,STOLLER IMPORTS INC / MARSALLE COMPANY,Special Order Items,0.16
+2891,Mountain Laurel Spirits LLC,Straight Rye Whiskies,0.22
+2892,Middle West Spirits,Straight Rye Whiskies,0.05
+2893,Campari America,American Cordials & Liqueurs,0.11
+2894,PALM BAY INTERNATIONAL,Single Barrel Bourbon Whiskies,0.12
+2895,Prichards Distillery Inc,American Distilled Spirit Specialty,0.23
+2896,Baron Nahmias Inc,Corn Whiskies,0.24
+2897,Fredrick Wildman & Son,Flavored Gin,0.23
+2898,PALM BAY INTERNATIONAL,Triple Sec,0.27
+2899,Tanteo Tequila,TEQUILA,0.13
+2900,Surville Enterprises Corp,TEQUILA,0.22
+2901,Domaine Charbay,TEQUILA,0.08
+2902,BRECKENRIDGE DISTILLERY,Spiced Rum,0.07
+2903,A V BRANDS INC,Flavored Rum,0.28
+2904,Surville Enterprises Corp,CREAM LIQUEURS,0.17
+2905,"San Luis Spirits, Inc.",VODKA 80 PROOF,0.05
+2906,Woody Creek Distillers,VODKA 80 PROOF,0.13
+2907,Drink Dogg Alcohol Imports,Imported Vodkas,0.33
+2908,"Marussia Beverages USA, Inc / Niche Import",Imported Vodkas,0.29
+2909,"Palm Bay Imports, Inc.",SCOTCH WHISKIES,0.21
+2910,Vision Wine & Spirit LLC,Whiskey Liqueur,0.13
+2911,Boot Hill Distillery LLC,Blended Whiskies,0.19
+2912,"Splinter Group Napa, LLC",Blended Whiskies,0.37
+2913,OLE SMOKY DISTILLERY LLC,Blended Whiskies,0.3
+2914,Heavenly Spirits LLC,Blended Whiskies,0.0
+2915,BuzzBox Beverages,AMERICAN COCKTAILS,0.12
+2916,CHATHAM IMPORTS INC,American Cordials & Liqueur,0.24
+2917,"Yahara Bay Distillers, Inc",PUERTO RICO & VIRGIN ISLANDS RUM,0.33
+2918,"Whyte and Machay(Americas) Limited,L",MISC. AMERICAN CORDIALS & LIQUEURS,0.08
+2919,Templeton Distilling LLC,American Distilled Spirit Specialty,0.29
+2920,Lonely Oak Distillery,,0.05
+2921,VINO COM LLC,Aged Dark Rum,0.16
+2922,The House of Burgundy Inc,Imported Distilled Spirit Specialty,0.21
+2923,One Eight Distilling LLC,Straight Rye Whiskies,0.29
+2924,"Topa Spirits, LLC",,0.09
+2925,10th Mountain Whiskey & Spirit Company,Corn Whiskies,0.11
+2926,Surville Enterprises Corp,DISTILLED SPIRITS SPECIALTY,0.32
+2927,Park Street-G'Day,,0.18
+2928,Pittsburgh Distilling Company LLC,American Distilled Spirit Specialty,0.11
+2929,Park Street Imports-High Stick Vodka,,0.23
+2930,McCormick Distilling Co.,Holiday VAP,
+2931,Skyy Spirits Inc,Holiday VAP,
+2932,"Sidney Frank Importing Company, Inc.",Holiday VAP,0.73
+2933,Mhw LTD,Holiday VAP,0.82
+2934,WESTERN SPIRITS BEVERAGE,Temporary &  Specialty Packages,0.22
+2935,Sazerac North America,WATERMELON SCHNAPPS,0.25
+2936,Hawaii Sea Spirits LLC,American Vodka,0.44
+2937,PROST BEVERAGE COMPANY,Single Barrel Bourbon Whiskies,0.08
+2938,Richland Distilling Company LLC,Aged Dark Rum,0.05
+2939,Phillips Beverage,Mezcal,0.26
+2940,Shaw-Ross International,White Rum,0.21
+2941,United Spirits Inc,White Rum,0.23
+2942,Park Street Imports,Spiced Rum,0.24
+2943,Phillips Beverage Company,FLAVORED RUM,0.04
+2944,Koloa Rum Company,FLAVORED RUM,0.23
+2945,Callisto Spirits Company,Flavored Rum,0.2
+2946,"Adamba Imports Int'l, Inc.",IMPORTED VODKA,0.06
+2947,PACIFIC EDGE WINE & SPIRITS,Irish Whiskies,0.18
+2948,Middle West Spirits,American Vodkas,0.2
+2949,Luxco-Cleveland,SCOTCH WHISKIES,0.17
+2950,SUTTER HOME WINERY INC / Trinchero Family Estates,Blended Whiskies,0.13
+2951,Churchill Vineyards,American Dry Gins,0.13
+2952,"Vintage Wine Estates, INC",American Dry Gins,0.27
+2953,"Paterno Imports, Ltd.",IMPORTED DRY GINS,0.17
+2954,CLASSIC WINE IMPORTS,Imported Brandies,0.73
+2955,PALM BAY INTERNATIONAL,Imported Brandies,0.17
+2956,Vino.com dba Total Beverage Solution,Imported Brandies,0.24
+2957,"William Grant and Sons, Inc.",STRAIGHT BOURBON WHISKIES,0.05
+2958,Stoller Warehouse,Temporary & Specialty Packages,0.23
+2959,PROXIMO,Delisted Items,0.0
+2960,Iowa Distilling Company,CORN WHISKIES,0.19
+2961,Barrel House Distilling Co.,DISTILLED SPIRITS SPECIALTY,0.28
+2962,"Sazerac Co., Inc.",OTHER PROOF VODKA,0.27
+2963,Serralles USA,TRIPLE SEC,0.25
+2964,"Boffo Brands, LLC",,0.04
+2965,"A Hardy / U.S.A., Ltd.",IRISH WHISKIES,0.15
+2966,Anchor Distilling,IMPORTED DRY GINS,0.24
+2967,SAZERAC NORTH AMERICA,Imported Cordials & Liqueur,0.24
+2968,SAZERAC COMPANY  INC,Imported Distilled Spirits Specialty,
+2969,Shand Import LLC,Flavored Gin,0.24
+2970,Levecke Corporation,Coffee Liqueurs,0.2
+2971,Anchor Distilling,STRAIGHT RYE WHISKIES,0.12
+2972,Allegheny Distilling LLC,Aged Dark Rum,0.25
+2973,HAAS BROTHERS,Aged Dark Rum,0.18
+2974,Infinium Spirits,Flavored Gin,0.22
+2975,Luxe Vintages LLC,Aged Dark Rum,0.05
+2976,Trinity River Distillery LLC,Corn Whiskies,0.33
+2977,RUSSIAN STANDARD VODKA,Imported Cordials & Liqueur,0.25
+2978,Mhw LTD,Single Malt Scotch,0.21
+2979,Vital Beverages,TEQUILA,0.17
+2980,A HARDY USA LTD,American Vodkas,0.08
+2981,Caledonia Spirits,American Vodkas,0.08
+2982,VINO COM LLC,Scotch Whiskies,0.12
+2983,Park Street Imports,Whiskey Liqueur,0.14
+2984,Dakota Spirits Distillery,BLENDED WHISKIES,0.08
+2985,The Country Vintner,AMERICAN DRY GINS,0.19
+2986,PERNOD RICARD USA,American Brandies,0.26
+2987,Altamar Brands LLC,Imported Brandies,0.16
+2988,Winebow Inc,Imported Dry Gins,0.14
+2989,"Hood River Distillers, Inc.",PEPPERMINT SCHNAPPS,0.16
+2990,BRECKENRIDGE DISTILLERY,American Flavored Vodka,0.18
+2991,PALM BAY INTERNATIONAL,Straight Bourbon Whiskies,0.28
+2992,"Iconic Brands, Inc.",PUERTO RICO & VIRGIN ISLANDS RUM,0.08
+2993,Fire Tail Brands Llc,MISC. AMERICAN CORDIALS & LIQUEURS,0.25
+2994,Reservoir Distillery,Single Barrel Bourbon Whiskies,0.31
+2995,"North Shore Distillery, LLC.",100 PROOF VODKA,0.07
+2996,NORTH SHORE DISTILLERY,American Distilled Spirits Specialty,0.33
+2997,"Chatham Imports,inc",IRISH WHISKIES,0.22
+2998,Vision Wine and Spirits,IRISH WHISKIES,0.14
+2999,Phillips Beverage Company,AMERICAN AMARETTO,0.14
+3000,Pernod Ricard USA/Austin Nichols,BUTTERSCOTCH SCHNAPPS,0.14
+3001,Duggan's Distillers Products Corp,BOTTLED IN BOND BOURBON,0.33
+3002,HOTALING & CO,Flavored Gin,0.14
+3003,Hood River Distillers,American Cordials & Liqueurs,0.09
+3004,Paterno Imports LTD / Terlato Wines International,White Rum,0.3
+3005,Park Street Imports,SPICED RUM,0.11
+3006,SUTTER HOME WINERY INC / Trinchero Family Estates,Spiced Rum,0.29
+3007,Mhw LTD,Mixto Tequila,0.29
+3008,"Ti Beverage Group, Ltd",IMPORTED VODKA,0.08
+3009,BENDISTILLERY,American Vodkas,0.24
+3010,Boot Hill Distillery LLC,American Vodkas,0.21
+3011,Gemini Spirits,SCOTCH WHISKIES,0.17
+3012,Spirit of Hartford,CANADIAN WHISKIES,0.24
+3013,PERNOD RICARD USA,Canadian Whiskies,0.0
+3014,VINO COM LLC,Imported Dry Gins,0.25
+3015,VINO COM LLC,100% Agave Tequila,0.04
+3016,"North Shore Distillery, LLC.",PEPPERMINT SCHNAPPS,0.21
+3017,"Minglewood Distilling Company, LLC",Straight Bourbon Whiskies,0.15
+3018,PROST BEVERAGE COMPANY,Straight Bourbon Whiskies,0.2
+3019,Vino.com dba Total Beverage Solution,American Cordials & Liqueur,0.3
+3020,Stanley Stawski Distributing Co.,MISC. IMPORTED CORDIALS & LIQUEURS,0.17
+3021,"Nestor Imports, Inc.",MISC. IMPORTED CORDIALS & LIQUEURS,0.08
+3022,Caribbean Spirits Inc,Gold Rum,0.23
+3023,Prestige Wine and Spirits Group,PEACH SCHNAPPS,0.12
+3024,CHATHAM IMPORTS INC,Special Order Items,0.1
+3025,Clear Creek Distillery,SINGLE MALT SCOTCH,0.26
+3026,Luxco-Cleveland,WHITE CREME DE CACAO,0.16
+3027,Vin Divino Ltd,Imported Distilled Spirit Specialty,0.28
+3028,Grand Teton Distillery,Single Barrel Bourbon Whiskies,0.32
+3029,Mhw LTD,Aged Dark Rum,0.13
+3030,Shaw-Ross International,Straight Rye Whiskies,0.25
+3031,Middle West Spirits,Delisted / Special Order Items,0.13
+3032,Philly's Premium Beverages LLC,CREAM LIQUEURS,0.25
+3033,Bendistillery,VODKA 80 PROOF,0.18
+3034,Domaine Charbay,VODKA FLAVORED,0.2
+3035,BACARDI USA INC,American Vodkas,0.27
+3036,Vision Wine & Spirit LLC,American Vodkas,0.25
+3037,"USA Wine West, LLC",Blended Whiskies,0.2
+3038,Prestige Wine & Spirits Group / United States Distilled Products Co,American Brandies,0.19
+3039,"Elixir, Inc.",American Cordials & Liqueur,0.23
+3040,Liquor Group Wholesale,PUERTO RICO & VIRGIN ISLANDS RUM,0.28
+3041,Edrington Group USA LLC,PUERTO RICO & VIRGIN ISLANDS RUM,0.08
+3042,Keepers Quest Inc,Single Barrel Bourbon Whiskies,0.08
+3043,LUXCO INC,Single Barrel Bourbon Whiskies,0.15
+3044,A HARDY USA LTD,Aged Dark Rum,0.05
+3045,MHW Ltd,MISCELLANEOUS  BRANDIES,0.11
+3046,Brown-Forman Corporation,APRICOT BRANDIES,0.1
+3047,Lapham Import Co,JAMAICA RUM,0.19
+3048,"North Shore Distillery, LLC.",,0.23
+3049,Koval Distillery,100 PROOF VODKA,0.19
+3050,Anchor Distilling (PREISS IMPORTS),CORN WHISKIES,0.27
+3051,Kings Country Distillery,Corn Whiskies,0.08
+3052,Aiko Importers Inc,,0.1
+3053,DISARONNO INTERNATIONAL,Holiday VAP,
+3054,Gemini Spirits,Mezcal,0.58
+3055,"Cedar Ridge Vineyards,LLC",FLAVORED RUM,0.32
+3056,BACARDI USA INC,Mixto Tequila,0.84
+3057,SpeakEasy Spirits,Cream Liqueurs,0.07
+3058,HOTALING & CO,Blended Whiskies,0.32
+3059,Jim Beam Brands,IMPORTED SCHNAPPS,0.12
+3060,RUSSIAN STANDARD VODKA,Imported Brandies,0.29
+3061,Cutwater Spirits LLC,100% Agave Tequila,0.24
+3062,North Texas Distillery,AMERICAN COCKTAILS,0.26
+3063,Prestige Wine & Spirits Group,American Flavored Vodka,0.33
+3064,Bull Run Distillery LLC,Straight Bourbon Whiskies,0.18
+3065,DIAGEO AMERICAS,Spiced Rum,0.31
+3066,William Grant & Sons Inc,Spiced Rum,0.19
+3067,SAZERAC NORTH AMERICA,Spiced Rum,0.15
+3068,Heaven Hill Brands,Spiced Rum,0.32
+3069,PROXIMO,Spiced Rum,0.03
+3070,LUXCO INC,Spiced Rum,0.19
+3071,Phillips Beverage,Spiced Rum,0.2
+3072,BACARDI USA INC,Spiced Rum,0.14
+3073,Prestige Wine & Spirits Group / United States Distilled Products Co,Spiced Rum,0.07
+3074,MINHAS MICRO DISTILLERY,Spiced Rum,0.13
+3075,SAZERAC COMPANY  INC,Spiced Rum,0.27
+3076,Prestige Wine & Spirits Group,Spiced Rum,0.31
+3077,DEHNER DISTILLERY,Spiced Rum,0.26
+3078,JDSO INC / Red Boot Distillery,Spiced Rum,0.33
+3079,Levecke Corporation,Spiced Rum,0.31
+3080,STOLI GROUP,Spiced Rum,0.24
+3081,Jim Beam Brands,Spiced Rum,0.24
+3082,"John Ernest Distillery, Inc.",Spiced Rum,0.25
+3083,"Sovereign Brands, LLC",Spiced Rum,0.27
+3084,PARADISE DISTILLING COMPANY,Spiced Rum,0.14
+3085,Mhw LTD,Spiced Rum,0.03
+3086,STOLLER IMPORTS INC / MARSALLE COMPANY,Spiced Rum,0.25
+3087,Red Boot Distillery,Spiced Rum,0.19
+3088,"Drum Circle Distilling, LLC",Spiced Rum,0.06
+3089,MARSALLE COMPANY,Spiced Rum,0.33
+3090,SUTTER HOME WINERY INC,Spiced Rum,0.22
+3091,Allegheny Distilling LLC,Spiced Rum,0.06
+3092,KOLOA RUM COMPANY,Spiced Rum,0.2
+3093,Stoller Warehouse,Spiced Rum,0.05
+3094,BRECKENRIDGE DISTILLERY,Spiced Rum,0.25
+3095,Park Street Imports,Spiced Rum,0.19
+3096,SUTTER HOME WINERY INC / Trinchero Family Estates,Spiced Rum,0.15

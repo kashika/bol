@@ -1,0 +1,64 @@
+
+# Name your project! Project names should contain only lowercase characters
+# and underscores. A good package name should reflect your organization's
+# name or the intended use of these models
+name: 'bol'
+version: '1.0.0'
+config-version: 2
+
+# This setting configures which "profile" dbt uses for this project.
+profile: 'bol'
+
+# These configurations specify where dbt should look for different types of files.
+# The `model-paths` config, for example, states that models in this project can be
+# found in the "models/" directory. You probably won't need to change these!
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"  # directory which will store compiled SQL files
+clean-targets:         # directories to be removed by `dbt clean`
+  - "target"
+  - "dbt_packages"
+
+
+# Configuring models
+# Full documentation: https://docs.getdbt.com/docs/configuring-models
+
+# In this example config, we tell dbt to build all models in the example/ directory
+# as tables. These settings can be overridden in the individual model files
+# using the `{{ config(...) }}` macro.
+models:
+  bol:
+    # Config indicated by + and applies to all files under models/example/
+    example:
+      +materialized: view
+
+
+seeds:
+  bol:
+    +enabled: true
+    +schema: seed_data
+    
+    amsterdam_weather_data:
+      # Override column types
+      +column_types:
+        day_totalprecip_mm: float64
+        day_totalprecip_in: float64
+        day_avgvis_km: float64
+        day_avgvis_miles: float64
+        day_avghumidity: float64 
+        day_uv : float64
+        day_mintemp_f : float64
+
+    bolcom-analytics-case-orders:
+      # Override column types
+      +column_types:
+        orderQuantity : float64
+
+
+
+   
