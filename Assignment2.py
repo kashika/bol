@@ -53,7 +53,7 @@ except Exception as ex:
 if __name__ == '__main__':
     final_df = pd.DataFrame()
     while str(startDate) <= str(endDate):
-        # api link to fetch exchange rates
+        # api link to fetch weathr datas
         api_link = 'http://api.weatherapi.com/v1/history.json?key=8c644742fcb74af688d95601220601&q=Amsterdam&dt={date}'.format(date=str(startDate))
 
         # get the weather data from the api
